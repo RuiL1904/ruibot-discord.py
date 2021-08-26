@@ -6,8 +6,8 @@ I'm willing to add more commands and features to it in the future.
 ### Built With
 
 * [Python](https://www.python.org/)
-* [discord.py](https://discordpy.readthedocs.io/en/stable/index.html)
-* [python-dotenv](https://pypi.org/project/python-dotenv/)
+  * [discord.py](https://discordpy.readthedocs.io/en/stable/index.html)
+  * [python-dotenv](https://pypi.org/project/python-dotenv/)
 * [JSON](https://www.json.org/json-en.html)
 
 ## Contributing
