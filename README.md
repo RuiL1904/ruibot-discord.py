@@ -8,6 +8,7 @@ I'm willing to add more commands and features to it in the future.
 * [Python](https://www.python.org/)
   * [discord.py](https://discordpy.readthedocs.io/en/stable/index.html)
   * [python-dotenv](https://pypi.org/project/python-dotenv/)
+  * [requests](https://docs.python-requests.org/en/master/)
 * [JSON](https://www.json.org/json-en.html)
 
 ## Contributing
