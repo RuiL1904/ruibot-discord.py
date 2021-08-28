@@ -1,7 +1,6 @@
 import os
 import discord
 from discord.ext import commands
-from discord.ext.commands.errors import MissingRequiredArgument, UserInputError
 import dotenv
 import json
 
@@ -123,13 +122,14 @@ async def on_command_error(context, error):
             color = discord.Color(0xcc3300)
         )
     
-    elif isinstance(error, UserInputError):
+    elif isinstance(error, commands.UserInputError):
         if isinstance(error, commands.MissingRequiredArgument):
             embed = discord.Embed(
                 title = 'ERRO',
                 description = '```Um ou mais argumentos estão em falta... \nDigita .help para mais info!```',
                 color = discord.Color(0xcc3300)
             )   
+        
         else:
             embed = discord.Embed(
                 title = 'ERRO',
