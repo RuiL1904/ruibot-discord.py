@@ -29,6 +29,12 @@ class help(commands.Cog):
             value = 'Exibe info acerca do Bot',
             inline = False
         )
+
+        embed.add_field(
+            name = '.covid',
+            value = 'Exibe dados sobre a COVID-19 em Portugal',
+            inline = False
+        )
         await context.message.channel.send(embed = embed)
 
 def setup(client):
