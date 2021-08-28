@@ -14,7 +14,7 @@ class covid(commands.Cog):
         if place in ['Portugal', 'portugal']:
             url_pt = requests.get('https://covid19-api.vost.pt/Requests/get_last_update')
             data = json.loads(url_pt.text)
-            
+
             dia = data['data_dados']
             confirmados = data['confirmados']
             novos = data['confirmados_novos']
