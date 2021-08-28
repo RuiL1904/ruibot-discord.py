@@ -28,30 +28,25 @@ class covid(commands.Cog):
             rt = data['rt_nacional']
         
             embed = discord.Embed(
-                title = (f'COVID 19 EM PORTUGAL (Dia {dia[:-5]})'),
-                description = '\u200b',
+                title = 'COVID 19 EM PORTUGAL',
+                description = (f'Dia {dia[:-5]}'),
                 color = discord.Color(0xcc3300)
             )
 
             embed.add_field(
-                name = 'Casos confirmados',
-                value = confirmados,
-                inline = False
-            )
-            embed.add_field(
-                name = 'Casos novos',
-                value = novos,
+                name = 'Casos totais',
+                value = (f'{confirmados} (+{novos})'),
                 inline = False
             )
             
             embed.add_field(
                 name = 'Casos ativos',
-                value = ativos,
+                value = (str(ativos))[:-2],
                 inline = False
             )
 
             embed.add_field(
-                name = 'Casos recuperados',
+                name = 'Recuperados',
                 value = recuperados,
                 inline = False
             )
@@ -87,7 +82,7 @@ class covid(commands.Cog):
             )
 
             embed.add_field(
-                name = 'Indíce de transmissão',
+                name = 'Indíce de transmissibilidade',
                 value = rt,
                 inline = False
             )
