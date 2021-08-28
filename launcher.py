@@ -1,6 +1,7 @@
 import os
 import discord
 from discord.ext import commands
+from discord.ext.commands.errors import MissingRequiredArgument, UserInputError
 import dotenv
 import json
 
@@ -118,9 +119,23 @@ async def on_command_error(context, error):
     elif isinstance(error, commands.CommandOnCooldown):
         embed = discord.Embed(
             title = 'ERRO',
-            description = (f'```Este comando está em cooldown \n Por favor tenta novamente após {round(error.retry_after, 1)} segundos!```'),
+            description = (f'```Este comando está em cooldown... \nPor favor tenta novamente após {round(error.retry_after, 1)} segundos!```'),
             color = discord.Color(0xcc3300)
         )
+    
+    elif isinstance(error, UserInputError):
+        if isinstance(error, commands.MissingRequiredArgument):
+            embed = discord.Embed(
+                title = 'ERRO',
+                description = '```Um ou mais argumentos estão em falta... \nDigita .help para mais info!```',
+                color = discord.Color(0xcc3300)
+            )   
+        else:
+            embed = discord.Embed(
+                title = 'ERRO',
+                description = (f'```Algo está mal no teu input... \nRetifica-o e tenta novamente!```'),
+                color = discord.Color(0xcc3300)
+            )
     
     elif isinstance(error, commands.MissingPermissions):
         embed = discord.Embed(
@@ -132,18 +147,17 @@ async def on_command_error(context, error):
     elif isinstance(error, commands.MissingRequiredArgument):
         embed = discord.Embed(
             title = 'ERRO',
-            description = '```Um ou mais argumentos estão em falta... \n Digita .help para mais info!```',
+            description = '```Um ou mais argumentos estão em falta... \nDigita .help para mais info!```',
             color = discord.Color(0xcc3300)
         )
     
     else:
         embed = discord.Embed(
             title = 'ERRO',
-            description = '```Algo correu mal, mas não consegui detetar o que foi...```',
+            description = (f'```Algo correu mal! \nErro encontrado: {error}```'),
             color = discord.Color(0xcc3300)       
         )
-
+    
     await context.reply(embed = embed)
-    print(f'Erro encontrado: {error}')
 
 client.run(vars['TOKEN'])
