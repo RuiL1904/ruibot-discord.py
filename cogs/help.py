@@ -1,5 +1,6 @@
 import discord
 from discord.ext import commands
+import datetime
 
 class help(commands.Cog):
 
@@ -8,9 +9,10 @@ class help(commands.Cog):
 
     @commands.command(name = 'help')
     async def help(self, context): 
+        timestamp = datetime.datetime.utcnow()
             
         embed = discord.Embed(
-            title = 'Comandos Disponíveis:',
+            title = 'Comandos Disponíveis: [Obrigatório] <Opcional>',
             color = discord.Color(0xcc3300)
         )
         
@@ -20,7 +22,7 @@ class help(commands.Cog):
 
         embed.add_field(
             name = '.help',
-            value = 'Lista todos os comandos existentes',
+            value = 'É preciso apresentações?',
             inline = False
         )
         
@@ -31,10 +33,14 @@ class help(commands.Cog):
         )
 
         embed.add_field(
-            name = '.covid',
-            value = 'Exibe dados sobre a COVID-19 em Portugal',
+            name = '.covid [place]',
+            value = 'Exibe dados sobre a COVID-19 em Portugal ou numa cidade',
             inline = False
         )
+
+        embed.set_footer(text = (f'Request by {context.message.author.name}'))
+        embed.timestamp = timestamp
+        
         await context.message.channel.send(embed = embed)
 
 def setup(client):
