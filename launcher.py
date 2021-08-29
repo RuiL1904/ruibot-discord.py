@@ -1,8 +1,10 @@
+from datetime import datetime, time
 import os
 import discord
 from discord.ext import commands
 import dotenv
 import json
+import datetime
 
 # Initial setup
 dotenv.load_dotenv()
@@ -16,6 +18,8 @@ prefix = '.'
 
 client = commands.Bot(command_prefix = commands.when_mentioned_or(prefix), help_command = None, owner_id = vars['MY_ID'])
 
+timestamp = datetime.datetime.utcnow()
+
 cogs = []
 for filename in os.listdir('./cogs'):        
     if filename.endswith('.py'):
@@ -25,8 +29,8 @@ for filename in os.listdir('./cogs'):
 @client.event
 async def on_ready():
     os.system('cls')
-    print('O Bot está online!')
-    print(f'Os seguintes comandos foram carregados: \n{cogs}')
+    print(f'O Bot está online! ({client.user})')
+    print(f'Os seguintes comandos foram carregados: {cogs}')
     await client.change_presence(status = discord.Status.do_not_disturb, activity = discord.Game(name = '.help'))
 
 # Command Handler
@@ -40,6 +44,10 @@ async def load(context, extension):
             description = (f'```O comando {extension} já está ativo!```'),
             color = discord.Color(0xcc3300)
         )
+
+        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
+        embed.timestamp = timestamp
+        
         await context.reply(embed = embed)
     
     elif extension in data['unloaded']:
@@ -50,6 +58,10 @@ async def load(context, extension):
             description = (f'```O comando {extension} foi ativado com sucesso!```'),
             color = discord.Color(0xcc3300)
         )
+
+        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
+        embed.timestamp = timestamp
+        
         await context.reply(embed = embed)
         
         data['unloaded'].remove(extension) 
@@ -61,20 +73,28 @@ async def unload(context, extension):
     
     if extension in data['unloaded']:
         embed = discord.Embed(
-            title = 'Error',
+            title = 'ERRO',
             description = (f'```O comando {extension} já está inativo!```'),
             color = discord.Color(0xcc3300)
         )
+
+        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
+        embed.timestamp = timestamp
+        
         await context.reply(embed = embed)
         
     elif extension in data['loaded']:
         client.unload_extension(f'cogs.{extension}')
 
         embed = discord.Embed(
-            title = 'Aviso',
+            title = 'AVISO',
             description = (f'```O comando {extension} foi desativado com sucesso!```'),
             color = discord.Color(0xcc3300)
         )
+
+        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
+        embed.timestamp = timestamp
+        
         await context.reply(embed = embed)
         
         data['loaded'].remove(extension)
@@ -102,6 +122,10 @@ async def list(context):
         value = unloaded,
         inline = False
     )
+
+    embed.set_footer(text = (f'Requested by {context.message.author.name}'))
+    embed.timestamp = timestamp
+
     await context.reply(embed = embed)
 
 # Error Handler
@@ -158,6 +182,9 @@ async def on_command_error(context, error):
             color = discord.Color(0xcc3300)       
         )
     
+    embed.set_footer(text = (f'Requested by {context.message.author.name}'))
+    embed.timestamp = timestamp
+
     await context.reply(embed = embed)
 
 client.run(vars['TOKEN'])
