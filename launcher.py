@@ -1,4 +1,4 @@
-from datetime import datetime, time
+from datetime import datetime
 import os
 import discord
 from discord.ext import commands
@@ -12,7 +12,7 @@ dotenv.load_dotenv()
 vars = dotenv.dotenv_values('data/.env')
 
 with open(r'data/cmd_handler.json') as file:
-    data = json.load(file)
+    data = json.load(file)   
 
 prefix = '.'
 
