@@ -1,5 +1,6 @@
 import discord
 from discord.ext import commands
+import datetime
 
 class info(commands.Cog):
 
@@ -8,6 +9,7 @@ class info(commands.Cog):
     
     @commands.command(name = 'info')
     async def info(self, context):
+        timestamp = datetime.datetime.utcnow()
         
         embed = discord.Embed(
             title = 'Bot Info', 
@@ -23,9 +25,9 @@ class info(commands.Cog):
             value = '29 de Dezembro de 2020'
         )
 
-        embed.set_footer(
-            text = 'Bot desenvolvido por RuiL1904'
-        )
+        embed.set_footer(text = (f'Request by {context.message.author.name}'))
+        embed.timestamp = timestamp
+        
         await context.message.channel.send(embed = embed)
 
 def setup(client):
