@@ -18,6 +18,7 @@ class covid(commands.Cog):
         url = requests.get('https://covid19-api.vost.pt/Requests/get_status')
         data = json.loads(url.text)
         
+        # Portugal Data
         if data['status'] == 'Server is OK':  
             if place.lower() == 'portugal':
                 url = requests.get('https://covid19-api.vost.pt/Requests/get_last_update')
@@ -118,6 +119,7 @@ class covid(commands.Cog):
                 
                 await context.reply(embed = embed)
             
+            # County Data
             else:       
                 url = requests.get(f'https://covid19-api.vost.pt/Requests/get_last_update_specific_county/{place}')
                 data = (json.loads(url.text))[0]
