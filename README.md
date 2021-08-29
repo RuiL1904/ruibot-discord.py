@@ -10,6 +10,8 @@ I'm willing to add more commands and features to it in the future.
   * [python-dotenv](https://pypi.org/project/python-dotenv/)
   * [requests](https://docs.python-requests.org/en/master/)
   * [os](https://docs.python.org/3/library/os.html)
+  * [pandas](https://pandas.pydata.org/)
+  * [datetime](https://docs.python.org/3/library/datetime.html)
 * [JSON](https://www.json.org/json-en.html)
 
 ## Contributing
