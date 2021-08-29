@@ -101,6 +101,7 @@ async def unload(context, extension):
         data['unloaded'].append(extension)
 
 @client.command(name = 'list')
+@commands.has_role('Developer')
 async def list(context):
     
     loaded = data['loaded']
