@@ -1,6 +1,5 @@
 import platform
 import discord
-from discord import client
 from discord.ext import commands
 import datetime
 
@@ -46,7 +45,7 @@ class info(commands.Cog):
         embed.set_footer(text = (f'Request by {context.message.author.name}'))
         embed.timestamp = timestamp
         
-        await context.message.channel.send(embed = embed)
+        await context.reply(embed = embed)
 
 def setup(client):
     client.add_cog(info(client))
