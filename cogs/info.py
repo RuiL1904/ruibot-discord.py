@@ -1,7 +1,7 @@
 import platform
 import discord
 from discord.ext import commands
-import datetime
+from datetime import datetime
 
 class info(commands.Cog):
 
@@ -10,7 +10,7 @@ class info(commands.Cog):
     
     @commands.command(name = 'info')
     async def info(self, context):
-        timestamp = datetime.datetime.utcnow()
+        timestamp = datetime.utcnow()
         
         embed = discord.Embed(
             title = 'Bot Info', 

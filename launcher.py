@@ -1,10 +1,10 @@
-from datetime import datetime
 import os
 import discord
 from discord.ext import commands
 import dotenv
 import json
-import datetime
+from datetime import datetime
+
 
 # Initial setup
 dotenv.load_dotenv()
@@ -18,7 +18,7 @@ prefix = '.'
 
 client = commands.Bot(command_prefix = commands.when_mentioned_or(prefix), help_command = None, owner_id = vars['MY_ID'])
 
-timestamp = datetime.datetime.utcnow()
+timestamp = datetime.utcnow()
 
 cogs = []
 for filename in os.listdir('./cogs'):        

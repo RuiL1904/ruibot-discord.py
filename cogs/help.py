@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-import datetime
+from datetime import datetime
 
 class help(commands.Cog):
 
@@ -9,7 +9,7 @@ class help(commands.Cog):
 
     @commands.command(name = 'help')
     async def help(self, context): 
-        timestamp = datetime.datetime.utcnow()
+        timestamp = datetime.utcnow()
             
         embed = discord.Embed(
             title = 'Comandos Disponíveis: [Obrigatório] <Opcional>',
