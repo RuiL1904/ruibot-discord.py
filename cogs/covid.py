@@ -1,10 +1,9 @@
-from os import times
 import discord
 from discord.ext import commands
 import json
 import requests
 import pandas
-import datetime
+from datetime import datetime
 
 class covid(commands.Cog):
 
@@ -14,7 +13,7 @@ class covid(commands.Cog):
     @commands.command(name = 'covid')
     @commands.cooldown(rate = 1, per = 5, type = commands.BucketType.member)
     async def covid(self, context, *, place):
-        timestamp = datetime.datetime.utcnow()   
+        timestamp = datetime.utcnow()   
         url = requests.get('https://covid19-api.vost.pt/Requests/get_status')
         data = json.loads(url.text)
         
@@ -153,7 +152,7 @@ class covid(commands.Cog):
 
                 embed.add_field(
                     name = 'Risco de Contágio',
-                    value = (f'{risco} ({categoria})'),
+                    value = (f'{risco} {categoria}'),
                     inline = False
                 )
 
@@ -163,10 +162,10 @@ class covid(commands.Cog):
                     inline = False
                 )
 
-                embed.set_footer(text = (f'Requested by {context.message.author.name})'))
+                embed.set_footer(text = (f'Requested by {context.message.author.name}'))
                 embed.timestamp = timestamp
 
-                await context.send(embed = embed)
+                await context.reply(embed = embed)
 
 def setup(client):
     client.add_cog(covid(client))
