@@ -10,7 +10,8 @@ class help(commands.Cog):
     @commands.command(name = 'help')
     async def help(self, context): 
         timestamp = datetime.utcnow()
-            
+        
+        # Embed sent by the Bot
         embed = discord.Embed(
             title = 'Comandos Disponíveis: [Obrigatório] <Opcional>',
             color = discord.Color(0xcc3300)

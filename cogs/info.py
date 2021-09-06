@@ -12,6 +12,7 @@ class info(commands.Cog):
     async def info(self, context):
         timestamp = datetime.utcnow()
         
+        # Embed sent by the Bot
         embed = discord.Embed(
             title = 'Bot Info', 
             color = discord.Color(0xcc3300)

@@ -5,7 +5,6 @@ import dotenv
 import json
 from datetime import datetime
 
-
 # Initial setup
 dotenv.load_dotenv()
 

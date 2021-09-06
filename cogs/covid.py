@@ -20,11 +20,12 @@ class covid(commands.Cog):
         # Portugal Data
         if data['status'] == 'Server is OK':  
             if place.lower() == 'portugal':
+                # Data extraction
                 url = requests.get('https://covid19-api.vost.pt/Requests/get_last_update')
                 data = json.loads(url.text)
 
                 data_vax = pandas.read_csv('https://raw.githubusercontent.com/dssg-pt/covid19pt-data/master/vacinas.csv')
-
+                
                 dia = data['data_dados']
                 confirmados = data['confirmados']
                 novos = data['confirmados_novos']
@@ -40,7 +41,8 @@ class covid(commands.Cog):
                 vacinadas_1 = str(data_vax['pessoas_vacinadas_parcialmente'].max())[:-2]
                 vacinadas_total_hoje = str(data_vax['pessoas_vacinadas_completamente_novas'].max())[:-2]
                 vacinadas_1_hoje = str(data_vax['pessoas_vacinadas_parcialmente_novas'].max())[:-2]
-            
+
+                # Embed sent by the Bot
                 embed = discord.Embed(
                     title = 'COVID-19 em Portugal',
                     description = (f'Dia {dia[:-5]}'),
@@ -119,7 +121,8 @@ class covid(commands.Cog):
                 await context.reply(embed = embed)
             
             # County Data
-            else:       
+            else:
+                # Data extraction      
                 url = requests.get(f'https://covid19-api.vost.pt/Requests/get_last_update_specific_county/{place}')
                 data = (json.loads(url.text))[0]
 
@@ -132,6 +135,7 @@ class covid(commands.Cog):
                 distrito = data['distrito']
                 population = data['population']
 
+                # Embed sent by the Bot
                 embed = discord.Embed(
                     title = (f'COVID-19 em {place.title()} ({distrito})'),
                     description = (f'Dia {dia}'),
