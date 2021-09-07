@@ -8,7 +8,7 @@ I'm willing to add more commands and features to it in the future.
 * [Python](https://www.python.org/)
   * [discord.py](https://discordpy.readthedocs.io/en/stable/index.html)
   * [python-dotenv](https://pypi.org/project/python-dotenv/)
-  * [requests](https://docs.python-requests.org/en/master/)
+  * [aiohttp](https://docs.aiohttp.org/en/stable/)
   * [os](https://docs.python.org/3/library/os.html)
   * [pandas](https://pandas.pydata.org/)
   * [datetime](https://docs.python.org/3/library/datetime.html)
