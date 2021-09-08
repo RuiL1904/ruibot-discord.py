@@ -32,6 +32,7 @@ async def on_ready():
     if client.is_ready():
         os.system('cls')
         print(f'O Bot foi reconectado! ({client.user})')
+        print(f'Os seguintes comandos foram carregados: {cogs}')
     else:
         print(f'O Bot está online! ({client.user})')
         print(f'Os seguintes comandos foram carregados: {cogs}')
@@ -137,7 +138,7 @@ async def list(context):
 
 # Error handler
 @client.event
-async def on_command_error(context, error):
+async def on_command_error(context, error, member = discord.Member):
 
     if isinstance(error, commands.CommandNotFound):
         embed = discord.Embed(
@@ -152,21 +153,14 @@ async def on_command_error(context, error):
             description = (f'```Este comando está em cooldown... \nPor favor tenta novamente após {round(error.retry_after, 1)} segundos!```'),
             color = discord.Color(0xcc3300)
         )
-    
+
     elif isinstance(error, commands.UserInputError):
-        if isinstance(error, commands.MissingRequiredArgument):
-            embed = discord.Embed(
-                title = 'ERRO',
-                description = '```Um ou mais argumentos estão em falta... \nDigita .help para mais info!```',
-                color = discord.Color(0xcc3300)
-            )   
-        
-        else:
+        if not isinstance(error, commands.MissingRequiredArgument):
             embed = discord.Embed(
                 title = 'ERRO',
                 description = (f'```Algo está mal no teu input... \nRetifica-o e tenta novamente!```'),
                 color = discord.Color(0xcc3300)
-            )
+            )           
     
     elif isinstance(error, commands.MissingPermissions):
         embed = discord.Embed(
@@ -182,10 +176,17 @@ async def on_command_error(context, error):
             color = discord.Color(0xcc3300)
         )
     
+    elif isinstance(error, commands.BotMissingPermissions):
+        embed = discord.Embed(
+            title = 'ERRO',
+            description = '```Infelizmente não tenho permissões para fazer isso...```',
+            color = discord.Color(0xcc3300)
+        )
+    
     else:
         embed = discord.Embed(
             title = 'ERRO',
-            description = (f'```Algo correu mal! \nErro encontrado: {error}```'),
+            description = (f'```Algo correu mal! Contacta um @Developer \nErro encontrado: {error}```'),
             color = discord.Color(0xcc3300)       
         )
     
