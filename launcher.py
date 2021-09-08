@@ -1,7 +1,7 @@
 import os
+import dotenv
 import discord
 from discord.ext import commands
-import dotenv
 import json
 from datetime import datetime
 
@@ -19,28 +19,34 @@ client = commands.Bot(command_prefix = commands.when_mentioned_or(prefix), help_
 
 timestamp = datetime.utcnow()
 
+# Add each cog to the bot commands
 cogs = []
 for filename in os.listdir('./cogs'):        
     if filename.endswith('.py'):
         client.load_extension(f'cogs.{filename[:-3]}')
         cogs.append(filename[:-3])
 
+# Bot ready event
 @client.event
 async def on_ready():
-    os.system('cls')
-    print(f'O Bot está online! ({client.user})')
-    print(f'Os seguintes comandos foram carregados: {cogs}')
+    if client.is_ready():
+        os.system('cls')
+        print(f'O Bot foi reconectado! ({client.user})')
+    else:
+        print(f'O Bot está online! ({client.user})')
+        print(f'Os seguintes comandos foram carregados: {cogs}')
+    
     await client.change_presence(status = discord.Status.do_not_disturb, activity = discord.Game(name = '.help'))
 
-# Command Handler
+# Command handler
 @client.command(name = 'load')
 @commands.has_role('Developer')
-async def load(context, extension):
+async def load(context, cog):
     
-    if extension in data['loaded']:
+    if cog in data['loaded']:
         embed = discord.Embed(
             title = 'ERRO',
-            description = (f'```O comando {extension} já está ativo!```'),
+            description = (f'```O comando {cog} já está ativo!```'),
             color = discord.Color(0xcc3300)
         )
 
@@ -49,12 +55,12 @@ async def load(context, extension):
         
         await context.reply(embed = embed)
     
-    elif extension in data['unloaded']:
-        client.load_extension(f'cogs.{extension}')
+    elif cog in data['unloaded']:
+        client.load_extension(f'cogs.{cog}')
 
         embed = discord.Embed(
             title = 'AVISO',
-            description = (f'```O comando {extension} foi ativado com sucesso!```'),
+            description = (f'```O comando {cog} foi ativado com sucesso!```'),
             color = discord.Color(0xcc3300)
         )
 
@@ -63,17 +69,17 @@ async def load(context, extension):
         
         await context.reply(embed = embed)
         
-        data['unloaded'].remove(extension) 
-        data['loaded'].append(extension)              
+        data['unloaded'].remove(cog) 
+        data['loaded'].append(cog)              
   
 @client.command(name = 'unload')
 @commands.has_role('Developer')
-async def unload(context, extension):
+async def unload(context, cog):
     
-    if extension in data['unloaded']:
+    if cog in data['unloaded']:
         embed = discord.Embed(
             title = 'ERRO',
-            description = (f'```O comando {extension} já está inativo!```'),
+            description = (f'```O comando {cog} já está inativo!```'),
             color = discord.Color(0xcc3300)
         )
 
@@ -82,12 +88,12 @@ async def unload(context, extension):
         
         await context.reply(embed = embed)
         
-    elif extension in data['loaded']:
-        client.unload_extension(f'cogs.{extension}')
+    elif cog in data['loaded']:
+        client.unload_extension(f'cogs.{cog}')
 
         embed = discord.Embed(
             title = 'AVISO',
-            description = (f'```O comando {extension} foi desativado com sucesso!```'),
+            description = (f'```O comando {cog} foi desativado com sucesso!```'),
             color = discord.Color(0xcc3300)
         )
 
@@ -96,9 +102,10 @@ async def unload(context, extension):
         
         await context.reply(embed = embed)
         
-        data['loaded'].remove(extension)
-        data['unloaded'].append(extension)
+        data['loaded'].remove(cog)
+        data['unloaded'].append(cog)
 
+# List each command
 @client.command(name = 'list')
 @commands.has_role('Developer')
 async def list(context):
@@ -128,7 +135,7 @@ async def list(context):
 
     await context.reply(embed = embed)
 
-# Error Handler
+# Error handler
 @client.event
 async def on_command_error(context, error):
 
@@ -187,4 +194,5 @@ async def on_command_error(context, error):
 
     await context.reply(embed = embed)
 
+# Run the bot
 client.run(vars['TOKEN'])
