@@ -19,7 +19,7 @@ class info(commands.Cog):
         )
 
         fields = [('Data de Lançamento:', '29 de dezembro de 2020'),
-        ('Python Version', platform.python_compiler()),
+        ('Python Version', platform.python_version()),
         ('Discord.py Version', discord.__version__),
         ('Ping', f'{int(round((self.client.latency * 1000), 0))} ms')]
         
