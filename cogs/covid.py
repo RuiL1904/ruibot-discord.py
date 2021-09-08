@@ -14,10 +14,10 @@ class covid(commands.Cog):
     async def covid(self, context, *, place):
         
         timestamp = datetime.utcnow()
-
-        if place.lower() == 'portugal':
         
-            # Portugal Data extraction
+        # Portugal data extraction
+        if place.lower() == 'portugal':
+            
             async with aiohttp.ClientSession() as session:   
                 async with session.get('https://covid19-api.vost.pt/Requests/get_last_update') as response:
                 
@@ -31,96 +31,41 @@ class covid(commands.Cog):
                         novos = data['confirmados_novos']
                         recuperados = data['recuperados']
                         obitos = data['obitos']
-                        internados = str(data['internados'])[:-2]
-                        uci = str(data['internados_uci'])[:-2]
-                        vigilancia = str(data['vigilancia'])[:-2]
                         ativos = str(data['ativos'])[:-2]
-                        incidencia = data['incidencia_nacional']
+                        incidencia = str(data['incidencia_nacional'])[:-2]
                         rt = data['rt_nacional']
                         vacinadas_total = str(data_vax['pessoas_vacinadas_completamente'].max())[:-2]
-                        vacinadas_1 = str(data_vax['pessoas_vacinadas_parcialmente'].max())[:-2]
                         vacinadas_total_hoje = str(data_vax['pessoas_vacinadas_completamente_novas'].max())[:-2]
-                        vacinadas_1_hoje = str(data_vax['pessoas_vacinadas_parcialmente_novas'].max())[:-2]
 
-                        # Embed sent by the Bot
+                        # Embed sent by the bot
                         embed = discord.Embed(
                             title = 'COVID-19 em Portugal',
                             description = (f'Dia {dia[:-5]}'),
                             color = discord.Color(0xcc3300)
                         )
-
-                        embed.add_field(
-                            name = 'Casos Totais',
-                            value = (f'{confirmados} (+{novos})'),
-                            inline = False
-                        )
                         
-                        embed.add_field(
-                            name = 'Casos Ativos',
-                            value = ativos,
-                            inline = False
-                        )
+                        fields = [('Casos Totais', confirmados),
+                        ('Novos Casos', novos),
+                        ('Casos Ativos', ativos),
+                        ('Recuperados', recuperados),
+                        ('Óbitos', obitos),
+                        ('Totalmente Vacinadas', f'{vacinadas_total} (+{vacinadas_total_hoje})'),
+                        ('Incidência por 100mil Habitantes', incidencia),
+                        ('Indice de Transmissibilidade', rt)]
 
-                        embed.add_field(
-                            name = 'Recuperados',
-                            value = recuperados,
-                            inline = False
-                        )
-
-                        embed.add_field(
-                            name = 'Óbitos',
-                            value = obitos,
-                            inline = False
-                        )
-                        
-                        embed.add_field(
-                            name = 'Parcialmente Vacinadas',
-                            value = (f'{vacinadas_1} (+{vacinadas_1_hoje})'),
-                            inline = False
-                        )
-
-                        embed.add_field(
-                            name = 'Totalmente Vacinadas',
-                            value = (f'{vacinadas_total} (+{vacinadas_total_hoje})'),
-                            inline = False
-                        )
-
-                        embed.add_field(
-                            name = 'Internados',
-                            value = internados,
-                            inline = False
-                        )
-
-                        embed.add_field(
-                            name = 'Internados em UCI',
-                            value = uci,
-                            inline = False
-                        )
-
-                        embed.add_field(
-                            name = 'Contactos em Vigilância',
-                            value = vigilancia,
-                            inline = False
-                        )
-                        
-                        embed.add_field(
-                            name = 'Incidência por 100mil Habitantes',
-                            value = incidencia,
-                            inline = False
-                        )
-
-                        embed.add_field(
-                            name = 'Indice de Transmissibilidade',
-                            value = rt,
-                            inline = False
-                        )
+                        for name, value in fields:
+                            embed.add_field(
+                                name = name,
+                                value = value,
+                                inline = False
+                            )
 
                         embed.set_footer(text = (f'Requested by {context.message.author.name}'))
                         embed.timestamp = timestamp
                         
                         await context.reply(embed = embed)
                     
-        # County Data Extraction
+        # County data extraction
         else:
             async with aiohttp.ClientSession() as session:
                 async with session.get(f'https://covid19-api.vost.pt/Requests/get_last_update_specific_county/{place}') as response:
@@ -137,36 +82,24 @@ class covid(commands.Cog):
                     distrito = data['distrito']
                     population = data['population']
 
-                    # Embed sent by the Bot
+                    # Embed sent by the bot
                     embed = discord.Embed(
                         title = (f'COVID-19 em {place.title()} ({distrito})'),
                         description = (f'Dia {dia}'),
                         color = discord.Color(0xcc3300)
                     )
+
+                    fields = [('Confirmados nos Últimos 14 Dias', confirmados),
+                    ('Confirmados no Último Dia', confirmados_ontem),
+                    ('Risco de Contágio', f'{risco} {categoria}'),
+                    ('População', population)]
                     
-                    embed.add_field(
-                        name = 'Confirmados nos Últimos 14 Dias',
-                        value = confirmados,
-                        inline = False
-                    )
-
-                    embed.add_field(
-                        name = 'Confirmados no Último Dia',
-                        value = confirmados_ontem,
-                        inline = False
-                    )
-
-                    embed.add_field(
-                        name = 'Risco de Contágio',
-                        value = (f'{risco} {categoria}'),
-                        inline = False
-                    )
-
-                    embed.add_field(
-                        name = 'População',
-                        value = population,
-                        inline = False
-                    )
+                    for name, value in fields:
+                        embed.add_field(
+                            name = name,
+                            value = value,
+                            inline = False
+                        )
 
                     embed.set_footer(text = (f'Requested by {context.message.author.name}'))
                     embed.timestamp = timestamp
