@@ -17,32 +17,22 @@ class info(commands.Cog):
             title = 'Bot Info', 
             color = discord.Color(0xcc3300)
         )
-    
-        embed.set_image(
-            url = 'https://i.imgur.com/POStobb.png'
-        )
 
-        embed.add_field(
-            name = 'Data de Lançamento:',
-            value = '29 de Dezembro de 2020',
-            inline = False
-        )
-
-        embed.add_field(
-            name = 'Python Version',
-            value = platform.python_version()
-        )
-
-        embed.add_field(
-            name = 'Discord.py Version',
-            value = discord.__version__
-        )
-
-        embed.add_field(
-            name = 'Latência',
-            value = (f'{int(round((self.client.latency * 1000), 0))} ms')
-        )
-
+        fields = [('Data de Lançamento:', '29 de dezembro de 2020'),
+        ('Python Version', platform.python_compiler()),
+        ('Discord.py Version', discord.__version__),
+        ('Ping', f'{int(round((self.client.latency * 1000), 0))} ms')]
+        
+        for name, value in fields:
+            embed.add_field(
+                name = name,
+                value = value,
+                inline = False
+            )
+        
+        url = 'https://i.imgur.com/POStobb.png'
+        
+        embed.set_image(url = url)
         embed.set_footer(text = (f'Request by {context.message.author.name}'))
         embed.timestamp = timestamp
         
