@@ -1,4 +1,4 @@
 {
-    "loaded": ["help", "info", "covid"],
+    "loaded": ["help", "info", "covid", "list"],
     "unloaded": []
 }
