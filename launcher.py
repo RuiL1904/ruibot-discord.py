@@ -33,7 +33,7 @@ client.load_extension('jishaku')
 @client.event
 async def on_ready():
     if client.is_ready():
-        os.system('cls')
+        os.system('clear')
         print(f'O Bot foi reconectado! ({client.user})')
         print(f'Os seguintes comandos foram carregados: {cogs}')
     else:
