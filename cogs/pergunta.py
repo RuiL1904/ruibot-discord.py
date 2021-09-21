@@ -27,19 +27,19 @@ class pergunta(commands.Cog):
         # Read possible answers (1, 2 or 3)
         answers = {}
         for i in range(1, 4): # Each "i" is a possible answer
-            async with aiofiles.open(f'data/categoria B/resposta{i}.txt', mode = 'r') as file:
+            async with aiofiles.open(f'data/Categoria B/resposta{i}.txt', mode = 'r') as file:
                 answers[f'answer_{i}'] = []
                 async for line in file:
                     answers[f'answer_{i}'].append(line)
         
         # Read image of question
-        async with aiofiles.open('data/categoria B/imgs.txt', mode = 'r') as file:
+        async with aiofiles.open('data/Categoria B/imgs.txt', mode = 'r') as file:
             images = []
             async for line in file:
                 images.append(line)
 
         # Read correct answer
-        async with aiofiles.open('data/categoria B/certa.txt', mode = 'r') as file:
+        async with aiofiles.open('data/Categoria B/certa.txt', mode = 'r') as file:
             answer = []
             async for line in file:
                 answer.append(line)
