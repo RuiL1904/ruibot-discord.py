@@ -1,5 +1,7 @@
-discord.py
 python-dotenv
-requests
-pandas
+nextcord
 aiohttp
+aiosqlite
+aiofiles
+apraw
+pandas
