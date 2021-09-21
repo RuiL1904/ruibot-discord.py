@@ -1,7 +1,8 @@
 import platform
-import discord
-from discord.ext import commands
 from datetime import datetime
+import nextcord as discord
+from nextcord.ext import commands
+import aiosqlite
 
 class info(commands.Cog):
 
@@ -20,7 +21,8 @@ class info(commands.Cog):
 
         fields = [('Data de Lançamento:', '29 de dezembro de 2020'),
         ('Python Version', platform.python_version()),
-        ('Discord.py Version', discord.__version__),
+        ('Nextcord Version', discord.__version__),
+        ('SQLite Version', aiosqlite.sqlite_version),
         ('Ping', f'{int(round((self.client.latency * 1000), 0))} ms')]
         
         for name, value in fields:

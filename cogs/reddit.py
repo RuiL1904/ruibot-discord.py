@@ -1,6 +1,8 @@
-import discord
-from discord.ext import commands
+import nextcord as discord
+from nextcord.ext import commands
+import apraw
 
+# Not working on it right now
 class reddit(commands.Cog):
 
     def __init__(self, client):
@@ -9,8 +11,7 @@ class reddit(commands.Cog):
     @commands.command(name = 'reddit')
     @commands.cooldown(rate = 1, per = 5, type = commands.BucketType.member)
     async def reddit(self, context, *, argument):
-        await context.send('O comando funciona!')
-    
+        pass
 
 def setup(client):
     client.add_cog(reddit(client))

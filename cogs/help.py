@@ -1,6 +1,6 @@
-import discord
-from discord.ext import commands
 from datetime import datetime
+import nextcord as discord
+from nextcord.ext import commands
 
 class help(commands.Cog):
 
@@ -13,13 +13,16 @@ class help(commands.Cog):
         
         # Embed sent by the Bot
         embed = discord.Embed(
-            title = 'Comandos Disponíveis: [Obrigatório] <Opcional>',
+            title = 'Comandos: [Obrigatório] <Opcional> (alias)',
             color = discord.Color(0xcc3300)
         )
 
         fields = [('.help', 'É preciso apresentações?'),
         ('.info', 'Exibe info acerca do bot'),
-        ('.covid [place]', 'Exibe dados sobre a COVID-19 em Portugal ou numa cidade')]
+        ('.covid [place]', 'Exibe dados sobre a COVID-19 em Portugal ou numa cidade'),
+        ('.reddit [subreddit]', 'Ainda em construção...'),
+        ('.pergunta (.p)', 'Faz-te uma pergunta sobre o código da estrada'),
+        ('.leaderboard (.lb)', 'Exibe a leaderboard do comando .pergunta')]
         
         for name, value in fields:
             embed.add_field(
