@@ -6,14 +6,21 @@ I'm willing to add more commands and features to it in the future.
 ### Built With
 
 * [Python](https://www.python.org/)
-  * [discord.py](https://discordpy.readthedocs.io/en/stable/index.html)
-  * [python-dotenv](https://pypi.org/project/python-dotenv/)
-  * [aiohttp](https://docs.aiohttp.org/en/stable/)
   * [os](https://docs.python.org/3/library/os.html)
   * [io](https://docs.python.org/3/library/io.html)
-  * [pandas](https://pandas.pydata.org/)
+  * [python-dotenv](https://pypi.org/project/python-dotenv/)
   * [datetime](https://docs.python.org/3/library/datetime.html)
+  * [platform] (https://docs.python.org/3/library/platform.html)
+  * [json] (https://docs.python.org/3/library/json.html)
+  * [nextcord](https://github.com/nextcord/nextcord)
+  * [asyncio] (https://docs.python.org/3/library/asyncio.html)
+  * [aiohttp](https://docs.aiohttp.org/en/stable/)
+  * [aiosqlite] (https://pypi.org/project/aiosqlite/)
+  * [aiofiles] (https://github.com/Tinche/aiofiles)
+  * [apraw] (https://apraw.readthedocs.io/en/latest/index.html)
+  * [pandas](https://pandas.pydata.org/)
 * [JSON](https://www.json.org/json-en.html)
+* [SQL] (https://pt.wikipedia.org/wiki/SQL)
 
 ## Contributing
 
