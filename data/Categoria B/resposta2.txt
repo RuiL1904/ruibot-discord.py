@@ -1,0 +1,3910 @@
+﻿Avançar.
+Ceder a passagem apenas ao meu veículo.
+Ao motociclo.
+Tenho prioridade de passagem em relação aos veículos que se apresentem pela esquerda.
+Esquerda.
+Devo parar, para ceder a passagem ao automóvel ligeiro.
+Deve ceder a passagem aos veículos que circulem em serviço de urgência.
+Ceder a passagem aos veículos que transitem em sentido contrário.
+Sim, deve sempre ceder a passagem o condutor do veículo que sobe.
+Os condutores dos veículos que pretendam entrar nesta via não têm prioridade de passagem.
+Tenho prioridade de passagem mas devo reduzir a velocidade.
+Sim.
+Não.
+Os veículos em serviço de urgência tem prioridade ao entrar na rotunda.
+Apenas aos veículos a motor.
+Parar, avançando de seguida, pois tenho prioridade.
+Ceder a passagem apenas aos veículos vindos da direita.
+Parar e ceder a passagem a todos os veículos.
+Sim, mas apenas se os veículos circularem em marcha de urgência.
+Não.
+Devo ceder a passagem só aos veículos a motor.
+Devo ceder a passagem.
+Sim, todos os condutores são obrigados a ceder-me a passagem.
+Sim.
+Ceder a passagem ao ciclista e só depois avançar.
+Devo reduzir a velocidade e cumprir a regra geral de cedência de passagem.
+A afirmação é verdadeira.
+O veículo cinzento.
+Ceder a passagem.
+Ceder a passagem.
+O condutor da ambulância.
+Sim, porque circulo em auto-estrada.
+Deve avançar em primeiro lugar.
+Tenho prioridade de passagem sobre os veículos que pretendam entrar nesta via.
+Tenho prioridade de passagem em relação aos veículos que circulam na rotunda.
+Ceder-lhe a passagem porque se apresenta pela direita.
+Parar.
+Ceder a passagem a todos os veículos a motor que circulem na via de trânsito em que vou entrar.
+Avançar para tentar passar em simultâneo com o outro veículo.
+Ceder a passagem ao outro condutor.
+Devo ceder sempre a passagem ao veículo prioritário mesmo que não assinale devidamente a sua marcha.
+Tenho prioridade de passagem se mudar de direcção na próxima à direita.
+Devo passar imediatamente para a via da esquerda porque tenho prioridade.
+Em segundo lugar.
+Ceder a passagem à ambulância e avançar.
+O condutor do veículo que circula em sentido contrário.
+Passar o mais rapidamente possível.
+Sim, devo ceder sempre a passagem em qualquer circunstância.
+Sim, devido à presença do sinal STOP.
+Não.
+Certo, pois o eléctrico tem prioridade de passagem.
+Sim, mas apenas porque não posso transpor a marca rodoviária.
+A todos os veículos que saiam duma passagem de nível.
+Sim, porque mudo de direcção.
+Sim, porque aquele veículo se apresenta pela direita.
+Em primeiro lugar.
+Antes do veículo de tracção animal, mas depois do motociclo.
+Sim.
+Sim.
+A afirmação é verdadeira.
+Para que possa, facilmente, ser identificado pelo seu formato.
+Numa via sem prioridade.
+Não.
+Sim.
+Depois do automóvel ligeiro.
+Sim.
+Sim, mas apenas dentro das localidades.
+Ao meu veículo.
+Sim.
+O meu veículo, porque não pretendo mudar de direcção.
+Em último lugar.
+Ser bastante prudente e aguardar a passagem dos outros veículos.
+Parar obrigatoriamente, haja trânsito ou não.
+Ceder a passagem ao velocípede.
+Em segundo lugar se seguir em frente.
+O meu veículo sabendo que estou perante um sinal de cedência de passagem acompanhado por marca rodoviária.
+Apenas à ambulância.
+Posso avançar, depois de ceder a passagem ao motociclo.
+Eu.
+Em primeiro lugar.
+Antes do automóvel cinzento e depois do automóvel azul.
+O meu veículo.
+Eu.
+Devo parar obrigatoriamente.
+Buzinar-lhe para garantir que o seu condutor se apercebe da minha presença.
+Devo utilizar os sinais sonoros, porque tenho o direito de avançar em primeiro lugar.
+A afirmação é verdadeira.
+Errado.
+Sim, mas apenas se a ambulância chegou em primeiro lugar à passagem estreita.
+Errado.
+Errado.
+Prosseguir a marcha, com precaução.
+Avançar, pois tenho prioridade de passagem.
+Circular a velocidade inferior a 50 Km/h.
+Ceder a passagem.
+Ceder a passagem.
+Sim.
+Devo parar.
+Não.
+Pode avançar depois de me ceder a passagem.
+Sim, mas apenas porque conduzo um veículo da mesma categoria.
+A afirmação é verdadeira.
+Errado.
+O outro condutor porque sobe.
+Sim, porque o automóvel ligeiro muda de direcção.
+Ao automóvel pesado.
+Sim, o outro condutor deve ceder-me a passagem.
+Errado.
+Errado.
+A afirmação é verdadeira.
+Chego primeiro ao local do estreitamento.
+Sim, porque cheguei depois ao local de estreitamento.
+Errado.
+Sim, caso o condutor do velocípede não respeite a regra, criando uma situação perigosa.
+Sim.
+A afirmação é verdadeira.
+Cedendo a passagem.
+Parar.
+Ceder a passagem ao velocípede.
+Ceder a passagem, porque o outro veículo é uma ambulância.
+Parar.
+Ligar as luzes de perigo.
+Ceder a passagem aos dois veículos.
+Avançar antes do motociclo.
+Ceder a passagem ao velocípede.
+Ceder a passagem.
+Depois do meu veículo e antes do automóvel ligeiro.
+O condutor do outro veículo.
+Pode avançar com precaução.
+Deve parar obrigatoriamente.
+Pode avançar em primeiro lugar.
+Deve continuar parado até que eu o contorne.
+Deve parar.
+Em primeiro lugar.
+Ceder a passagem.
+A indicar-lhe que pode avançar em primeiro lugar.
+Ceder a passagem.
+Sim.
+Deve passar, porque se apresenta pela direita do pesado.
+O meu veículo.
+O da ambulância.
+O meu.
+Depois do meu veículo e antes do automóvel ligeiro.
+Em simultâneo com o velocípede.
+Eu.
+Eu, porque a ambulância está a sair de um caminho particular.
+Eu.
+O motociclo por ser um veículo de duas rodas.
+O motociclo.
+Eu.
+O condutor da ambulância.
+Eu, porque já transito na rotunda.
+O outro condutor, porque se apresenta pela direita.
+Eu.
+Errado.
+Errado.
+Errado.
+Errado.
+Devo parar obrigatoriamente.
+Devo reduzir a velocidade e ceder a passagem ao condutor da frente.
+Devo parar e ceder passagem à ambulância.
+Posso avançar em primeiro lugar, mas a uma velocidade moderada.
+O condutor do motociclo é obrigado a parar.
+Devo utilizar os sinais sonoros.
+O condutor que chegar primeiro ao troço.
+Depois do veículo ligeiro e antes do velocípede.
+Ceder a passagem à ambulância e avançar ao mesmo tempo que o outro veículo.
+Errado.
+O meu veículo.
+O veículo de cor castanha, o meu veículo e por último o veículo preto.
+Não, salvo se pretender virar à esquerda.
+Parar, avançando de seguida, mesmo que haja trânsito.
+O automóvel pesado.
+Ceder-lhe a passagem, parando se necessário.
+Ceder a passagem ao veículo branco.
+O seu veículo não tem motor.
+Ceder a passagem.
+Não, porque conduzo um automóvel ligeiro de mercadorias.
+Ceder passagem ao veículo da direita e ao veículo da frente.
+Parar obrigatoriamente.
+Errado.
+Tem o dever de ceder a passagem, porque está a entrar na praça.
+Não, pois não existe sinalização que o obrigue.
+Errado.
+Errado, devo ceder a passagem ao veículo que se apresenta pela direita.
+Ceder a passagem aos veículos da direita.
+Esquerda.
+A todos os veículos que se apresentem à minha direita.
+Sim.
+Errado.
+Reduzir a velocidade e ceder a passagem a todos os veículos.
+Ceder a passagem.
+Verdadeira.
+A afirmação é verdadeira.
+Sim, mas apenas no caso de se acender a luz vermelha do sinal luminoso.
+O da direita, o automóvel branco e o meu.
+Ceder a passagem.
+Sim, mas apenas aos veículos automóveis ligeiros e pesados.
+Sim, se foi o último condutor a chegar à passagem estreita.
+Ceder-me a passagem.
+A afirmação é verdadeira.
+Sim, se assinalar adequadamente a sua marcha.
+Deve parar, para me ceder a passagem.
+Avançar em primeiro lugar.
+Ceder a passagem ao veículo de tracção animal.
+Deve parar para me ceder a passagem.
+Ceder a passagem.
+Ceder a passagem a todos os veículos.
+Deve avançar em primeiro lugar.
+Tem o dever de ceder a passagem.
+Avançar, porque tenho sempre o direito de avançar.
+Parar no meio da intersecção, porque eu devo avançar em primeiro lugar.
+O dever de parar.
+Sim, porque se apresenta pela direita.
+Não, porque o velocípede é um veículo sem motor.
+Sim, os condutores dos velocípedes devem ceder a passagem a todos os veículos a motor.
+Avançar em primeiro lugar.
+Deve parar sempre à entrada das rotundas.
+Sim, se a sua intenção for seguir em direcção à EXPO 98.
+Sim, mas só se não transitar com muita velocidade.
+Ceder a passagem ao condutor da direita.
+Meu, porque vou entrar numa rotunda.
+Em segundo lugar.
+Ao meu veículo.
+O motociclo, o meu veículo e por último o veículo pesado.
+Ceder a passagem apenas aos veículos com motor que pretendam entrar na rotunda.
+Estar atento ao comportamento do outro condutor.
+Sim, porque circulo com maior velocidade.
+Eu e o condutor do automóvel ligeiro podemos avançar em simultâneo.
+Ceder a passagem.
+Ceder a passagem.
+Ceder a passagem.
+Ceder a passagem.
+Avançar, porque lhe devo ceder a passagem.
+Ceder a passagem.
+Continuar parado no meio do cruzamento para que eu o contorne.
+Que me ceda a passagem, parando se necessário.
+Avançar rapidamente, porque tenho prioridade.
+Avançar rapidamente. Eu tenho o direito de avançar.
+Parar em cima da passagem assinalada para peões e depois avançar.
+Facilitar a entrada da ambulância desde que não ponha em perigo outros utentes.
+Ceder a passagem ao veículo dos bombeiros.
+Se possível, facilitar a entrada do veículo dos bombeiros.
+Ceder a passagem.
+Ceder a passagem.
+Ceder a passagem, apesar do condutor não assinalar a marcha de urgência.
+Avançar, sem ceder a passagem.
+Contornar o outro veículo.
+Ceder a passagem ao veículo da esquerda.
+Ceder a passagem ao veículo cinzento.
+Entrar na rotunda, sem ceder a passagem ao motociclo.
+Avançar, estando especialmente atento ao motociclo.
+Parar e ceder a passagem, porque o outro veículo tem motor.
+Ceder a passagem.
+Avançar um pouco mais, obrigando assim o condutor do automóvel ligeiro a parar.
+Avançar em primeiro lugar.
+Ceder a passagem.
+Ceder a passagem.
+Ceder a passagem aos veículos que se vão apresentar à minha direita.
+Ceder a passagem.
+Cruzamento com via sem prioridade.
+A todos os veículos.
+Parar só quando haja trânsito na via transversal.
+A afirmação é verdadeira.
+Sou obrigado a parar e ceder a passagem a todos os veículos que circulam na via que se aproxima.
+Entroncamento com via sem prioridade.
+Que o trânsito se faz nos dois sentidos.
+Perigo no próximo entroncamento.
+Fico proibido de mudar de direcção à esquerda.
+Um entroncamento com via sem prioridade.
+Tenho prioridade de passagem no próximo cruzamento ou entroncamento.
+Fim de via com prioridade.
+Obrigação de mudar à direita no próximo entroncamento.
+Que o trânsito passa a fazer-se nos dois sentidos.
+Ceder a passagem.
+Deve parar obrigatoriamente para me ceder a passagem.
+Sim, se a sua intenção for mudar de direcção à esquerda.
+Pesado, veículo verde, o meu veículo e por último o motociclo.
+Ao meu veículo.
+Tem que ceder passagem.
+Sim, se pretender mudar de direcção à esquerda.
+Antes do veículo verde e depois do meu veículo.
+A afirmação é verdadeira.
+Entrar rapidamente na via onde eu já circulo.
+Ceder a passagem.
+Ceder a passagem.
+Sim, mas apenas aos veículos que transitem em marcha de urgência.
+Ceder-me a passagem.
+Ceder a passagem aos veículos que saiam da passagem de nível.
+Ceder a passagem.
+Sim, desde que não coloquem em perigo os outros utentes.
+Não, apenas têm prioridade se transitarem em missão urgente de socorro.
+Em local com visibilidade, na proximidade do entroncamento.
+Ceder a passagem ao condutor da direita.
+Sim, deve sempre efectuar a manobra o condutor do veículo que for a subir.
+Ceder a passagem a todos os veículos se a marca rodoviária for acompanhada por um sinal de cedência de passagem.
+Sim, porque o sinal vertical me impõe a paragem obrigatória.
+Ceder passagem.
+Devo parar.
+Devo parar obrigatoriamente.
+Só aos veículos com motor que se apresentem pela direita.
+Parar e ceder passagem a todos os veículos, salvo os que não tenham motor.
+Ceder a passagem.
+Sim.
+Devo ceder a passagem no próximo entroncamento.
+Errado.
+Reduzir a velocidade, porque me aproximo de uma estrada com prioridade.
+Parar e ceder a passagem aos veículos que circulem na via em que vou entrar.
+Em primeiro lugar se mudar de direção à direita.
+Certo, pois nos entroncamentos sem sinalização os eléctricos têm prioridade.
+Sim, pois os eléctricos têm prioridade de passagem nesta situação.
+Antes do velocípede, mas depois de ceder a passagem ao veículo de tracção animal.
+Depois do veículo da direita e antes do velocípede.
+Não, pois vou atravessar um entroncamento.
+Devo ceder a passagem.
+Sim.
+Ceder a passagem à ambulância.
+Depois do veículo da direita e do da frente.
+Devo ceder a passagem ao veículo da frente, porque vai mudar de direcção.
+Avançar depois do automóvel que vem da direita.
+Avançar, só depois da passagem do eléctrico.
+Errado.
+O meu veículo, o motociclo, o pesado e por último o veículo verde.
+O meu veículo, o motociclo e por último o veículo de tracção animal.
+A ambulância em primeiro lugar, seguido do veículo de tracção animal e o meu veículo em último lugar.
+O meu veículo, o motociclo, o veículo pesado e por último o velocípede.
+Ambulância, veículo pesado, veículo verde e por último o meu veículo.
+O meu veículo em primeiro lugar seguido do motociclo e em último lugar o automóvel ligeiro.
+O motociclo.
+O condutor da frente.
+O da esquerda.
+O veículo pesado.
+O meu veículo.
+O motociclo, porque apenas tem duas rodas.
+O motociclo.
+O meu veículo.
+O do último veículo a chegar à intersecção.
+O outro condutor.
+O meu veículo, o automóvel pesado e por último o velocípede.
+O meu veículo, o motociclo e por último o pesado.
+Em primeiro lugar o motociclo, seguido do veículo verde e em último lugar o meu veículo.
+O veículo pesado em primeiro lugar, seguido do motociclo e por último o meu veículo.
+Automóvel cinzento, o meu veículo, o automóvel azul e por último o velocípede.
+O automóvel cinzento e o motociclo em simultâneo e por último o meu veículo.
+O meu veículo, o motociclo, o automóvel ligeiro e por último o velocípede.
+Automóvel ligeiro, motociclo, meu veículo.
+O meu veículo, o motociclo, o automóvel ligeiro e por último o veículo de tracção animal.
+Motociclo, velocípede, automóvel ligeiro e por último o meu veículo.
+O meu veículo em simultâneo com o automóvel cinzento, e por último o automóvel à minha esquerda.
+O da esquerda.
+O do veículo de tracção animal.
+Não tem que ceder passagem.
+Sim.
+Encostar o mais possível à direita, ocupando a berma se necessário.
+Depois de me ceder a passagem.
+Em último lugar.
+Depois do meu veículo, mas antes da ambulância.
+Depois da ambulância.
+Em primeiro lugar.
+Antes do veículo verde e depois do motociclo.
+Depois de todos os outros veículos.
+Quando circula numa via principal.
+Em segundo lugar.
+Em segundo lugar.
+Depois da ambulância.
+Depois do velocípede, mas antes do veículo de tracção animal.
+Eu.
+O condutor do veículo que se apresenta à minha direita.
+O veículo em missão urgente.
+O condutor do automóvel ligeiro, apenas porque muda de direcção.
+Eu, porque o outro condutor pretende mudar de direcção.
+O meu veículo.
+Eu.
+O condutor do veículo dos bombeiros.
+O condutor que transitar a menor velocidade.
+Eu.
+Os condutores dos veículos que circulam em sentido contrário.
+Eu.
+O condutor da ambulância.
+O veículo da polícia.
+O condutor do veículo que chegou em primeiro lugar à passagem estreita.
+Eu.
+O condutor da esquerda.
+O condutor do veículo ligeiro.
+O condutor do veículo afecto à prestação de socorro.
+O condutor do veículo de cor preta porque vai entrar na rotunda.
+O condutor da ambulância.
+Em primeiro lugar.
+Parar.
+Ceder a passagem ao motociclo.
+Não, salvo se não assinalar devidamente a marcha de urgência.
+O condutor do veículo que sobe.
+Errado.
+Utilizar apenas os sinais luminosos, para que o condutor se aperceba que eu tinha a intenção de avançar.
+Errado.
+Sim.
+Utilizar os sinais sonoros e os sinais luminosos, porque eu tenho o direito de avançar.
+Aos automóveis.
+Sobre a ambulância, porque não transita em missão urgente de socorro.
+Sim, devo ceder sempre a passagem aos veículos que saiam de uma passagem de nível.
+Sim, devendo parar se for necessário.
+Errado.
+Depois do meu veículo, mas antes do motociclo.
+Sim.
+Não, porque sou mais rápido.
+Sim, aos veículos motorizados, independentemente do local.
+Passar rapidamente o automóvel pesado.
+Não.
+O veículo à minha esquerda tem o dever de ceder a passagem ao automóvel cinzento.
+Não devo parar.
+Não devo ceder a passagem.
+2004.
+Após um ano.
+Errado.
+Sim.
+Não, porque é um veículo construído para missões de urgência.
+Errado.
+De aceleração.
+Errado.
+Parar e ceder passagem.
+Errado.
+Errado.
+A afirmação é verdadeira.
+A afirmação é verdadeira.
+Motociclos até 50 cc.
+A taxa de alcoolemia.
+Errado.
+Uma diminuição da distância de segurança.
+É consequência unicamente da intensidade do trânsito.
+Diminuir a velocidade.
+Sim, desde que circule encostado à direita da faixa de rodagem.
+Em qualquer situação.
+Não deve ser inferior a 30 metros.
+A afirmação é verdadeira.
+Duas vias em cada sentido.
+Errado.
+Errado.
+Sim, excepto para os veículos com motor.
+O peso das mercadorias transportadas pelos veículos.
+Divide faixas de rodagem.
+Mudar de via de trânsito.
+A afirmação é verdadeira.
+É obrigado a circular junto ao eixo da faixa de rodagem.
+Quando circula e também quando está parado ou estacionado.
+O mais afastado possível.
+A uma distância que não permita a entrada de outro veículo.
+Sim, mas apenas quando as obras são feitas em auto-estrada.
+Da sinalização existente.
+Errado.
+Exclusivamente da sinalização.
+A afirmação é verdadeira.
+Sim, mas apenas o passeio do lado direito da via pública.
+Pode ter cruzamentos de nível.
+É uma via destinada ao trânsito local.
+Reduzam a velocidade de circulação.
+A 350 m do pórtico.
+Sim, excepto nas vias fora das localidades.
+Sim.
+Sim, desde que a sinalização luminosa permita avançar.
+Não.
+A afirmação é verdadeira.
+Sim, em caso de necessidade.
+Sim, porque me apresento pela direita.
+Circula fora de uma localidade.
+Sim, mas apenas sobre os veículos que se apresentem pela esquerda.
+Sempre que pretenda efectuar a manobra de ultrapassagem.
+Sim, ao circular fora de uma localidade, é permitida a utilização de sinais sonoros nas curvas de visibilidade reduzida.
+Circula numa via reservada unicamente a automóveis e motociclos.
+Errado.
+Sim.
+Via de aceleração.
+Errado.
+Aproximar-me, com a necessária antecedência e quanto possível, do limite direito da faixa de rodagem e efectuar a manobra no trajecto mais curto.
+Veja que os outros utentes se aperceberam da minha intenção.
+Via de aceleração.
+Sim, independentemente de estar ou não a ultrapassar.
+Sim, bem como para prevenir um condutor da intenção de o ultrapassar.
+Não, ao circular fora das localidades também posso utilizar os sinais sonoros em lombas de visibilidade reduzida.
+Sim, porque se à minha frente transitar um veículo pesado eu devo diminuir a distância de segurança.
+Não, excepto os sinais verticais.
+Que o veículo transita em missão urgente de socorro.
+Se desloca em alta velocidade.
+Não, apenas devem ser utilizadas em caso de avaria do veículo na via pública ou em caso de acidente.
+Sim, salvo se um condutor circular em missão de socorro.
+Não, apenas prevalecem na circulação fora das localidades.
+Sim.
+A afirmação é verdadeira.
+Sim.
+Sim, quando abertas ao trânsito público.
+Diminuir a distância de segurança.
+Apenas se houver feridos.
+É sempre um veículo prioritário.
+A afirmação é verdadeira.
+Sim, porque sigo em frente e estou a ultrapassar.
+Sim, se for adequada ao meu destino.
+Sim, porque dentro das localidades devo utilizar sempre a via de trânsito mais à direita.
+Sim, porque a via da direita é reservada a veículos pesados.
+Sim, porque transito em auto-estrada.
+Sim, porque não há uma grande intensidade de transito.
+Sim, porque existem veículos à minha frente.
+Sim, desde que seja conveniente ao meu destino ou para ultrapassar.
+Não, enquanto o veículo branco não terminar a manobra.
+Não, porque na auto-estrada é indiferente a via de trânsito em que circulo.
+Sim, porque pretendo mudar de direcção para a direita.
+Um sentido de trânsito.
+Sim.
+Sim, mas apenas enquanto o condutor não tiver muita experiência.
+Pode avançar porque é um veículo prioritário.
+É obrigado a parar.
+Durante o dia ou noite os condutores devem utilizar, repetidamente, os sinais sonoros.
+Devem suspender a sua marcha, embora possam prosseguir depois de tomadas as devidas precauções e sem esperar que a sinalização mude.
+De forma a dar a esquerda à parte central da rotunda.
+Devo utilizar sempre a via de trânsito mais à direita.
+Devo utilizar sempre a via de trânsito mais à direita.
+Manter a velocidade, com as devidas precauções.
+Mudar para a via de abrandamento.
+Devo seguir viagem e avisar as autoridades.
+Devo chamar de imediato um agente de autoridade ou os bombeiros e não mexer no veículo.
+Devo utilizar as luzes de perigo ou as luzes de nevoeiro.
+Pela via de trânsito da esquerda.
+Sim, apesar de apenas ser necessária a colocação das duas mãos quando se circula a velocidades elevadas.
+Sim, sempre.
+50 metros.
+Sim, devo circular na via de trânsito mais à direita.
+Sim, em qualquer situação.
+Sim, se a minha intenção for mudar de direcção à direita.
+Apenas para o condutor e passageiro transportado no banco da frente.
+Um entroncamento.
+Ter um veículo novo.
+Não, salvo se o aparelho tiver um auricular e a sua utilização não implicar manuseamento continuado.
+Permanecer dentro do veículo, após a colocação do sinal de pré-sinalização de trânsito.
+Informar as entidades competentes.
+A probabilidade de ser fiscalizado.
+Todas as distâncias a manter em relação aos outros veículos.
+Sim, mas apenas em relação aos veículos que transitam à minha frente.
+Regra geral, na via de trânsito da direita.
+A afirmação é verdadeira.
+A marca do meu veículo.
+Circular na via de trânsito mais à esquerda, mas apenas porque a intensidade de trânsito é reduzida.
+Dois sentidos de trânsito.
+Três vias de trânsito.
+Errado.
+A afirmação é verdadeira.
+Três faixas de rodagem.
+Deve utilizar a mão esquerda.
+Sim, se circular em missão de socorro e assinalar a marcha de urgência.
+Sim, se circular a mais de 50 km/h.
+Seguir em frente ou mudar de direcção para a direita.
+Não, devo circular o mais próximo possível do eixo da faixa de rodagem.
+Telefone público.
+Sim, devem manter uma distância não inferior a 150 metros.
+Fossem mais defensivos.
+Na via mais à direita.
+Errado.
+Errado.
+Sim, desde que sinalize antecipadamente a minha intenção.
+Pelo lado esquerdo, normalmente.
+Sim, pois transita em missão urgente de socorro.
+Devem ceder passagem aos veículos que se apresentem pela direita.
+Sim, dentro ou fora de uma localidade.
+Não podem transitar por aí, porque se destinam ao transporte público.
+Duas filas para cada sentido.
+Errado.
+Regra geral, na via de trânsito do centro.
+Sim, se pretender mudar de direcção.
+Podem ocupar a via de trânsito mais conveniente.
+Existem duas vias de trânsito, uma em cada sentido.
+Sim, se a velocidade a que circulo me permitir parar no espaço livre e visível à minha frente.
+À sinalização vertical.
+Sim, porque a fila da direita também permite seguir a direcção pretendida.
+Manter o veículo na mesma fila de trânsito.
+Errado.
+Sim, desde que não comprometa a segurança dos peões.
+Uma maior distância de segurança do veículo da frente.
+Circular a distância suficiente do veículo que segue à minha frente para evitar acidentes.
+Utilizar os sinais sonoros.
+Parar e esperar que o condutor conclua a manobra.
+Mudar para a via de trânsito da esquerda, se pretender ultrapassar.
+Numa via destinada a trânsito rápido com acessos condicionados.
+Sim, porque assinala que vai em missão urgente de socorro.
+Sim.
+Sim, porque a ambulância assinala a marcha de urgência.
+Sim, porque a ambulância assinala marcha de urgência.
+Ultrapassagem, independentemente de existir ou não alteração de trajectória.
+Das condições do pavimento.
+Três vias de trânsito, uma delas reservada a veículos de transporte público.
+O veículo assinala marcha de urgência.
+Sim, para ceder passagem.
+Reduzir a velocidade e ceder a passagem.
+Sim.
+Errado.
+Sim.
+Sim.
+Errado.
+A afirmação é verdadeira.
+Posso, se não impedir a passagem a veículos de transporte público.
+Posso, pois não transponho nenhuma linha contínua.
+Sim, se pretender mudar de direcção para a direita.
+Sim.
+For previsível que o trânsito me obrigue a imobilizar dentro do cruzamento.
+O meu automóvel, porque se vai cruzar com a ambulância.
+Mudar imediatamente de fila.
+Sim, mas apenas se a fila que transita mais depressa for a da esquerda.
+Leve.
+Diminui.
+Diminuir.
+Errado.
+Tem três sentidos de trânsito.
+Devo mudar de via de trânsito, porque não circula nenhum veículo em sentido contrário.
+Parar.
+Sim, desde que nada tenha a declarar na portagem.
+Para inverter o sentido de marcha.
+Existem dois sentidos em cada via de trânsito.
+Existem quatro faixas de rodagem.
+Errado.
+Errado.
+Sim, porque circulo numa via principal.
+Sim, mas condicionada ao cumprimento das regras e sinais de trânsito.
+Não.
+Sim, o passageiro transportado no carro.
+É indiferente.
+Pelos dois condutores.
+Sim, se forem todos sentados.
+Errado.
+Sim, devo manter distância lateral suficiente para evitar acidentes.
+Não.
+Não.
+Sim, mas apenas os condutores de automóveis ligeiros.
+Errado.
+Se transitar na auto-estrada a uma velocidade superior a 120 Km/h.
+Se transitar na auto-estrada a uma velocidade superior a 120 Km/h.
+Não, excepto se circularem veículos em sentido contrário.
+Sim, mas apenas os sinais de trânsito sendo obrigado a cumprir as regras.
+Sim, mas apenas se assinalarem adequadamente a sua marcha.
+Evitar ser ultrapassado.
+Errado.
+Não, porque os veículos estão imobilizados.
+Errado.
+Apenas como peão.
+Permitir que o condutor do veículo branco termine a manobra.
+A necessidade de reduzir subitamente a velocidade.
+Sinalizar o meu veículo e mudar de direcção logo que possível.
+Errado.
+Quando assinalar adequadamente a marcha de urgência.
+Sim, porque transita em missão urgente de socorro.
+Sim, porque assinala a missão urgente de socorro.
+Não deve parar junto ao sinal Stop.
+Não respeitar as ordens dos agentes reguladores de trânsito.
+Sim.
+Não, só os condutores de automóveis pesados de mercadorias estão obrigados a manter entre si uma distância de segurança não inferior a 50 metros.
+Não, salvo para assinalar qualquer manobra.
+Sim, devem ainda manter distância lateral suficiente para evitar acidentes entre o seu veículo e os que transitam na mesma faixa de rodagem e no mesmo sentido.
+Sim, sempre.
+Sim, desde que a missão, qualquer que seja, assim o exija.
+Não devem fazer uso de sinais sonoros.
+Sim, são obrigados a suspender a marcha.
+Sim, excepto quando no mesmo sentido são possíveis duas ou mais filas de trânsito.
+Estarão a praticar uma infracção.
+O mais rapidamente possível e se não existir uma passagem de peões a menos de 50 m.
+Não, porque é proibido correr nas pistas.
+A afirmação é verdadeira.
+Errado.
+Não, porque têm que respeitar todas as regras e sinais de trânsito.
+Sim, mas apenas durante o dia.
+Só quando houver veículos a circular em sentido contrário.
+Para a direita, utilizando a berma se necessário.
+Passar progressivamente para via de trânsito mais à direita.
+Devo mudar rapidamente de via de trânsito.
+Parar em cima da marca inscrita no pavimento.
+Sim, posso mudar de via de trânsito estando obrigado a sinalizar a manobra e circular com uma velocidade especialmente moderada.
+As indicações resultantes dos sinais verticais prevalecem sobre as marcas rodoviárias.
+Sim, mas apenas se tiver envolvido no acidente.
+Errado.
+Apenas os peões.
+Sim, desde que não se possam confundir com os sinais de trânsito ou prejudiquem a sua visibilidade.
+O trânsito for muito intenso.
+Sim, desde que circule a uma velocidade não inferior ou igual a 50 km/h.
+Sim, desde que o faça após a passagem do eléctrico.
+Sim, estou obrigado a transitar na via da direita.
+Sim, porque desse modo poluo mais o ambiente.
+Sim, desde que circule a velocidade especialmente moderada.
+Sim, posso utilizar a via de trânsito apenas para mudar de direcção à esquerda.
+Sim, caso esteja a efectuar uma ultrapassagem.
+Para parar.
+Sim, para circular.
+Sim, mas apenas para ultrapassar.
+Sim, mas apenas porque circulo fora de uma localidade.
+Sim, de forma breve e apenas em caso de perigo iminente.
+Sim, mas apenas em caso de perigo iminente.
+Sim.
+Ligar os quatro 'piscas' em simultâneo.
+De modo a que fique à minha esquerda.
+Mudar de via de trânsito.
+Mudar para a via de trânsito da direita.
+Não, devo utilizar a via de trânsito mais à esquerda.
+Mudar para a fila de trânsito da esquerda.
+Mudar para a via de trânsito da esquerda.
+50 m.
+80 km/h que é o limite estabelecido pela sinalização temporária.
+O Homem.
+Apenas quando circulo em auto-estrada devido às maiores velocidades praticadas.
+Quando nas mesmas não exista qualquer velocípede em circulação.
+De travagem.
+O veículo de polícia, porque se encontra à minha esquerda e não assinala marcha de urgência.
+Os passageiros de motociclos com carro lateral.
+Sim.
+Na via de trânsito mais à direita.
+Circular em qualquer via de trânsito segundo a velocidade a que circulo, sendo que a via mais à direita se destina ao trânsito lento.
+Pelo lado direito da faixa de rodagem, o mais próximo possível das bermas ou passeios.
+Dos bombeiros.
+Sim, mas com prudência.
+Continuar a marcha, porque a intensidade do trânsito não justifica a paragem.
+Deve ser menor.
+Sim, devo aguardar no local a chegada do agente da autoridade.
+Não.
+Sinalizar de imediato o local do acidente e pedir auxílio às autoridades.
+Mudar para a via de trânsito da direita.
+Sim, mas só depois de ter chamado os agentes de autoridade.
+Posso efectuar com rapidez as manobras de mudança de direcção, ultrapassagem, paragem e estacionamento.
+Sim, dentro de uma localidade.
+Mudar de direcção.
+Manter a mesma velocidade.
+Deverei aumentar também a velocidade.
+Passar para a via de trânsito da direita.
+Passar, sem preocupações, porque a sinalização luminosa me permite avançar.
+No local mais próximo do entroncamento, devo aproximar-me o menos possível do limite direito da faixa de rodagem e efectuar a manobra de mudança de direcção.
+Errado.
+Sim, porque a ambulância vai em missão urgente de socorro.
+Não, só é obrigatório sinalizar a mudança para a via da esquerda.
+Transitar em qualquer das vias de trânsito, independentemente das condições de circulação.
+Sim, mas apenas os veículos que circulem em vias públicas.
+Não inferior a 50 metros, se transitar fora da localidade.
+Não posso mudar de direcção, porque estou impedido de mudar de fila.
+Geralmente destinada ao trânsito de velocípedes e que ladeia a faixa de rodagem.
+Não, salvo se o Código da Estrada não proibir.
+Não, desde que não ponha em causa a segurança dos outros utentes da via.
+Caminho.
+A utilização permanente das luzes de perigo.
+A velocidade do veículo.
+Errado.
+Sim.
+Um menor número de intersecções.
+A afirmação é verdadeira.
+Errado.
+Desviar-me para a esquerda e avançar primeiro.
+Errado.
+Sim, segurança activa.
+Sim, mas apenas em grandes viagens.
+Num centro de inspecções localizado no concelho da área de residência do condutor.
+Sim, mas apenas se eu pretender atingir "grandes velocidades".
+Cujo peso bruto exceda 3500 Kg.
+Quentes.
+Apenas quando o veículo é sujeito à inspecção periódica.
+Durante a viagem.
+Aquela que o fabricante indicar.
+A pelo menos 150 metros.
+A pelo menos 150 metros.
+A pelo menos 120 metros.
+Das zonas laterais do piso e diminui a aderência.
+Com o motor desligado, imediatamente depois de ter parado.
+Regularmente com o motor a frio.
+Sim, desde que mantenha o motor do veículo a trabalhar.
+Regularmente, pelo condutor.
+Não, só nos lugares da frente.
+Desequilíbrio do veículo.
+Diminuição da distância de paragem.
+Mandá-lo reparar.
+Apenas a carga do veículo.
+Não.
+Sim.
+Nunca podem transitar na via pública.
+Automóveis ligeiros mistos.
+Motociclo, se a sua tara não exceder 750 Kg.
+Sempre que o condutor não aviste a via de trânsito numa extensão e largura de, pelo menos, 50 metros.
+Os automóveis cuja lotação não exceda 10 lugares.
+Veículos estacionados fora da faixa de rodagem.
+As luzes.
+Todos os veículos a motor.
+Apenas os motociclos de cilindrada superior a 50 cm3, com ou sem carro lateral.
+O Homem.
+Gasolina com chumbo.
+Do número de quilómetros percorridos.
+Somente dentro das localidades.
+O veículo imobilizado não for visível a 200 metros.
+O seu construtor.
+A via de trânsito reservada a veículos de determinada espécie ou afectos a determinados transportes.
+Permite a livre circulação de todos os veículos.
+De um veículo imobilizado na faixa de rodagem.
+Errado.
+Irei encontrar um obstáculo, pelo menos, a 30 metros.
+Veículos estacionados fora da faixa de rodagem.
+Uma máquina agrícola.
+Sim.
+Sim, excepto nos casos em que não tenha sido interveniente no acidente.
+Errado.
+O veículo parado na faixa de rodagem não é visível a 100 metros.
+É igual em todos os veículos.
+O condutor e os passageiros do banco de trás, se forem crianças.
+O condutor fica detido.
+8 lugares.
+Contrariam as oscilações das molas.
+Passiva.
+Sim.
+Errado.
+Deve ser o indicado pelo fabricante.
+Praticando uma condução económica.
+Só pode transitar a menos de 60 km/h.
+Sim, porque deve contribuir para evitar a sua degradação.
+Mais de 12 metros de comprimento.
+Sim, dá indicação da temperatura do líquido de refrigeração do motor.
+O número de rotações do motor por minuto.
+À velocidade a que o automóvel circula.
+Errado.
+Pesados de mercadorias.
+Indicar apenas a velocidade média a que o veículo circula.
+O veículo altera a trajectória.
+Mandar reparar o sistema de escape.
+A estabilidade do veículo é afectada.
+Pressão exagerada de ar no interior dos pneus.
+Errado.
+Aumentar o conforto do condutor.
+Não, quem decide qual o combustível a utilizar é sempre o proprietário.
+Errado.
+Sim, porque é visível a 100 metros.
+Sim, porque assinala claramente o obstáculo.
+Sim, desde que esteja no pavimento em qualquer posição.
+150 metros.
+Sim, quando o veículo é visível a 100 metros.
+Em caso de avaria ou acidente, salvo se o veículo se encontrar imobilizado na faixa de rodagem.
+Sim, porque é um veículo de duas rodas e pode ser accionado só pelo esforço do condutor.
+Sim, se o seu peso não ultrapassar os 550 Kg.
+É um veículo de marcha lenta.
+Uma máquina agrícola.
+Sim, mas apenas pode transitar em caminhos particulares.
+A velocidade máxima a transitar no local.
+O número de quilómetros a percorrer.
+Automóveis pesados de mercadorias.
+Sim.
+Sim, se estiverem equipados com motor diesel.
+Permitir diferenciar um dos ocupantes do veículo dos agentes de autoridade que se encontram no local, em caso de acidente.
+Diminuir o consumo de combustível.
+O Homem, o veículo e a via.
+Com tara superior a 3,5 toneladas.
+1,5 mm.
+1,5 mm.
+Ao transporte de mercadorias.
+As pessoas que o veículo pode transportar, incluindo o condutor.
+Aumentar a velocidade do motor.
+Um peso de 75 kg.
+Dióxido de carbono.
+Errado.
+Sim.
+Categoria B.
+Carta de condução de automóveis pesados de passageiros.
+Ligo o movimento das rodas ao movimento do motor.
+Interrompe-se a ligação do movimento entre o motor e as rodas.
+A visão é mais nítida no centro desse pormenor mas mais difusa nas zonas laterais.
+Só no caso dos fumos serem negros.
+Automóveis ligeiros, automóveis pesados e motociclos.
+O seu normal utilizador.
+Antes de iniciar a marcha, com o motor a trabalhar.
+Do proprietário do veículo.
+Com menos segurança activa.
+Desapertar as porcas totalmente.
+Sim.
+Sim, desde que o peso bruto do reboque não exceda 6000 Kg.
+Errado.
+Não prejudica a estabilidade do veículo desde que circule junto à berma.
+Sim.
+Olhar de modo a explorar visualmente, e em pouco tempo, o maior número de pormenores que o rodeiam.
+Líquido de arrefecimento.
+Pode transitar até à data da próxima inspecção periódica.
+No período máximo de 30 dias.
+Errado.
+Errado.
+Errado.
+Redução da visão lateral.
+Na recolha da informação.
+Não, se forem ingeridas durante a refeição.
+Sim, mas apenas no caso dos sedativos e tranquilizantes.
+Contra-ordenação muito grave.
+Contra-ordenação muito grave.
+Contra-ordenação leve.
+Diminui o tempo de recuperação após encandeamento.
+Errado.
+Sim, se o valor for igual ou superior a 0,8 g/l.
+A afirmação é verdadeira.
+Errado.
+O aumento do tempo de reacção.
+Diminui o risco de acidente.
+Sim.
+O aumento da capacidade de atenção e concentração.
+A distância de reacção do condutor.
+A diminuição do tempo de reacção, logo a sua atenção é maior.
+Sim, assim como influencia toda a tarefa da condução.
+A redução da distância de paragem.
+Diminuição do tempo de reacção.
+Da distância de travagem.
+Não, só afecta o condutor de acordo com a idade que tiver.
+Errado.
+Sim, o álcool aumenta o campo visual.
+Diminui a resistência física do condutor.
+Necessitar de menos tempo para reagir.
+Um aumento da capacidade visual.
+Dificuldade de recuperação após encandeamento.
+Aumentar o tempo de reacção, mas não a distância de paragem.
+Diminui a capacidade de reacção do condutor.
+Diminui o campo visual.
+Errado.
+Não, os medicamentos apenas podem prejudicar a capacidade visual do condutor.
+Não, são mais afectados os condutores de menos idade.
+Vias com perfil sinuoso.
+Errado.
+Sim, mas apenas na condução nocturna.
+A hora do dia
+Avaliar distâncias.
+Errado.
+Perda total de visão lateral.
+Distinguir cores.
+Seis meses a dois anos.
+A afirmação é verdadeira.
+Ficam alteradas.
+Durante a 2ª hora.
+Logo durante a 1ª hora.
+Parece mais longe.
+O condutor é menos afectado de dia.
+Mais longe.
+Melhorar a sua capacidade de avaliação das condições do trânsito.
+Através da redução do risco de acidente.
+Errado.
+De uma contra-ordenação leve.
+Leve.
+Fica com as suas capacidades para a condução diminuídas.
+2 horas.
+Apenas com inibição de conduzir.
+Contornar a placa pela esquerda.
+Parar de vez em quando para tomar café.
+Circular junto ao eixo da faixa de rodagem.
+Contornar a placa ou obstáculo.
+Diminui a visão periférica.
+Aumenta o tempo de reacção e a capacidade de previsão.
+Diminui a capacidade de atenção.
+Sim, porque a distracção não influencia a condução.
+Igual ou superior a 0,5g/l.
+0,8 g/l.
+0,4 g/l.
+Igual ou superior a 1,0 g/l.
+A afirmação é verdadeira.
+O veículo parado a aguardar a passagem do comboio.
+A paragem junto a um sinal de stop.
+Diminuindo o grau de atenção e de concentração.
+Diminui.
+Do perfil da via.
+A fadiga.
+Ir bebendo bebidas energéticas, enquanto puder.
+Fazer paragens para relaxar o corpo e desentorpecer as pernas.
+0,7 g/l.
+1,1 g/l.
+0,9 g/l.
+Inferior a 0,5g/l no sangue.
+Diminuição do tempo de reacção e aumento da distância de paragem.
+Na recolha de informação.
+Na diminuição do tempo de fixação dos olhos nos objectos.
+A afirmação é verdadeira.
+Errado.
+Sentido obrigatório.
+É proibido voltar para a direita.
+Posso passar em primeiro lugar.
+Que só podem transitar veículos com pneus especiais para este tipo de via.
+Estou obrigado a circular à velocidade máxima de 30 Km/h.
+Fim da recomendação da utilização de correntes de neve.
+Sim e a sinalização permite-me realizar a manobra.
+Sim, mas apenas se forem ingeridos juntamente com bebidas alcoólicas.
+A afirmação é verdadeira.
+A afirmação é verdadeira.
+Sim.
+Igual a 0,5 g/l.
+A afirmação é verdadeira.
+Pode aumentar o tempo de reacção do condutor.
+Só pode se o motociclo não tiver carro lateral.
+Reduzir a velocidade.
+Visão e atenção.
+Em todas as rodas.
+Num litro de sangue do condutor existem 0,4 gramas de álcool puro.
+De 2 em 2 horas.
+Fumar e ouvir música muito alto.
+Sim, mas apenas quando a taxa de álcool no sangue é muito elevada.
+Diminui a percepção visual.
+Ingestão de bebidas alcoólicas.
+Quando a bebida é ingerida em jejum.
+6 horas.
+Se estacionar o seu automóvel em cima do passeio.
+Nas 18 horas seguintes.
+Reage rapidamente por aumento dos reflexos.
+Reagir rapidamente por aumento de reflexos.
+Não, o efeito da bebida alcoólica desaparece se o condutor tomar um café.
+Diminuir o tempo de reacção.
+Errado.
+Errado.
+Sim.
+Sim, mas apenas se o condutor circular fora de localidades.
+O tempo de reacção e a distância de travagem.
+Não influencia a tarefa de condução.
+Sim, mas unicamente se estiver sob a influência do álcool com taxa superior a 0,8 g/l.
+24 horas.
+Maior nível de atenção e reflexos mais rápidos.
+Moderar a velocidade, evitando parar o veículo.
+Capacidade de ver durante a noite.
+É a capacidade do indivíduo para distinguir os objectos ao longe.
+A largura da faixa de rodagem.
+Num litro da bebida alcoólica existem 0,5 gramas de álcool.
+Máxima recomendada.
+Que apenas estou autorizado a mudar de direcção à esquerda.
+Que nas vias da direita e da esquerda o trânsito se faz nos dois sentidos.
+Apenas pelo lado esquerdo.
+Obriga-me a contornar a placa ou obstáculo pelo lado indicado pela seta.
+A afirmação é verdadeira.
+Posso tomar um de dois sentidos obrigatórios possíveis.
+Sou obrigado a seguir em frente.
+Que o trânsito passa de uma para duas vias.
+Circulação proibida a cavaleiros.
+A via à direita é destinada à circulação de peões e velocípedes.
+Não tenho que ceder a passagem.
+Sou obrigado a seguir em frente.
+Trânsito de sentido único.
+Subida perigosa.
+Obriga a utilizar correntes de neve.
+Não. O sinal indica que circulo ao lado de uma pista obrigatória para velocípedes.
+A afirmação é verdadeira.
+Que estou obrigado a transitar com as luzes de cruzamento acesas.
+Errado.
+Sim, porque apenas são submetidos ao teste, os condutores intervenientes em acidente.
+Errado.
+Sim, embora os efeitos dos medicamentos não possam ser aumentados pelo álcool.
+Não, tal só acontece com os anti-depressivos.
+Sim, quando intervenham em acidente.
+Sim, mas apenas ingeridos com bebidas alcoólicas.
+A afirmação é verdadeira.
+Respeitar o sinal de STOP e mudar de direcção à direita.
+Seguir em frente, logo que a sinalização luminosa mo permita.
+Não devo ceder a passagem.
+É proibido usar correntes de neve.
+A virar à esquerda.
+Sou obrigado a circular no sentido das setas.
+Contornar a placa ou obstáculo.
+Virar à esquerda ou fazer inversão de sentido de marcha.
+Virar à esquerda ou inverter o sentido de marcha.
+Sou obrigado a transitar com correntes de neve em duas rodas motoras do meu veículo.
+Circulo numa via de trânsito de sentido único.
+Errado.
+Obrigação de transitar com as luzes de estrada acesas.
+Aumenta os reflexos e acalma o condutor.
+Diminuição da capacidade de ver lateralmente.
+A largura da via.
+Diminuição do número de erros ao volante.
+Aumenta a capacidade receptiva dos órgãos dos sentidos.
+Visão em profundidade.
+Visão frontal.
+Aumenta a sua capacidade para avaliar as velocidades.
+Aumenta o tempo de recuperação da visão após encandeamento.
+Obrigação de seguir em frente.
+Com coima de 360€ a 1800€ e inibição de conduzir de 2 mês a 2 ano.
+Muito grave.
+Um tempo de reacção mais longo.
+Contra-ordenação, independentemente da TAS.
+Contornar a placa pela direita.
+Evitar ingerir qualquer quantidade de álcool.
+Reage mais rapidamente ao meio envolvente.
+À taxa de álcool superior a 0,8 g/l.
+Sim, mas só se o condutor tiver sintomas de ter ingerido bebidas alcoólicas.
+Sim, nas 24 horas seguintes.
+Sim, após dormir uma hora, desaparece o efeito da bebida alcoólica.
+Mais rapidamente.
+Sim, mas só quando apresentar sintomas evidentes de ter ingerido álcool.
+12 horas.
+Sim, grave.
+O aumento da capacidade de atenção.
+Da rapidez dos reflexos.
+Da fadiga.
+Uma capacidade de decisão mais eficaz.
+O aumento da capacidade de reacção.
+Errado.
+Eufórico.
+O estreitamento do campo visual.
+A sonolência.
+Da distância de paragem.
+Num litro de sangue existem 0,3 gramas de álcool puro.
+Num litro de sangue existem 0,5 gramas de álcool puro.
+Num litro de sangue existem 0,8 gramas de álcool puro.
+Engrenar uma mudança de força em andamento.
+Sim, mas apenas em circulação urbana.
+Com a experiência.
+Sim, desde que não exceda 10 cm.
+Sempre pela direita.
+Sempre pela direita ou pela retaguarda.
+Por períodos máximos de meia hora.
+Sempre pela retaguarda ou pelo lado permitido para a paragem.
+Reduzir a visibilidade do condutor.
+Não ultrapassar os limites de velocidade impostos por lei e transitar com as luzes de presença sempre ligadas.
+O condutor ser sempre o primeiro a avançar em todas as intersecções.
+Cumprir apenas o Código da Estrada.
+Uma condução perigosa.
+Sim, porque eu nunca devo ligar as luzes de estrada.
+Manter a mesma velocidade.
+Errado.
+Vou entrar numa auto-estrada.
+De forma a garantir o equilíbrio do veículo, parado e em marcha.
+Errado.
+Pelo lado permitido para a paragem.
+Sempre pelo lado direito.
+O condutor está a travar.
+30 metros.
+Não, a manobra é permitida.
+Proíbe todos os condutores de parar antes do cruzamento.
+Que o condutor aumente a velocidade para ser o primeiro a avançar.
+Da sua pressa.
+Errado.
+Errado.
+O menor.
+Não.
+Sim, de peões, veículos e animais.
+Aplicar técnicas de condução defensiva, evitando o acidente.
+Errado.
+Colocar o seu cinto de segurança, já que as crianças se encontram no banco de trás, não necessitando dele.
+Ligar as luzes de perigo.
+Ligar as luzes de estrada do meu veículo.
+Utilizar as luzes de cruzamento.
+É proibido o uso das luzes de nevoeiro sempre que as condições meteorológicas ou ambientais não o justifiquem.
+Fazer uso das luzes de cruzamento.
+Sim, se existirem condições meteorológicas que tornem a visibilidade insuficiente devo ligar as luzes de estrada.
+Sim, mas sem provocar encandeamento.
+As luzes de estrada porque o Código da Estrada me obriga.
+Sim, mas só durante a noite.
+Errado.
+Reduzir a velocidade ou mesmo parar para ceder a passagem ao peão.
+Reduzir a velocidade e parar para ceder a passagem ao peão.
+Pratico uma condução defensiva.
+Ao facto de circular numa via com trânsito num só sentido.
+Parar e utilizar os sinais sonoros como forma de protesto.
+Sempre pelo lado direito.
+Sim, se o automóvel não dispuser de cintos de segurança no banco da retaguarda.
+Errado.
+Não, porque só é permitida a utilização de sinais sonoros fora das localidades.
+Errado.
+De, pelo menos, 100 metros.
+150 metros.
+Branca ou amarela.
+Para iluminar o solo, simultaneamente com os máximos.
+Não superior a 100 metros.
+Ter um alcance máximo de 20 metros.
+A afirmação é verdadeira.
+Branca ou amarela.
+Nevoeiro.
+Errado.
+150 metros.
+Pela direita, tão rápido quanto possível.
+Devo manifestar o meu desagrado, utilizando os sinais sonoros.
+Fazer o sinal gestual indicativo da intenção de parar.
+Agir em conformidade com os outros utentes, evitando o acidente.
+Sim, enquanto utentes da via pública.
+Sim, considerando que os peões não têm deveres enquanto utentes da via pública.
+Não, porque a mercadoria que transporta não está correctamente acondicionada.
+Diminuir a distância de segurança.
+Sempre com as luzes de cruzamento ligadas.
+Vermelha ou amarela.
+Brancos ou amarelos.
+Vermelha ou alaranjada.
+Só podem ser de cor branca ou amarela.
+Pelo lado direito.
+Sim, mas não devo parar.
+Me aproxime de uma curva de visibilidade reduzida.
+30 metros.
+30 metros.
+Sim, mas apenas por precaução.
+Não, nunca.
+Sim, desde que não provoque encandeamento.
+Sim, desde que não causem perigo aos outros utentes da via.
+Sim, se provocarem encandeamento.
+Com as luzes de estrada ligadas durante o dia ou noite porque se trata de uma via onde se praticam velocidades elevadas.
+Retirar o veículo da faixa de rodagem, independentemente da gravidade do acidente.
+Não.
+Não.
+Sim, mas apenas pelo tempo estritamente necessário até um local de paragem ou estacionamento.
+Sim, porque circulo dentro de uma localidade.
+Ligar as luzes de perigo e aguardar a chegada de um reboque.
+Errado.
+Transitar com as luzes de cruzamento.
+O principal peso fique sobre o eixo da retaguarda.
+Sim, apenas desde o anoitecer ao amanhecer.
+Sim, mas apenas quando estão sozinhas.
+Deve colocar a carga mais pesada na parte superior do veículo.
+Sim, desde que tenha idade superior a 12 anos.
+Sim.
+Ligar as luzes de perigo e todos os utentes têm assim o dever de sair do seu caminho.
+Por saber que partilho a via pública com todo o tipo de utentes.
+Sim, mas apenas se estiver a circular.
+Sim, apenas porque está de costas.
+Necessidade de cumprir a regra de cedência de passagem.
+Sim, desde que por motivo de avaria.
+Sim, desde que os passageiros da frente coloquem o cinto de segurança.
+Sim, mas apenas durante a noite.
+Sim, qualquer manobra se for executada de forma imprudente.
+Iluminar a via para a frente do veículo.
+Não, nesta situação apenas o condutor deve entrar pelo lado esquerdo.
+Sim, mas apenas quando não há iluminação no local.
+Não seja excedida a altura máxima de 4 metros.
+Errado.
+Sim.
+Apenas quando o veículo se encontra parado.
+Que o peso da tara não seja ultrapassado.
+Errado.
+Ignorar o comportamento dos outros utentes e concentrar-me unicamente na minha condução.
+Branca ou vermelha.
+Errado.
+Que não seja sinalizada.
+Praticar uma condução adequada, ao tipo e condições da via.
+Sim, desde que inicie a manobra rapidamente, pelo que não é necessário sinalizá-la.
+Sim.
+Ceder passagem aos peões que não tenham iniciado a travessia apesar da luz verde.
+Estrada.
+Ao comportamento dos peões.
+Ao estado do piso.
+Ao acondicionamento da carga no veículo da frente.
+A pelo menos dois metros do veículo da frente.
+Mudar para a via da esquerda, para ultrapassar o pesado de mercadorias.
+Estar especialmente atento à inexistência de marcas rodoviárias.
+Transitar com precaução.
+Prever o comportamento dos peões e decidir em conformidade.
+Estar especialmente atento ao comportamento dos peões.
+Estar especialmente atento ao comportamento do outro condutor.
+Errado.
+As luzes de perigo.
+Fazer sinais de luzes aos outros condutores.
+Pelo lado direito do veículo.
+Errado, porque o condutor do velocípede, não pode alterar a trajectória.
+Não modificar a minha velocidade e utilizar os sinais sonoros.
+Estar atento ao comportamento dos peões.
+Estrada, porque o local é mal iluminado.
+Circulo numa zona residencial.
+De cruzamento.
+Às características do veículo que circula à minha frente.
+Ao limite máximo de velocidade imposto para a circulação nas localidades.
+À presença do peão na faixa de rodagem.
+Não, porque existem veículos estacionados fora da faixa de rodagem.
+Contornar a bola pelo lado direito.
+Manter a velocidade, buzinando constantemente.
+Estar atento ao comportamento dos peões.
+Moderar a velocidade e prever o comportamento do peão.
+Protestar utilizando os sinais sonoros, para que o peão atravesse.
+Preparar-me para contornar os veículos imobilizados.
+Transitar com especial prudência e com as luzes de perigo ligadas.
+Ultrapassar de imediato.
+Evitar ceder a passagem aos peões.
+Utilizar os sinais luminosos.
+A ligar as luzes de perigo.
+Parar, sair do veículo e desviar a criança para fora da faixa de rodagem.
+Fazer marcha atrás.
+Obriga a um procedimento.
+Parar e ligar as luzes de perigo.
+Certificar-me que o posso fazer em segurança.
+Eu tenho o direito de avançar logo que exista espaço para o meu veículo circular.
+Devo utilizar os sinais sonoros, ao passar ao lado do peão.
+Sou obrigado a parar.
+Estou mais cansado.
+Os condutores são obrigados a parar.
+Todos os ocupantes dos veículos.
+Ligar as luzes de perigo para assim ser visto por todos os utentes.
+Sim, aproximo-me de uma zona onde circulam veículos a velocidade moderada.
+Na berma.
+Inverter o sentido de marcha.
+Ao tipo de pavimento em que circulo.
+Sim.
+Sim.
+Circular com as luzes de perigo ligadas.
+Posso ultrapassar, porque existem 2 vias de trânsito neste sentido.
+Posso ultrapassar.
+Não é superior ao peso da tara.
+Sim, mas apenas quando estiver parado.
+Apenas dos passageiros do veículo.
+Duas à frente e uma atrás.
+Os médios e os máximos.
+Moderar a velocidade.
+De estrada.
+Sim, desde que exista sinalização para o efeito.
+Transitar com as luzes de estrada.
+Segurança passiva.
+Não, porque apenas utiliza o cinto de segurança quem tiver mais de 18 anos.
+A afirmação está incorrecta.
+É correcto, porque o condutor ligou as luzes do seu veículo.
+Sim.
+Não, porque se o veículo estiver avariado a reparação deve ser feita na faixa de rodagem.
+Sim, desde que circule a uma velocidade lenta.
+Sim, mas apenas porque se trata de um veículo ligeiro de mercadorias.
+Não, porque não escolheu um local adequado para o efeito.
+Errado.
+Sempre muito rápido para não provocar embaraço no trânsito.
+Contornar o peão.
+Pelas luzes de médios.
+Sim, porque a intensidade de trânsito neste local é bastante reduzida.
+Não, porque deveria circular em sentido contrário.
+Sim, se eu não estiver com muita pressa.
+Sim, mas apenas quando se encontra na faixa de rodagem.
+O mesmo cuidado que qualquer outro peão.
+Sim, desde que se encontre nos locais assinalados, para a travessia da faixa de rodagem.
+Por ser mais lento, regra geral, não lhe devo ceder a passagem.
+Sim.
+Errado.
+Estar especialmente atento ao comportamento do peão.
+Retirar o veículo da faixa de rodagem e, no seu interior, colocar o triângulo de pré-sinalização de perigo.
+Não remover o veículo sem a chegada do reboque.
+Ignorar a sua presença. Eu tenho prioridade.
+Parar e utilizar os sinais sonoros.
+Parar imediatamente.
+Contornar o peão, porque este já está quase a terminar a travessia.
+Moderar a velocidade e utilizar os sinais sonoros para alertar da minha presença.
+Fazer sinais de luzes, comunicando assim com os peões.
+Parar e utilizar os sinais sonoros.
+Fazer sinais de luzes e avançar, porque o peão não transita na minha via de trânsito.
+Parar se necessário, permitindo que o outro condutor avance.
+Avançar, utilizando os sinais sonoros para lembrar ao peão que na faixa de rodagem, transitam veículos.
+Contornar imediatamente o veículo imobilizado.
+Parar.
+Transitar com precaução, permitindo que o outro condutor termine a manobra.
+Ter em conta que estou a dividir o mesmo espaço com utentes bastante vulneráveis.
+Estar atento e, se necessário, aumentar a velocidade, mas nunca parar.
+Utilizar os sinais sonoros para que o peão se desvie.
+Parar.
+Parar atrás do veículo branco e aguardar que o seu condutor inicie a marcha.
+Manter o veículo imobilizado, mas utilizando os sinais sonoros de maneira a que os peões não demorem muito tempo a terminar a travessia.
+Ligar as luzes de estrada e estar atento à presença do peão.
+Parar obrigatoriamente.
+Parar.
+Parar, porque estou na proximidade de uma passagem de nível.
+Contornar o peão, porque se parar vou causar um aumento da intensidade de trânsito.
+Fique devidamente assegurado o equilíbrio do veículo parado ou em marcha.
+Sim, mas apenas o transporte efectuado por veículos de grandes dimensões.
+Errado.
+100 metros.
+Apenas acidentes.
+Sim.
+Sinalizar, verificar se estão reunidas todas as condições de segurança e só depois contornar o veículo.
+Sim, desde que o seu condutor esteja próximo do local.
+Sim, porque não pode circular a mais de 70 km/h.
+Nevoeiro.
+Sim, desta forma todas as crianças serão devidamente transportadas.
+Sim, mas só nos automóveis pesados.
+Não ultrapassar a tara do veículo.
+Errado.
+A sua estatura e o facto de não serem ainda condutores.
+20 metros.
+E iluminá-lo eficazmente numa distância de 50 metros.
+Pela esquerda.
+Sim, se não existir berma ou passeio.
+Não, porque não deviam circular entre as duas marcas rodoviárias.
+Sim, mas apenas quando transitam nos locais a eles destinados.
+Sim, desde que ocupem os locais a eles destinados.
+Só quando se aproximarem veículos.
+Sim, mas apenas nos locais destinados à sua circulação.
+Errado. Os condutores têm sempre o direito de avançar primeiro.
+Sim, porque a faixa de rodagem se destina também ao trânsito de peões.
+Têm direitos, mas não devem esquecer os seus deveres.
+São utentes da via pública que não têm regras a cumprir.
+Parar.
+Errado.
+Errado.
+Sim, mas apenas para a condução em auto-estrada.
+Não, porque os sistemas de retenção nem são obrigatórios.
+Sim, mas apenas para estacionar.
+À inexperiência dos seus condutores.
+Certo, porque podem mudar facilmente de trajectória.
+Requerem uma atenção especial e não podem transitar na auto-estrada.
+Sim, estes veículos devem circular sempre com as luzes de cruzamento acesas.
+A velocidade a que o mesmo transita.
+Devo transitar com velocidade bastante moderada.
+Errado.
+Ao limite de velocidade.
+Mínimos e máximos.
+Não. Porque não existe sinalização relativa à passagem de nível.
+A maior variedade de utentes num espaço comum.
+Parar para ser solidários com os intervenientes.
+Reduzir a velocidade e se necessário parar.
+Se houver pouco trânsito.
+Ligar as luzes de estrada.
+Circular a velocidade não superior a 60 km/h.
+Sim, quando a via for suficientemente iluminada.
+Não, porque o outro condutor está muito perto do seu veículo.
+Sim, mas apenas para largar ou receber passageiros.
+Não, porque estou próximo da passagem de peões.
+Em nada influencia os números da sinistralidade.
+Circular apenas na via de trânsito da direita.
+O meu comportamento é adequado, considerando o comportamento dos outros utentes.
+Moderar a velocidade.
+Contornar o outro veículo.
+Ao utilizar os sinais sonoros, com o objectivo de mostrar o meu desagrado perante determinado comportamento.
+Sim, porque o peão já iniciou a travessia.
+Luzes de estrada.
+As luzes de estrada porque a via não tem iluminação.
+As luzes de nevoeiro da frente.
+Luzes de estrada.
+Assinalar a presença do veículo.
+Parar, evitando assim qualquer risco para a segurança do peão.
+30 metros.
+Os outros utentes me cedam sempre a passagem.
+Sim, mas apenas quando são transportadas no banco da frente.
+Sempre que o condutor esteja indeciso acerca da direcção a seguir.
+Sempre que eu não consiga avistar nenhum veículo a uma distância de 30 metros.
+Sim, desde que nenhum veículo esteja parado à minha frente.
+Branca.
+Branca ou amarela.
+A carga deve ser colocada junto ao taipal traseiro do veículo, para facilitar a descarga.
+Pelo menos 120 metros.
+As luzes de nevoeiro e de presença.
+As luzes de marcha-atrás.
+A manobra de marcha atrás.
+Mudança de direcção à direita.
+Sim, desde que tenham 7 anos de idade.
+3 anos.
+Sempre pela velocidade.
+Branca ou amarela.
+Parar ao centro da intersecção.
+A idade do condutor.
+Ceder a passagem ao peão.
+Terá uma maior visibilidade da faixa de rodagem.
+Parar.
+Recorrer à manobra de ultrapassagem, para não perder muito tempo.
+Pela esquerda.
+Errado.
+A afirmação é verdadeira.
+Verdadeira.
+Se existir sinalização luminosa.
+Devo evitar ceder a passagem aos peões, para não provocar embaraço no trânsito.
+Errado.
+Têm o dever de ceder a passagem, porque os condutores têm o direito de passar por serem mais rápidos.
+Avançar, porque o outro veículo deve recuar.
+Avança sempre em ultimo lugar.
+Sim, excepto se não circular nenhum veículo à retaguarda.
+A segurança de todos os utentes.
+A instabilidade do veículo.
+Fazer sempre sinais de luzes aos veículos que circulam em sentido contrário.
+O equilíbrio do veículo.
+O peso total do veículo não seja igual ao peso bruto.
+Um comportamento na maioria das vezes desajustado da realidade.
+Não seja inferior ao peso bruto.
+Errado.
+Sim, mas apenas se estiver na faixa de rodagem.
+O aumento da atenção, porque existe maior diversidade de utentes.
+Errado.
+Errado.
+Errado.
+Certo, mas este cuidado apenas se aplica aos automóveis pesados.
+Errado.
+Conduzir sempre da mesma forma, independentemente das condições da via.
+Nunca ultrapassar os 40 km/h.
+Sim, a sinalização existente na via permite-me efectuar a manobra.
+A afirmação é verdadeira.
+Sim, a manobra é sempre proibida.
+Em todos os entroncamentos.
+Sim, salvo se existirem duas ou mais vias de trânsito no mesmo sentido.
+Não.
+Sim, a manobra de inversão do sentido de marcha é sempre proibida nas pontes.
+No menor trajecto possível.
+Lentamente.
+Sim, mas apenas como manobra auxiliar e no menor trajecto possível.
+Não, a manobra é proibida nas curvas de visibilidade reduzida.
+Sim, a marcha atrás é proibida em todos os entroncamentos.
+A afirmação é verdadeira.
+Sim.
+Deve efectuar-se sempre que se verifique grande intensidade de trânsito.
+Ocupando com a devida antecedência o eixo da faixa de rodagem.
+No trajecto mais longo.
+Sim, porque não há sinalização vertical que proíba a manobra.
+Sim, mas apenas se a visibilidade for reduzida.
+Marcha atrás.
+Nas vias de sentido único.
+Sim.
+É proibida neste local.
+Pelo lado direito da faixa de rodagem, independentemente do trajecto.
+Nunca a mais de 10 Km/h.
+Sim, a faixa de rodagem encontra-se livre na extensão e largura necessárias à realização da manobra com segurança.
+Sim, a linha contínua proibe apenas a manobra de ultrapassagem.
+Queiram mudar de direcção à esquerda, assinalando adequadamente a sua intenção.
+É uma via de abrandamento.
+Se a visibilidade é suficiente.
+Que a manobra seja efectuada o mais possível à esquerda da faixa de rodagem.
+Errado.
+Circular o mais próximo possível do passeio.
+Não, a manobra é possível se o veículo que circula em sentido contrário parar.
+A manobra de marcha atrás é permitida neste local em virtude das marcas rodoviárias.
+Posso efectuar a manobra de inversão do sentido de marcha lentamente, ainda que cause algum embaraço injustificado aos restantes utentes da via, mas desde que nunca cause qualquer perigo.
+A afirmação é verdadeira.
+Está proibido de inverter o sentido de marcha e que tem prioridade no próximo entroncamento.
+É sempre proibido inverter o sentido de marcha numa passagem de nível.
+Posso efectuar a manobra de inversão do sentido de marcha devendo aproximar-me do eixo da faixa de rodagem.
+Só posso efectuar a manobra de marcha atrás se a visibilidade for suficiente ou se a via, pela sua largura ou outras características, for apropriada à realização da manobra.
+É proibida, sendo sancionada com coima e inibição de conduzir pelo período máximo de um mês.
+A manobra de marcha atrás só é permitida se na faixa de rodagem existirem duas ou mais filas de trânsito no mesmo sentido.
+Sim, a manobra é permitida.
+Não posso inverter o sentido de marcha, salvo no caso de uma passagem de nível com guarda.
+Realizar a manobra lentamente e no menor trajecto possível.
+Ligar as luzes de perigo, devido às dimensões do veículo.
+Aproximar sempre o veículo do lado esquerdo da faixa de rodagem.
+Sim, desde que mude imediatamente de via de trânsito.
+A parar antes de mudar de direcção.
+Errado.
+Sim.
+É proibida e constitui contra-ordenação leve sancionada com coima.
+Sim, a sinalização da via de trânsito não proíbe a manobra.
+Mudar de direcção para a esquerda.
+Sim, desde que haja pouca intensidade de trânsito.
+Sim, desde que sinalize correctamente a manobra.
+Mudar de direcção.
+Sim, antes da lomba e no menor trajecto possível porque não circulo numa auto-estrada.
+Aproximar-me do limite direito da faixa de rodagem.
+Efectuar a manobra no trajecto mais curto.
+Sim, porque não necessito de passar para a via mais à esquerda.
+Sim, sempre.
+Ultrapassar e inverter o sentido de marcha.
+Sim.
+O mais rapidamente possível.
+Não, porque neste local é proibida a execução de qualquer manobra.
+Sim, porque a via é apropriada à realização da manobra.
+Não, excepto perante as instruções dos agentes ferroviários.
+Sim, porque o local não é de visibilidade reduzida.
+Sim, desde que a via, pela sua largura ou outras características, seja apropriada à realização da manobra.
+Errado, porque em todos os locais que é proibido inverter o sentido de marcha é também proibido fazer marcha atrás.
+A afirmação é verdadeira.
+Sim.
+Sim, dado não existir sinalização que proíba a manobra.
+Mudar de direcção para a esquerda.
+Sim, caso pretenda mudar de direcção à esquerda.
+Sim, é esta a via de trânsito que devo utilizar para realizar a manobra.
+Sim, porque está a inverter o sentido de marcha.
+Sim, porque a visibilidade do local não é insuficiente para a execução da manobra.
+Executar a manobra rapidamente, continuando a recorrer à marcha atrás de maneira a não entrar na rotunda.
+Inverter o sentido de marcha neste local.
+A faixa de rodagem tem apenas uma via de trânsito afecta a cada sentido.
+A afirmação está incorrecta.
+No próximo entroncamento.
+A afirmação é verdadeira.
+A afirmação é verdadeira.
+Sim.
+Apenas para a direita.
+Inverter o sentido de marcha.
+Aproximar-me, com a necessária antecedência e o mais possível, do eixo da faixa de rodagem e efectuar a manobra tomando as precauções necessárias para evitar acidentes.
+Não, nunca.
+Ocupar com a devida antecedência a via de trânsito mais à direita.
+Rapidamente.
+Circular pela via da esquerda.
+Me certificar que a manobra não constitui perigo para o restante trânsito.
+Errado.
+Sim, porque há pouca intensidade de trânsito.
+Buzinar, para advertir o condutor da frente que a luz se encontra verde.
+Transitar com precaução.
+Sim, posso.
+Sim.
+Posso, se acender os ' máximos'.
+Sim.
+Mudar de via de trânsito porque pretendo mudar de direcção.
+Mudar de direcção à esquerda.
+A visibilidade é reduzida.
+A largura da faixa de rodagem.
+Com antecedência sinalizar e aproximar o veículo do eixo da faixa de rodagem.
+Avançar em simultâneo com o outro condutor.
+Sim, porque a via tem largura suficiente para o efeito.
+Posso, se a manobra for feita lentamente.
+Sim, desde que me aproxime do limite esquerdo da faixa de rodagem.
+Sim, desde que não pise ou transponha a linha contínua à minha direita.
+Sim, desde que o faça antes da passagem estreita.
+Estarei a praticar uma infracção.
+Sim, desde que acelere e a execute o mais rapidamente possível.
+Sim, desde que sinalize adequadamente a manobra.
+Deve ser efectuada rapidamente.
+Sim.
+Sim, desde que ligue os quatro piscas para ser visto pelos outros utentes.
+Inverter o sentido de marcha.
+Sim, é permitido e devo aproximar-me com a necessária antecedência e tanto quanto possível, do eixo da faixa de rodagem.
+Moderar a velocidade.
+Circular a 40 Km/h.
+Virar à esquerda.
+Sim, desde que a execute rapidamente.
+Sim, desde que sinalize a manobra.
+Errado.
+Sim.
+Não, porque existe um veículo a sair de um caminho particular.
+Sim, mas só quando não houver intensidade de trânsito.
+Sim, desde que acelere para realizar a manobra o mais rapidamente possível.
+Não.
+Não, porque sou obrigado a mudar de direcção.
+Não.
+Não, porque existe apenas uma via de trânsito no sentido em que circulo.
+Inverter o sentido de marcha.
+Sim, como manobra auxiliar e no menor trajecto possível.
+Mudar de direcção ou inverter o sentido de marcha.
+Inverter o sentido da marcha.
+Manter o veículo nesta via de trânsito, porque há apenas um sentido.
+Errado.
+Aproximar o veículo do eixo da faixa de rodagem.
+Moderar a velocidade.
+Sim, porque a marca rodoviária pode ser transposta.
+Existem duas vias de trânsito em cada sentido.
+Sim, porque circulo de dia.
+Avançar o mais rapidamente possível.
+Sim, porque a visibilidade do local é suficiente.
+Não, porque a visibilidade do local não é suficiente.
+A afirmação é verdadeira.
+Não, porque nas curvas a manobra é sempre proibida.
+Não.
+Mudar de direcção na próxima intersecção.
+É proibido.
+Não, porque a via de trânsito descreve uma curva.
+Sim, desde que não cause perigo ou embaraço para o trânsito.
+Fazer o respectivo sinal gestual e ligar as luzes de perigo.
+Não, porque as condições de visibilidade são reduzidas.
+Devo circular com velocidade especialmente moderada.
+Inverter o sentido de marcha.
+Sim, desde que sinalize correctamente a manobra.
+Sim.
+Sim, desde que o faça rapidamente.
+Posso inverter o sentido de marcha.
+Não, porque vou entrar numa via com sentido único.
+Ceder a passagem aos veículos da direita e avançar antes dos vindos da esquerda.
+Posso mudar de direcção para a esquerda.
+Sim, se a visibilidade não for reduzida ou insuficiente.
+Ultrapassar e inverter o sentido de marcha.
+Sim, mas apenas se o túnel for de um só sentido.
+Errado.
+Tem prioridade de passagem em relação aos veículos que saiam de uma passagem de nível.
+Sim.
+Aproximar com a devida antecedência o veículo do eixo da faixa de rodagem.
+Mudar de via de trânsito.
+Encostar o veículo à placa central.
+Com antecedência, aproximar o veículo ao lado esquerdo da faixa de rodagem.
+Sim, porque para mudar de direcção para a esquerda pode transpor qualquer marca no pavimento.
+Sim, porque se aproxima com a necessária antecedência do eixo da faixa de rodagem.
+Não.
+Se aproximar o veículo do lado direito da faixa de rodagem.
+Sim, está a cometer uma infracção, mesmo não pretendendo executar qualquer outra manobra.
+Não está a proceder correctamente.
+Inverter o sentido de marcha.
+Estar especialmente atento ao comportamento do condutor que acaba de cometer uma infracção.
+Estacionar.
+Inverter o sentido de marcha do veículo.
+Sim, pois só me é possível mudar de direcção à direita.
+Sim, porque proíbe a paragem.
+A afirmação é verdadeira.
+Errado.
+Manter o meu veículo na mesma via de trânsito.
+Mudar de direcção.
+Não, porque ocupa parte da faixa de rodagem.
+A afirmação é verdadeira.
+Com o braço.
+Sinalizar a minha intenção e ceder a passagem a quem circula em sentido contrário.
+Sinalizar a manobra e respeitar a sinalização.
+Sim, pois só junto ao entroncamento devo colocar-me à esquerda.
+Mudar de via de trânsito.
+Ocupar qualquer das vias de trânsito, porque não circulam veículos em sentido contrário.
+Sim.
+Avançando porque as nossas trajectórias não se interceptam.
+Parar sempre antes de avançar.
+Executo a manobra lentamente.
+Parar ao sinal luminoso porque pretendo seguir em frente.
+Sim.
+Mudar de direcção à esquerda ou à direita.
+Mudar de direcção para a esquerda ou para a direita.
+Sim, mas apenas para efeitos de paragem e/ou estacionamento.
+Sim, a visibilidade é boa e a via de trânsito é larga e permite a realização da manobra.
+Sim, estou longe da curva e não se verifica qualquer intensidade de trânsito.
+Sim, desde que antes da curva.
+Sim, porque circulo na via de trânsito da direita.
+Sim, a manobra é permitida pois não se verifica grande intensidade de trânsito.
+Não, esta manobra é sancionada com coima e inibição de conduzir.
+Sim, como manobra auxiliar e no menor trajecto possível dado que se trata de um local de boa visibilidade.
+Sim, a marcha atrás é permitida como manobra auxiliar ou de recurso e deve efectuar-se lentamente e no menor trajecto possível.
+Não, estou sempre proibido de efectuar a manobra em locais cuja via de trânsito, pela sua largura, seja inapropriada à realização da manobra.
+Não, porque vou a descer.
+Sim, mas antes da lomba.
+Não, uma vez que se trata da aproximação de uma passagem de nível sem guarda.
+Sim, excepto quando se verifique grande intensidade de trânsito.
+Sim, porque se trata de um túnel com boa visibilidade.
+Sim, porque a sinalização vertical permite.
+Sim, desde que não comprometa a segurança dos outros utentes.
+Sim, desde que o faça dentro da faixa de rodagem.
+Sim, se não houver sinalização a proibir a manobra.
+Sim.
+Sim, desde que execute a manobra no maior trajecto possível.
+Sim, mas apenas se não houver trânsito.
+Não. Se não respeitar as regras relativas à marcha atrás tenho que pagar uma coima.
+Sim, a sinalização não proíbe a realização da manobra.
+Sim, porque não há trânsito em sentido contrário.
+Sim, após deixar passar o veículo que circula em sentido contrário.
+Sim, desde que a via seja de sentido único.
+Não, deveria ter-me aproximado, com a necessária antecedência e o mais possível, do limite direito da faixa de rodagem.
+Sim, a sinalização permite-me efectuar a manobra.
+Sim, desde que o faça rapidamente.
+Sim.
+Sim.
+Sim, de modo a que da realização da manobra não resulte perigo ou embaraço para o trânsito.
+Sim, a via é apropriada à realização da manobra.
+Sim, antes da curva e a uma velocidade não inferior à indicada no sinal para não causar perigo ou embaraço para o trânsito.
+Sim, antes da curva e não excedendo a velocidade máxima indicada no sinal.
+Sim, mas apenas na curva porque a via é mais larga e tenho maior visibilidade.
+Sim, desde que não cause perigo ou embaraço injustificado aos restantes utentes da via.
+Sim, a sinalização da via não proíbe a realização da manobra.
+Sim, devo efectuar a manobra de imediato dado que a linha descontínua permite a sua realização.
+Sim, a largura da faixa de rodagem permite que a manobra se faça com a necessária segurança.
+Sim.
+Sim, mas apenas antes do estreitamento da via que se aproxima.
+Sim, porque a sinalização não proíbe a realização da manobra.
+Sim, desde que execute a manobra sem recurso à marcha atrás.
+Sim, desde que realize a manobra rapidamente.
+Sim, porque os condutores que se apresentam pela direita têm que me ceder a passagem.
+Não, é proibido inverter sentido de marcha em todos os entroncamentos.
+Sim.
+Não.
+Sim.
+Sim, mas só depois de ceder a passagem a todos os veículos.
+Sim, devendo sinalizar correctamente a manobra.
+Sim, desde que sinalize correctamente a manobra.
+Sim.
+Não.
+Não, porque circulo em meio não urbano.
+Sim, porque não circula nenhum veículo à minha rectaguarda.
+Sim, porque o sinal vertical não proíbe a manobra.
+Sim, porque a via tem dois sentidos de trânsito.
+Sim, a sinalização não proíbe a realização da manobra.
+Sim, mas apenas para efectuar a manobra de estacionamento.
+Sim, dado que o local é de boa visibilidade.
+Sim, porque a sinalização vertical prevalece sobre a horizontal.
+Sim, desde que realize a manobra rapidamente.
+Errado.
+Sim, ocupando o lado esquerdo da faixa de rodagem.
+Sim, desde que não se aproximem veículos em sentido contrário.
+Sim, porque não circulam veículos em sentido contrário.
+Sim, porque não há trânsito.
+Utilizar o 'pisca' para a esquerda.
+Sim, a manobra é permitida.
+Sim, a manobra é permitida.
+Desistir da manobra, porque a visibilidade do local é insuficiente.
+Sim, a linha descontínua permite a realização da manobra.
+Sim, as marcas rodoviárias permitem a manobra.
+Manter o veículo na via de trânsito da esquerda, onde já me encontro.
+Sinalizar a manobra e mudar de via de trânsito.
+Errado.
+Aproximar o veículo com a necessária antecedência do lado esquerdo da faixa de rodagem.
+Sim, porque a intensidade de trânsito é bastante reduzida, logo qualquer das vias é adequada.
+Aproximar o veículo do limite esquerdo da faixa de rodagem.
+Com a antecedência necessária para realizar a manobra em segurança.
+Só ao veículo da direita.
+Passar imediatamente para a via de trânsito mais à esquerda.
+Colocar-me o mais possível à esquerda da faixa de rodagem.
+Desistir da manobra, porque os sentidos de trânsito são divididos por uma linha contínua.
+Aproximar o veículo da marca rodoviária que está a dividir as vias de trânsito.
+Só ao automóvel da direita.
+Fazer o respectivo sinal e aproximar-me do eixo da faixa de rodagem.
+Devo aproximar-me, com a necessária antecedência e o mais possível, do lado direito da faixa de rodagem e efectuar a manobra de modo a não embaraçar o trânsito.
+Circular pelo lado esquerdo da faixa de rodagem.
+A ultrapassagem.
+Marcha-atrás.
+Logo que deixe de constituir perigo para os outros utentes.
+Sim, mas apenas dentro da localidade.
+O mínimo indispensável.
+A ultrapassagem.
+O estacionamento na faixa de rodagem.
+Marcha-atrás.
+Lentamente e no menor trajecto possível.
+Dar a esquerda ao centro de intersecção das duas vias.
+Sim.
+Desistir da manobra porque o sinal está vermelho.
+Sim.
+Invertendo o sentido de marcha no local em que me encontro.
+Errado.
+Sim, a manobra é proibida neste local.
+Prosseguir normalmente, com precaução.
+5 metros.
+No tempo que o condutor quiser.
+É proibida dentro das localidades.
+Sim, a menos de 10 metros antes do entroncamento.
+Sim.
+A menos de 5 metros para a frente e 25 metros para trás.
+40 metros.
+6 metros.
+15 metros.
+15 metros.
+A 60 metros da mesma.
+Deve fazer-se fora da faixa de rodagem.
+Não posso estacionar a menos de 50 metros de uma curva.
+Não.
+Ninguém será responsabilizado, caso não se identifique o condutor.
+Errado.
+Sim, leve, se parar na berma.
+O outro condutor porque vem a descer.
+Sim, mas apenas se estiver neste local mais de 30 dias.
+Por tempo superior a 10 minutos.
+2 horas.
+20 dias.
+2 horas.
+O de veículo em zona de estacionamento condicionado ao pagamento de taxa.
+Não constitui qualquer perturbação e como tal está bem estacionado.
+Correctamente, porque há espaço suficiente na faixa de rodagem.
+Sim, desde que a paragem seja rápida e sinalizada com as luzes de perigo.
+Nas curvas.
+De modo a provocar embaraço para os restantes utentes.
+Na faixa de rodagem.
+20 metros para a frente e para trás dos sinais luminosos.
+A menos de 5 metros depois das passagens assinaladas para a travessia de peões ou de velocípedes.
+Errado.
+Não, apenas a paragem é permitida porque circulo num itinerário complementar.
+5 metros antes da passagem de peões.
+Sim, mas apenas dentro das localidades.
+Sim, mas apenas se impedir a formação de uma fila de trânsito.
+Sim, fora das localidades.
+Sim, em todas as curvas.
+Em todas as localidades.
+Errado.
+Errado.
+Errado.
+Avançar, para que se torne mais fácil para o outro recuar.
+Sim, porque a manobra é mais fácil para ele.
+Sim, dado não existir qualquer sinalização que proíba a manobra.
+Sim, desde que sinalize correctamente a manobra.
+Sim, do lado direito da faixa de rodagem e antes do sinal de perigo.
+O condutor que não tomar a iniciativa de avançar.
+Limitado.
+Sim, se estiver estacionado neste local há pelo menos 24 horas.
+Não, salvo se não impedirem o acesso aos veículos estacionados.
+Sim, mas apenas se permanecerem neste local mais de duas horas.
+Fazer marcha atrás porque o veículo circula em missão urgente de socorro.
+Não, porque é proibido.
+Sim, mas apenas logo após o entroncamento.
+Sim, salvo se a sinalização vertical não proibir o estacionamento.
+Sim.
+A afirmação é verdadeira.
+Errado.
+A menos de 30 metros dos sinais de obrigação.
+Sinalizar a paragem e realizá-la o mais rapidamente possível.
+Só as de paragem e estacionamento.
+Sim, desde que seja para largar um passageiro.
+Sim, se a paragem ou estacionamento forem feitos na berma.
+O condutor do veículo que sobe.
+O meu veículo.
+O mais próximo possível do eixo da faixa de rodagem.
+O condutor outro veículo.
+Mudar de via de trânsito para efectuar manobras.
+Não, nos locais a esse fim destinados.
+Errado.
+Parar e estacionar.
+Limitado.
+Permitida.
+Não, apenas posso parar.
+O outro condutor, porque chegou primeiro ao estreitamento da via.
+Não, porque circulo a maior velocidade.
+Não, porque o outro veículo é um automóvel pesado.
+Errado.
+Eu, porque o outro veículo é pesado.
+Eu, porque estou mais perto do local em que o cruzamento é possível.
+O outro condutor porque conduz um automóvel pesado de mercadorias.
+Avançar de imediato.
+Aquele que chegou primeiro ao troço.
+Passar entre o velocípede e o automóvel.
+Ceder a passagem.
+Ultrapassar com recurso à marcha atrás.
+Avançar, perante o automóvel pesado.
+Recuar e ceder a passagem.
+O condutor do veículo dos bombeiros.
+Não, apenas o estacionamento é proibido.
+Avançar, interrompendo a fila de trânsito à esquerda.
+É um automóvel ligeiro.
+Quem primeiro chegou ao local.
+Eu, porque estou mais próximo do local onde o cruzamento é possível.
+O veículo pesado porque não tem o dever de ceder a passagem.
+Não.
+O outro veículo porque desce.
+Ultrapassar.
+O velocípede, porque não tem motor.
+Do lado direito depois do segundo sinal vertical.
+Estacionar o seu veículo por tempo superior a 30 minutos.
+Sim.
+Sim, mas apenas na berma.
+Sim.
+5 metros para a frente e 25m para trás do sinal indicativo da paragem de transporte colectivo de passageiros.
+Errado.
+Sim, desde que seja possível fazê-lo fora da faixa de rodagem.
+No lado esquerdo da faixa de rodagem.
+Errado.
+Sim.
+Ligar os médios.
+Pessoas com deficiência.
+Não.
+Sim, desde que não circulem veículos à minha retaguarda.
+Mantê-lo na faixa de rodagem com as luzes de perigo ligadas.
+O mais à direita possível.
+A todos e quaisquer veículos, excepto motociclos simples.
+Do pagamento da taxa de utilização.
+Parar e estacionar.
+Por ser um túnel.
+Não, porque circulo numa localidade.
+Não posso parar, mas posso estacionar.
+Imobilizar o veículo para a entrada de passageiros, desde que o condutor esteja pronto para retomar a marcha.
+Parar e estacionar.
+Sim, desde que não haja veículos estacionados.
+Sim, porque está o mais próximo possível do respectivo limite direito da faixa de rodagem.
+Não, sendo apenas permitida a paragem e fora da faixa de rodagem.
+Sim, porque no local é permitido o estacionamento.
+Errado.
+Sim, mas apenas se não estiver pronto a retomar a marcha.
+Sim.
+À apreensão dos documentos do veículo.
+O outro veículo por ser pesado.
+Estacionamento proibido.
+Ceder a passagem.
+Reduzir a velocidade e cumprir a regra geral da cedência de passagem.
+Parar, porque fui o primeiro condutor a chegar à passagem estreita.
+Avançar para tentar cruzar-me em simultâneo.
+Parar na passagem estreita.
+Não tem as luzes de perigo.
+O que for de menores dimensões.
+Fazer marcha atrás.
+Sim, porque nesse local pode estacionar.
+Não pode ser apreendido, mas pode ser removido.
+Sim, se permanecer no mesmo local por período superior a 30 dias.
+Sim, se continuar no mesmo local, por 15 dias.
+Sim.
+Sim, se estiver estacionado.
+Sim, mas apenas se estiver estacionado há mais de duas horas.
+Incorrectamente, porque é proibida a paragem e o estacionamento.
+Ceder a passagem.
+Praticam uma contra-ordenação grave.
+São sempre apreendidos.
+São sempre apreendidos pelas entidades competentes.
+Os veículos são removidos.
+Sim, mas apenas se a sua imobilização constituir estacionamento.
+Sim, mas apenas o veículo de mercadorias.
+Efectuar a manobra o mais rapidamente possível.
+Ligar os 'médios' e as luzes de nevoeiro.
+Parar a menos de 20 metros da paragem do eléctrico.
+2 horas.
+Sim, desde que tome as precauções necessárias à realização da manobra.
+Sim, desde que ligue as luzes de cruzamento.
+Sim.
+Não.
+Sim, do lado direito da via.
+Sim, desde que deixe ligados os quatro 'piscas'.
+Sim, desde que não impeça o trânsito de veículos.
+Não.
+Sim, para cargas e descargas.
+Sim.
+Na faixa de rodagem e ligar os '4 piscas' em simultâneo.
+Não, nunca.
+Não, excepto se estacionar a mais de 3 metros da bomba de combustível.
+Não.
+Não, porque é proibido estacionar a menos de 5 metros para a frente e 25 metros para trás do sinal indicativo de paragem do transporte colectivo de passageiros.
+Sim, desde que não exista sinalização em contrário.
+Sim, desde que deixe ligados os quatro 'piscas' em simultâneo.
+Sim, apesar de nas pontes o estacionamento não ser aconselhado.
+Sim.
+Sim, mas antes da passagem de peões.
+Sim, pelo tempo mínimo necessário para receber ou largar passageiros.
+Não.
+Sim, desde que não comprometa a segurança do trânsito.
+Sim, se não comprometer a segurança dos outros utentes.
+Sim, a manobra é permitida desde que se trate de uma imobilização rápida do veículo.
+Não, a manobra é sempre proibida a menos de 25 metros antes dos sinais luminosos.
+Não, apenas posso estacionar.
+Não, porque o meu veículo parado fica a menos de três metros da linha contínua.
+Sobre o passeio, 'em espinha'.
+O condutor do veículo vermelho, por não ter ainda chegado à zona estreita.
+O condutor do outro veículo, porque é um automóvel pesado.
+Não.
+Sim, mas apenas se mostrar sinais evidentes de abandono.
+24 horas.
+Sim, por tempo ilimitado.
+Errado.
+A afirmação é verdadeira.
+Não, o estacionamento na faixa de rodagem é considerado uma contra-ordenação grave.
+Errado.
+Sim, todos.
+A afirmação é verdadeira.
+Estacionar de forma a constituir perturbação para o trânsito.
+Numa auto-estrada.
+Verdadeira.
+Ao início da via de abrandamento ou de saída.
+Veículos afectos ao transporte de crianças.
+Posso inverter o sentido de marcha porque a linha descontínua permite.
+Existe uma via de trânsito em cada sentido.
+Mudar de direcção à esquerda.
+Em cada 100 metros percorridos.
+Sinais de indicação.
+O desenvolvimento de um troço em curva.
+Sinal de direcção.
+Uma passagem de nível com guarda a 300 metros.
+Sim.
+As localidades indicadas no sinal estão a uma distância de 13 Km.
+Que posso estacionar paralelamente à via, sobre o passeio.
+Via de acesso a uma oficina de reparações para automóveis.
+Sim vou encontrar, mas apenas a 200 metros.
+Se encontra a 500 metros um posto de abastecimento de combustível com GPL.
+Reduzir a velocidade pois vou encontrar um desvio na via.
+Evitar fazer ruídos.
+Apenas no sentido em que me encontro.
+Transito numa auto-estrada.
+Não existem.
+Limitado.
+Sim.
+Sim, mais dois.
+Um posto de abastecimento de combustível.
+De informação.
+A afirmação é verdadeira.
+Fim de todas as proibições a 150 metros.
+Fim de localidade.
+Perigo.
+Proibição.
+Um telefone para utilização em caso de emergência.
+Em frente.
+Para estacionar o veículo se quiser descansar.
+Sair de uma auto-estrada.
+Fim de auto-estrada.
+A aproximação de um local frequentado por peões.
+Estacionamento para táxis.
+Não.
+Via com trânsito de sentido único.
+Errado.
+Sim, mudando à direita na próxima intersecção.
+Estou obrigado a circular a uma velocidade máxima de 50 Km/h.
+Inverter o sentido de marcha, pois a ponte termina num precipício.
+Fora de uma localidade.
+Ao condutor ou ao veículo, consoante a opção pretendida.
+Somente o veículo do deficiente residente.
+Obrigação.
+Seguir em frente, se tencionar passar na portagem.
+Parar obrigatoriamente.
+O número de pistas especiais.
+As diferentes direcções das faixas de rodagem.
+Deixa de ser obrigatória a velocidade mínima de 60 km/h.
+Que vou encontrar uma curva e contracurva à direita.
+Escapatória.
+Fim da velocidade recomendada de 50 km/h.
+Via reservada a automóveis e motociclos.
+Passagem desnivelada para peões.
+Fim da recomendação de usar correntes de neve.
+A proibição de pararem veículos com dístico de deficiente.
+Obrigação.
+A afirmação é verdadeira.
+Temporário.
+Trânsito de sentido único.
+Sim, porque se trata de um sinal de informação.
+Um posto de abastecimento de combustível com GPL.
+Sim, a próxima saída nesta auto-estrada é a 150 metros.
+À paragem de veículos de transporte colectivo de passageiros.
+Sim.
+No início de uma via reservada a automóveis e motociclos.
+Um parque interdito a veículos com dístico de deficiente.
+A via é proibida a veículos com o dístico de deficiente.
+Fim de todas as proibições anteriormente impostas.
+A velocidade máxima recomendada.
+Fim de via reservada a automóveis e motociclos.
+A velocidade recomendada.
+Fim de corredor de transportes públicos a 750 metros.
+Passagem para peões.
+Uma pista obrigatória para peões.
+Oficina de reparações de caravanas.
+Paragem proibida.
+Táxis.
+A 3 metros do local de paragem.
+À distância de 1500 metros têm inicio as localidades identificadas.
+Direcção.
+Uma pista obrigatória para peões à minha direita.
+Um itinerário principal.
+Numa via onde vigoram regras especiais, como por exemplo a separação física de faixas de rodagem.
+Estacionar em segunda fila.
+Na faixa de rodagem.
+De um teleférico a seguir à ponte.
+Um local adequado para virar à esquerda.
+Terminou a auto-estrada.
+Que não posso inverter o sentido de marcha.
+Ponte móvel.
+Paragem de veículos afectos ao transporte de crianças.
+O início de uma auto-estrada.
+A distância em km, para a primeira saída da auto-estrada.
+Estacionamento proibido.
+Paragem de transportes públicos.
+A aproximação de via de saída para a área de serviço.
+A existência de uma passagem inferior.
+De automóveis ligeiros de passageiros e mistos.
+Obrigação.
+Pré-sinalização.
+De um local onde devo ligar as luzes de estrada.
+Um precipício.
+Património cultural.
+Ponto de entrada ou início de uma rota turística.
+A afirmação é verdadeira.
+Os destinos da próxima saída.
+A localização de uma passagem desnivelada para peões.
+Duas faixas de rodagem.
+Passagem desnivelada para peões.
+Permitida.
+A afirmação é verdadeira.
+Uma estação de serviço.
+Um posto de abastecimento de combustível.
+A afirmação é verdadeira.
+Passagem desnivelada para peões.
+Uma passagem desnivelada para peões.
+Via com trânsito de sentido único.
+Via com trânsito de sentido único.
+A afirmação é verdadeira.
+O uso de correntes de neve.
+Em qualquer situação.
+Setas de desvio.
+Sim.
+Ser portador de equipamento identificador.
+Sim.
+Uma escapatória.
+Que não tenho prioridade no próximo entroncamento.
+Quatro sentidos.
+Na estrada nacional E80.
+Não.
+Automóveis ligeiros.
+Vou entrar numa auto-estrada.
+Sim, excepto nas rodas motoras.
+Não, o sinal informa a proximidade de uma via reservada.
+Num IP.
+A próxima saída desta via situa-se a menos de 300 metros.
+30 metros.
+Estou a 150 metros da próxima localidade.
+A próxima saída se situa a uma distância de 900 metros, uma vez que cada barra inclinada corresponde a uma distância de 300 metros.
+A via de trânsito onde circulo está temporariamente sem berma a 1300 metros.
+Há duas vias de trânsito no sentido oposto àquele em que circulo.
+Ligar as luzes de perigo.
+Devo mudar de via de trânsito, se a minha intenção for continuar em frente.
+Sou aconselhado a transitar à velocidade máxima de 50 Km/h.
+Reduzir a velocidade porque pode surgir uma criança.
+A distância até às localidades descritas no sinal.
+Numa extensão de 100 metros.
+Para fazer inversão de sentido de marcha.
+Fico obrigado a parar na próxima área de serviço.
+Não, o sinal obriga-me a circular a uma velocidade superior a 50 Km/h.
+Não.
+Fim de via reservada exclusivamente a automóveis.
+A existência de um posto de primeiros socorros.
+Passagem proibida a peões.
+Seguir atentamente.
+Aproximação de via sem saída para veículos.
+Parque misto para campismo e reboques de campismo.
+O ponto onde tem início a localidade identificada.
+Já percorri 197 km para chegar a Lisboa.
+Errado.
+Entre 25m a 50m do sinal.
+A uma distância de 200 metros.
+Queda de pedras.
+Errado.
+Um túnel.
+Aproximo-me de um local onde o trânsito é regulado por sinalização luminosa.
+Não, o sinal informa a proximidade de uma curva a mais de 350 metros.
+A via de trânsito em que circulo vai deixar de existir.
+Transito num local frequentado por idosos onde o limite mínimo de velocidade é de 50 km/h.
+Errado.
+Reduzir a velocidade e acender as luzes de cruzamento se a cancela estiver fechada.
+Manter a velocidade e parar antes das lombas.
+Reduzir a velocidade e a distância de segurança.
+Moderar especialmente a velocidade.
+Circular junto do eixo da faixa de rodagem.
+Circular à velocidade que me é permitida naquela via, mas assinalar a presença do meu veículo.
+Circular junto ao eixo da faixa de rodagem.
+Prestar atenção e moderar especialmente a velocidade.
+Circular a velocidade especialmente moderada.
+Circular na via de trânsito da esquerda a velocidade reduzida.
+Conduzir com especial precaução, por estar próxima uma curva perigosa para a direita.
+Reduzir a velocidade e parar devido à proximidade de um troço de via onde a circulação está obstruída por veículos.
+Moderar a velocidade perante a indicação de outros perigos.
+Reduzir a velocidade devido à proximidade de bandas cromáticas.
+Não circular a velocidade inferior à que consta no sinal.
+Não aumentar a velocidade. Aproxima-se uma curva perigosa à direita.
+Uma via com dois sentidos de trânsito.
+Em obras.
+Pavimento escorregadio.
+Depressão.
+Projecção de gravilha.
+Pavimento escorregadio.
+Errado.
+No local exacto da passagem de nível com guarda.
+A afirmação é verdadeira.
+No ponto da via a que se refere.
+Errado.
+Proibição.
+Sinalização temporária.
+Na aproximação de uma passagem estreita.
+De um troço de via em que há sempre vento lateral.
+Proximidade de um centro de hipismo.
+Pavimento escorregadio.
+Errado.
+Animais em rebanho.
+Encontrar irregularidades no pavimento.
+Não tem guarda.
+Uma descida.
+Curva perigosa à esquerda.
+Uma passagem de nível com três vias.
+Estou próximo de um jardim zoológico.
+Supressão de berma.
+Circulação proibida a animais.
+Pista obrigatória para animais.
+Aproximação de passagem de nível sem guarda.
+Passagem de nível de três vias férreas.
+Curva à esquerda e contracurva.
+Subida de acentuada inclinação.
+Aproximação de passagem de nível sem guarda.
+Local de passagem de nível com guarda.
+Animais.
+Passagem estreita.
+Aproximação de uma passagem de peões.
+Aproximação de passagem de nível sem guarda.
+Troço de via onde vou encontrar trabalhos na faixa de rodagem.
+Trânsito proibido a veículos de tracção animal.
+Passagem estreita.
+A afirmação é verdadeira.
+Curva perigosa à direita.
+Saída de condutores de veículos de duas rodas.
+Perigos temporários, de passagem estreita e altura reduzida.
+A afirmação é verdadeira.
+Moderar a velocidade, porque estou no local exacto da passagem de peões.
+Outros perigos e bermas baixas.
+Não, o sinal indica apenas curva à direita e contracurva, não sendo necessária qualquer precaução.
+Junto ao eixo da faixa de rodagem.
+A afirmação é verdadeira.
+Às condições de aderência do pavimento.
+Não tenho que ter especial atenção.
+Descida perigosa.
+O aumento da aderência ao piso.
+Sim, o sinal vertical indica-me um troço da via com bermas baixas do lado direito.
+Uma subida acentuada.
+À queda de pedras.
+Descida perigosa a uma distância de 200 metros.
+Uma deformação côncava.
+A pelo menos 5 metros do veículo da frente.
+Moderar a velocidade e evitar transitar na via de trânsito mais à direita.
+Moderar a velocidade porque a via não tem saída.
+Desviar o veículo para o lado esquerdo.
+Moderar a velocidade e diminuir a distância de travagem.
+Moderar a velocidade.
+Evitar as irregularidades do pavimento, desviando o veículo para o lado esquerdo da faixa de rodagem.
+Moderar a velocidade e estar atento ao vento intenso do lado esquerdo.
+Parar na zona regulada pelo sinal.
+Encontrar o pavimento escorregadio.
+Não sei que perigo irei encontrar.
+À indicação dada pela sinalização.
+Transitar com precaução e aproximar-me do eixo da faixa de rodagem.
+Transitar com precaução e utilizar os sinais sonoros.
+A ponte móvel impede que os veículos sigam em frente.
+Sou obrigado a ligar as luzes de presença.
+Parar.
+Estar atento porque podem surgir peões.
+Moderar a velocidade.
+Moderar a velocidade e inverter o sentido de marcha, se necessário.
+Diminuir a velocidade e parar.
+Inverter o sentido de marcha.
+Adaptar a velocidade, porque vou encontrar obras na via pública.
+Moderar a velocidade, porque o sinal indica a presença de crianças.
+Fazer marcha atrás.
+Moderar a velocidade, porque o sinal indica perigos vários.
+Obrigação.
+Piso escorregadio.
+Passagem de peões.
+O limite máximo de velocidade.
+Passagem estreita.
+Depressão.
+Projecção de gravilha.
+Troço com elevado volume de trânsito.
+Lugar onde só podem transitar peões.
+Passagem de nível sem guarda.
+Cedência de passagem no estreitamento da via.
+Bermas altas.
+Projecção de gravilha.
+Local que pode ser sobrevoado por aviões a baixa altitude.
+Vento lateral forte incidindo da direita para a esquerda.
+Fim de obras.
+Mensagem variável.
+Obrigação de contornar a rotunda.
+Pista obrigatória para peões.
+O local exacto da queda de pedras.
+Da proximidade de uma passagem de nível.
+Um túnel.
+É frequentado por crianças.
+Moderar a velocidade e se necessário parar.
+Que devo passar para a via de trânsito mais à direita no próximo entroncamento.
+Proximidade de curva perigosa à direita.
+Trabalhos na via.
+Aproximação de via de sentido reversível.
+Proximidade de bermas baixas na via.
+Curva à direita.
+Desvio na faixa de rodagem.
+Via que termina num cais ou precipício.
+Descida perigosa.
+O local exacto da sinalização luminosa.
+Obstáculos ocasionais na via pública.
+Outros perigos.
+Que o local onde me encontro tem bermas baixas.
+Curva à direita.
+Uma subida acentuada.
+Obstáculos ocasionais na via pública.
+Proximidade de um troço de via em que é frequente a acção de vento lateral com a orientação indicada no sinal.
+Trânsito proibido a peões.
+Proibida a passagem de crianças.
+Neve ou gelo.
+Escola.
+200 metros.
+Escola de equitação.
+Destinado à circulação de cavaleiros.
+Lomba no pavimento.
+Existe uma saída para ciclomotores.
+Animais selvagens.
+Idosos.
+Uma passadeira destinada à travessia de idosos.
+Tem uma ponte móvel.
+Saída de ciclistas.
+Trânsito proibido a ciclistas.
+Piso escorregadio.
+Desvio.
+Obras na via pública que ocasionam um desvio.
+Pista obrigatória para ciclistas.
+Aproximação de uma sucessão de curvas, sendo a primeira à esquerda.
+Vento lateral.
+Ponte móvel.
+Um local sobrevoado a baixa altitude, a 200 metros.
+Local frequentado por crianças.
+Lomba ou depressão.
+Projecção de gravilha.
+Uma passagem de nível com guarda.
+Descida de inclinação acentuada.
+Que a ponte móvel se encontra levantada.
+Animais sem condutor.
+Cais ou precipício.
+Curva à direita.
+Uma passagem para peões.
+Óleo na via pública.
+O trânsito passa a efectuar-se num só sentido.
+Que o trânsito passa a fazer-se nos dois sentidos.
+Que no túnel é obrigatório transitar com as luzes de cruzamento ligadas.
+Que no estreitamento da via devo ceder a passagem aos veículos que transitem em sentido contrário.
+Piso molhado ou enlameado.
+De elevado volume de trânsito.
+Congestionamento.
+Em que o pavimento pode tornar-se escorregadio.
+Proximidade de uma reserva natural.
+Um hospital.
+Em que pode existir o risco de projecção de gravilha ou pequenas pedras.
+Lomba.
+Duas faixas de rodagem.
+Me aproximo de uma passagem estreita.
+Um alargamento da via pública.
+Curva perigosa à direita.
+Pavimento escorregadio.
+Proximidade de um local frequentado por cavaleiros.
+A proximidade de uma pista obrigatória para peões.
+Local onde é autorizado o estacionamento na berma.
+Indica proximidade de uma passagem estreita.
+A existência de uma curva perigosa à esquerda.
+Uma lomba ou depressão.
+Passagem desnivelada para peões.
+São de regulamentação.
+Utilizar apenas o travão de serviço porque a descida é perigosa.
+Reduzir a velocidade e travar antes da lomba.
+Inverter o sentido de marcha antes do sinal.
+Aumentar a distância de reacção.
+Aumentar a pressão dos pneus para reduzir o efeito das irregularidades do pavimento.
+Estar especialmente atento.
+Moderar a velocidade e aproximar o meu veículo do eixo da faixa de rodagem.
+Reduzir a velocidade.
+Circular o mais próximo possível do eixo da faixa de rodagem.
+Parar sempre.
+Sim.
+Vou encontrar uma passagem para ciclistas.
+Moderar a velocidade devido ao perigo de encontrar animais sem condutor na via pública.
+Às condições ambientais adversas.
+Moderar especialmente a velocidade.
+Devo circular a velocidade especialmente moderada.
+Aproximo-me de um lugar frequentado por idosos.
+Transitar com especial prudência.
+Transitar com precaução no eixo da faixa de rodagem.
+Aumentar um pouco a velocidade antes da curva.
+Moderar a velocidade e desviar o veículo para o eixo da faixa de rodagem.
+Ligar as luzes de nevoeiro, porque a visibilidade pode ser menor.
+Que o trânsito se faz nos dois sentidos.
+A velocidade deve ser moderada e a utilização das luzes não é permitida.
+Devo inverter o sentido de marcha, não arriscando assim encontrar animais sem condutor.
+Buzinar e prosseguir a marcha.
+Moderar a velocidade face à aproximação da sinalização luminosa.
+Parar e aguardar pelo barco de transporte de automóveis.
+Moderar a velocidade e ligar as luzes de cruzamento.
+Parar, se encontrar ciclistas.
+Transitar com precaução especial.
+Moderar a velocidade.
+Parar, antes da descida.
+Reduzir a velocidade devido à proximidade de um entroncamento em que transitam veículos pesados.
+Segurar o volante com suavidade.
+Sim, aproxima-se um estreitamento da via com a configuração igual à do sinal.
+Que a via onde circulo vai terminar num cais ou precipício.
+Não, apenas estou obrigado a moderar a velocidade sempre que exista grande intensidade de trânsito.
+Sim.
+Não, o sinal indica-me saída de cavaleiros.
+Sim, desde que sinalize correctamente a manobra.
+Não, o sinal indica-me apenas que a via com prioridade muda de direcção à esquerda.
+Obstrução de via.
+Outros perigos.
+Que a via com prioridade muda de direcção à direita.
+Pista obrigatória para cavaleiros.
+Um estreitamento da via e que devem utilizar parte da berma.
+Sinalização de zona de caça.
+Bermas baixas dos dois lados da faixa de rodagem.
+A proximidade de uma sucessão de curvas perigosas, sendo a primeira à direita.
+Informa os condutores da localização de uma passagem para peões desnivelada.
+Proximidade de um local frequentado por crianças.
+Projecção de gravilha.
+Gado em manada.
+Supressão da via da direita.
+Lomba ou depressão.
+Indica o sentido obrigatório possível.
+Saída de ciclistas.
+Pavimento irregular.
+Neve ou gelo.
+Entrada em zona de pastagem.
+Passagem de nível com cancelas ou barreiras.
+Obrigatoriedade de ceder a passagem aos ciclistas.
+Que a circulação passa a fazer-se apenas num só sentido.
+Mudança de direcção.
+Túnel.
+Proximidade de via sem saída devido a obras no local.
+Entre 150 a 300 metros do sinal.
+Uma escola.
+Se encontra a 1,45 km.
+Sim, ambos os sinais.
+Em cada 100 metros percorridos descemos 80 metros.
+Que faltam 17 kms para o início da A1.
+Sim, embora me transmita outras informações.
+Na estrada nacional A25.
+Mudança de direcção da via com prioridade.
+Que tenho prioridade no próximo entroncamento.
+Curva perigosa à esquerda.
+Inverter o sentido de marcha porque a via não tem continuação.
+Não posso exceder a velocidade máxima de 60 Km/h.
+No próximo entroncamento, estou obrigado a ceder a passagem apenas aos automóveis.
+Numa via não urbana.
+Se voltar à direita.
+Parar obrigatoriamente antes de mudar de via de trânsito.
+Ceder a passagem a todos os veículos.
+Avançar, verificando se os condutores que circulam na via com que me cruzo me cedem a passagem.
+Ceder a passagem apenas aos veículos vindos da direita.
+Manter a velocidade porque tenho prioridade no próximo estreitamento da via pública.
+Mudar para a via de trânsito à direita.
+Mudar de direcção para a esquerda.
+Da esquerda.
+Sim, apenas nas duas vias de trânsito mais à esquerda estou obrigado a circular a velocidade mínima.
+Não, se circular a 90 km/h.
+Mudança de direcção para a esquerda.
+Errado.
+A aproximação de uma passagem de nível sem guarda.
+Informação.
+Um entroncamento com via sem prioridade.
+Somente para automóveis ligeiros.
+Têm prioridade de passagem na próxima passagem estreita.
+Fim de via com prioridade.
+Que existe um cruzamento com via com prioridade.
+No sentido em que circulo existe apenas uma via de trânsito e duas em sentido oposto.
+Cedência de passagem nos sucessivos entroncamentos e cruzamentos.
+Sim.
+A paragem.
+Via com prioridade.
+Via com prioridade.
+Verdadeira.
+Errado.
+Ligeiros e pesados de passageiros.
+Não circulam veículos em sentido contrário.
+Pela via de trânsito mais à direita.
+Aeroporto.
+A via de trânsito mais conveniente ao meu destino.
+Tenho de ceder passagem aos veículos vindos da esquerda.
+A via mais à esquerda.
+Sim.
+Errado.
+Parar.
+Sim, desde que tome as devidas precauções e mude de via.
+Informação.
+Cruzamento com via sem prioridade.
+Que na zona em que vou entrar a velocidade máxima está limitada a 40 km/h.
+Entroncamento com via sem prioridade.
+Obrigação de contornar placa ou obstáculo.
+Cruzamento com via sem prioridade.
+Entrada numa zona em que apenas a paragem é proibida.
+Veículos de transporte público.
+Aproximação de passagem estreita.
+Perigos vários.
+Entroncamento com via sem prioridade.
+Fim de zona de paragem e estacionamento proibidos.
+Devo ceder a passagem.
+20 às 8 horas.
+Após o sinal.
+Fim do limite de velocidade imposto por sinalização.
+Uma zona de estacionamento proibido.
+Circular à velocidade constante de 70 km/h.
+Circular à velocidade constante de 90 km/h.
+Aos automóveis ligeiros de mercadorias.
+Proíbe apenas a paragem a todos os veículos.
+Proibição de inverter o sentido de marcha.
+Entroncamento onde devo ceder passagem.
+Devo ceder a passagem aos veículos que circulem na via da esquerda.
+Têm prioridade de passagem sobre os veículos que circulem à sua esquerda.
+Errado.
+A paragem e o estacionamento são proibidos.
+Não tenho prioridade no próximo estreitamento da faixa de rodagem.
+Entroncamento com via com prioridade.
+Zona de estacionamento proibido.
+O limite de velocidade recomendado para toda a faixa de rodagem.
+Local de paragem proibida.
+Aos automóveis ligeiros e pesados de mercadorias.
+Devo ceder a passagem ao veículo que transita em sentido contrário.
+A supressão de uma via de trânsito com obrigatoriedade de cedência de passagem.
+Mudar para a faixa de rodagem da esquerda, antes do sinal.
+De pré-sinalização.
+Devo mudar para a via de trânsito central.
+Posso optar por qualquer das vias de trânsito existentes.
+Mudar de direcção para a direita neste cruzamento.
+Sinalizar e mudar progressivamente para a via de trânsito à minha direita.
+Passar progressivamente para a via de trânsito mais à direita.
+Passar para a via de trânsito à minha esquerda e prosseguir.
+Passar para a via de trânsito à minha direita e prosseguir.
+Sim, desde que mude sem quaisquer precauções para a via de trânsito mais à direita.
+Tenho prioridade de passagem sobre os veículos que circulam na via mais à direita.
+É obrigatório circular à velocidade mínima de 70 km/h.
+Estou obrigado a ceder a passagem a todos os veículos que circulam na via que se aproxima.
+Devo ceder a passagem ao veículo que circula em sentido contrário.
+Circular com velocidade moderada e respeitar a regra de cedência de passagem.
+Avançar, porque o trânsito se faz em simultâneo nos dois sentidos.
+Pesados de mercadorias e de passageiros.
+Onde posso parar e estacionar.
+Estacionamento proibido apenas para automóveis pesados.
+Sim.
+A afirmação é verdadeira.
+O trânsito apenas se faz num só sentido.
+Todos os automóveis pesados.
+Sim, o sinal indica-me a entrada numa zona de velocidade recomendada superior a 40 Km/h.
+Para seguir em frente, desde que não mude de direcção.
+Fazer sinal de mudança de direcção e sair na próxima saída.
+Sim.
+Aproximação de rotunda onde o trânsito se processa em sentido giratório.
+Errado.
+Sim, o sinal apenas proíbe a passagem de automóveis pesados de mercadorias.
+É de 50 km/h.
+Tem carácter facultativo.
+Nunca poderei usar os sinais sonoros.
+Aos automóveis de mercadorias e veículos de tracção animal.
+Peso total.
+Aos veículos de peso por eixo superior a 2,4t.
+A todos os veículos pesados.
+Errado.
+Não podem circular nessa via.
+Sim.
+Errado.
+Que devo parar.
+A mudar de direcção para a direita.
+Proibida.
+É proibido o trânsito a peões.
+Mínima.
+A todos os motociclos.
+Peso total.
+A automóveis pesados.
+Circular nas vias de trânsito.
+Sim.
+A velocidade mínima obrigatória.
+Proíbe a manobra de ultrapassagem e de inversão do sentido de marcha.
+Um veículo com reboque.
+Peões, animais e a veículos que não sejam automóveis, motociclos ou ciclomotores.
+O trânsito apenas se faz no sentido para o qual o sinal está orientado.
+Proximidade de uma passagem de peões.
+Apenas à via de trânsito da direita.
+Sim, mas apenas pelo tempo estritamente necessário.
+A velocidade máxima permitida é de 60 Km/h e é proibido o trânsito a automóveis pesados.
+Errado.
+Parar e estacionar.
+Estacionar na faixa de rodagem junto aos veículos brancos.
+Permitida a ultrapassagem apenas aos automóveis pesados.
+Sim.
+Sim, mas apenas automóveis ligeiros.
+Nenhum tipo de veículos.
+Devo circular à velocidade indicada.
+É proibida a manobra de inversão do sentido de marcha.
+120 km/h, pois o limite constante no sinal é facultativo.
+É proibido ultrapassar.
+É permitida a manobra de ultrapassagem.
+Circular a 100 km/h.
+A afirmação é verdadeira.
+Sim, o sinal proíbe o trânsito a automóveis de mercadorias.
+Transitar a velocidade igual ou inferior a 60 km/h.
+Mudar de direcção à esquerda.
+Estão proibidos de circular na via de trânsito mais à esquerda.
+Apenas os condutores de automóveis pesados de passageiros.
+Sim, desde que seja um automóvel ligeiro.
+A afirmação é verdadeira.
+O estacionamento de veículos pesados.
+Trânsito proibido a veículos agrícolas.
+Sim, a sinalização não proíbe a realização da manobra.
+Somente mudar de direcção à esquerda.
+Em qualquer direcção.
+Fim de estacionamento proibido.
+Perigo temporário.
+É proibida a circulação a automóveis pesados.
+Fim de proibição de usar sinais sonoros.
+Máximo de altura dos veículos que podem passar nesse local.
+Motociclos.
+Motociclos simples.
+Ultrapassagem proibida.
+Todas as proibições impostas por sinalização.
+Para qualquer automóvel.
+Automóveis pesados.
+A todos os veículos.
+Estacionar a menos de 70 metros do veículo da frente.
+Não posso parar nem estacionar.
+Aos veículos com altura superior a 3,5 metros.
+Proibição de inverter o sentido de marcha.
+Proibição de utilizar os sinais sonoros.
+Fim da proibição de parar.
+Trânsito proibido a veículos de 3,5 metros de comprimento.
+Fim de proibição de parar ou estacionar.
+Fim de proibição de utilizar os sinais sonoros.
+Fim de todas as proibições indicadas pelos sinais anteriores.
+A proibição de trânsito a peões e velocípedes.
+Não pode realizar a manobra de ultrapassagem.
+Errado.
+Sim, desde que o condutor circule a pé com o velocípede pela mão.
+Apenas por automóveis.
+Todos os veículos de duas rodas.
+Comprimento superior a 3,5 metros.
+Todos os veículos com motor.
+Paragem obrigatória.
+Obrigação.
+Apenas para os automóveis pesados de passageiros.
+Trânsito proibido a automóveis de mercadorias e a veículos a motor com reboque.
+Todos os automóveis.
+Todos os veículos com altura superior à indicada no sinal.
+Trânsito proibido a veículos de peso por eixo superior a 3,5 t.
+Máxima, em todas as vias de trânsito.
+Sim.
+Posso exceder a velocidade de 80 Km/h.
+Inverter o sentido de marcha, mas posso ultrapassar.
+Sim, devido à sinalização vertical.
+A afirmação é verdadeira.
+A tractores agrícolas.
+Sim, a sinalização luminosa e vertical não proíbe a manobra.
+Automóveis pesados de mercadorias com peso total superior a 3,5 toneladas.
+Sim.
+Errado.
+Sim.
+A circulação de velocípedes e peões.
+Errado.
+Apenas podem circular peões e velocípedes.
+Só os táxis.
+Podem transitar se o veículo tractor for um ligeiro.
+Automóveis ligeiros de passageiros.
+Errado.
+Estacionar por mais de 5 minutos.
+Só é permitido mudar de direcção à direita.
+Sim, a todos os automóveis pesados.
+É proibida a qualquer veículo.
+Não.
+Esquerda.
+Antes e depois de passarem o sinal.
+A manobra de mudança de direcção à esquerda é proibida.
+Posso transitar a 40 km/h.
+Mudar de direcção à esquerda ou à direita.
+Apenas na via de trânsito da direita.
+Paragem obrigatória à excepção da via da esquerda.
+Fim da proibição de ultrapassar.
+Proibição de utilizar sinais sonoros.
+A distância máxima entre veículos.
+O fim da proibição de ultrapassar imposta por outro sinal.
+Velocidade máxima permitida de 40 Km/h.
+Trânsito proibido aos veículos de altura total superior a 3,5 metros.
+Proibição de ultrapassar somente para os automóveis ligeiros.
+Fim da paragem ou estacionamento proibidos.
+Proibição de transitar em ambos os sentidos de trânsito.
+Acesso interdito a veículos de peso bruto superior a 2,4t.
+Início de uma zona de estacionamento condicionado.
+Veículos de peso total inferior a 5,5 toneladas.
+A veículos de peso total superior a 5,5 toneladas.
+Trânsito proibido a veículos que transportem produtos susceptíveis de poluírem as águas.
+Fim da proibição de usar sinais sonoros.
+Proibição da utilização sinais sonoros.
+Fim da proibição de circular a velocidade inferior à indicada no sinal.
+Fim da proibição de ultrapassar.
+Veículos que transportam mercadorias perigosas.
+A afirmação é verdadeira.
+De peso total inferior a 5,5 toneladas.
+Em todas as vias de trânsito.
+A todos os automóveis pesados.
+Veículos de tracção animal e automóveis de mercadorias.
+Automóveis pesados e ligeiros de mercadorias.
+Não posso mudar de direcção à esquerda.
+Qualquer veículo ligeiro.
+Velocidade inferior a 60 km/h.
+De peso por eixo superior a 5,5 toneladas.
+Peões e ciclomotores.
+Fim da proibição de ultrapassar para automóveis ligeiros e pesados.
+Mercadorias de peso total superior a 3,5 toneladas.
+De passageiros e mercadorias de peso total superior a 3,5 toneladas.
+Durante 60 Km a velocidade é controlada.
+Sentido proibido.
+Sentido proibido.
+Pista obrigatória para peões.
+Mínima.
+Máxima.
+Com mais de 2 metros de comprimento.
+Automóveis pesados.
+Veículos com reboque.
+Automóveis de mercadorias.
+Veículos de mercadorias.
+Motociclos com carro lateral.
+Sim, mas apenas aos automóveis ligeiros.
+Só a automóveis de mercadorias com mais de 10 m de comprimento.
+A veículos de duas rodas.
+Aos pesados de mercadorias com a largura de 2 metros.
+Circular a 80 km/h.
+O estacionamento a veículos de comprimento superior a 10 m.
+A paragem, mas permite o estacionamento.
+Uma distância entre veículos inferior a 70 metros.
+Que transportem mercadorias perigosas.
+Proíbe o trânsito a veículos que transportem mercadorias perigosas.
+Que podem ser encontrados veículos de tracção animal.
+Proíbe a paragem e o estacionamento.
+No próximo cruzamento.
+Automóveis pesados de passageiros.
+Que o trânsito se faz nos dois sentidos.
+Que vou encontrar uma pista obrigatória para peões.
+Motociclos de duas rodas sem carro lateral.
+Os automóveis pesados.
+Pista obrigatória para peões.
+A afirmação é verdadeira.
+Apenas aos automóveis pesados.
+Obrigação.
+O local a partir do local termina a proibição de parar ou estacionar.
+Apenas para os automóveis pesados de passageiros.
+Só a automóveis.
+Aos automóveis pesados de peso por eixo superior a 3,5 toneladas.
+A afirmação é verdadeira.
+Carros conduzidos à mão.
+Motociclos simples.
+Automóveis de mercadorias e veículos de tracção animal.
+Apenas a automóveis ligeiros de mercadorias.
+Que devo moderar a velocidade devido à possibilidade de encontrar veículos agrícolas nesta via.
+Sentido proibido.
+Sentido proibido.
+Que posso encontrar ciclomotores a circular nesta via pública.
+Que não posso ultrapassar automóveis pesados.
+Trânsito proibido apenas a veículos com motor.
+O fim de todas as proibições, impostas por sinalização, referentes a paragem e estacionamento.
+Sim, uma vez que dentro das localidades o limite de velocidade é de 50 km/h.
+Sim, se o comprimento do meu veículo for igual ou superior ao indicado no sinal.
+A veículos com reboque de dois ou mais eixos.
+Apenas aos veículos de mercadorias que ultrapassem o peso indicado no sinal.
+Trânsito proibido a cavaleiros.
+Sentido proibido.
+Proibição de parar ou estacionar, apenas para veículos pesados.
+Os veículos de duas rodas devem circular na via da esquerda.
+Não posso ultrapassar automóveis.
+Proibição de transitar a uma distância inferior a 70 metros do veículo da frente.
+Trânsito proibido a velocípedes.
+A afirmação é verdadeira.
+Comprimento.
+A uma velocidade superior a 10 km/h, para não embaraçar o trânsito.
+Sim, desde que ocupem a metade esquerda da faixa de rodagem.
+A afirmação é verdadeira.
+A afirmação é verdadeira.
+Sim, desde que sejam motociclos com carro.
+Proibida apenas para os veículos ligeiros.
+Sim.
+Sim.
+Não, se transportarem matérias perigosas.
+Não pode ser inferior a 70 metros.
+É proibido o trânsito a automóveis de mercadorias e a veículos de tracção animal.
+Ceder a passagem e mudar de direcção à esquerda.
+Sim, a marca rodoviária permite-me efectuar a manobra.
+A afirmação é verdadeira.
+Motociclos de cilindrada inferior a 50 cm3.
+Triciclos.
+Podem ultrapassar, desde que na metade direita da faixa de rodagem.
+Automóveis pesados de mercadorias.
+Motociclo com carro lateral.
+Largura superior a 2 metros.
+Ciclomotores e automóveis pesados.
+Automóveis pesados de mercadorias.
+Parar, porque me aproximo de uma portagem.
+Apenas os veículos de duas rodas.
+Apenas os automóveis pesados, excepto para ultrapassar veículos de duas rodas.
+Errado.
+São obrigados a mudar de direcção à direita.
+Automóveis pesados.
+Não.
+O trânsito é proibido a todos os veículos pesados.
+É proibido mudar de direcção à esquerda.
+Posso utilizar os sinais sonoros, enquanto circular dentro da localidade.
+Devo ultrapassar rapidamente.
+Os acessos são condicionados.
+Não posso transitar a 40 Km/h.
+Estou proibido de circular a velocidade superior à do sinal.
+Devo transitar com muita precaução.
+É proibida a utilização de sinais sonoros.
+Fim da proibição de utilizar sinais sonoros.
+É proibido ultrapassar sem buzinar.
+Motociclos simples.
+Não pode ultrapassar.
+Motociclos simples.
+Automóveis pesados de passageiros e de mercadorias.
+Sim, mas apenas automóveis ligeiros.
+Apenas para os automóveis pesados de passageiros.
+Motociclos.
+Largura indicada no sinal.
+Fazer sinais de luzes.
+Imobilizar o veículo caso exista congestionamento de trânsito.
+Automóveis pesados de mercadorias.
+É proibido mudar de direcção à direita.
+Automóveis com a largura indicada no sinal.
+É proibido o trânsito, a automóveis pesados.
+É proibida a utilização dos sinais luminosos.
+Parar e mudar de direcção.
+Sim.
+Sim, a manobra é permitida.
+Sim, o sinal indica o início de uma zona em que terminam todas as proibições anteriormente impostas.
+Sim, o sinal permite o trânsito a veículos cujo comprimento seja superior ao indicado no sinal.
+Não, sou obrigado a mudar de direcção à direita.
+Sim, a indicação resultante da marca rodoviária prevalece sobre o sinal vertical.
+Sim, a linha descontínua à minha esquerda permite-me efectuar a manobra.
+Igual ou inferior a 120 km/h.
+Apenas os veículos de quatro rodas.
+Fim da proibição de parar.
+Indica o local a partir do qual é permitido circular a velocidade superior a 40 Km/h.
+Pista obrigatória para peões e velocípedes.
+O local a partir do qual terminam todas as proibições anteriormente impostas por sinalização de veículos em marcha.
+Zona em que é proibido parar e estacionar.
+Que a 70 metros vão encontrar uma via em que o trânsito se encontra proibido.
+Um automóvel pesado com 25 toneladas de peso total.
+Um quadriciclo.
+Velocidade máxima recomendada.
+Fim da proibição de sinais sonoros.
+Proibição de inverter o sentido de marcha.
+Proibição de circular a velocidade inferior a 30 km/h.
+Fim da proibição de ultrapassar sem buzinar.
+Sim.
+Os automóveis e os motociclos de cilindrada superior a 50cm3.
+Sim, desde que não seja superior à indicada no sinal.
+Parar.
+Sim.
+A mandar avançar o trânsito.
+Moderar a velocidade.
+Parar, unicamente se a minha intenção for seguir em frente.
+Em sentido contrário ao meu.
+Aos condutores à minha esquerda.
+Ao trânsito à sua retaguarda.
+Aos dois sentidos de trânsito.
+É proibido parar ou estacionar em toda a extensão da linha, excepto para efectuar cargas ou descargas.
+Linha contínua de aviso.
+Que posso parar apenas pelo tempo estritamente necessário para a entrada ou saída de passageiros.
+Posso pisar desde que não transponha a linha.
+Permite-me pisar ou transpor apenas para realizar manobras.
+O local de paragem, imposta pela sinalização luminosa.
+Parar e estacionar durante o dia.
+Linha descontínua de abrandamento.
+Posso estacionar mas não parar.
+Proibição de a pisar ou transpor.
+Errado.
+Sim, mas apenas se o meu destino for o Lumiar ou Paço do Lumiar.
+Engrenar uma mudança de força.
+Sim, caso não haja trânsito em sentido contrário.
+Verde.
+Sim, porque sigo em frente.
+Atrás do condutor, do lado esquerdo do veículo e visível a pelo menos 100 m.
+Transição do vermelho para o verde.
+Apenas aos condutores que pretendem inverter o sentido de marcha.
+Seguir em frente.
+Sim, desde que a esteja a realizar como manobra de recurso.
+O condutor que circula em sentido contrário está proibido de a pisar ou transpor.
+Via de abrandamento.
+Obriga à manobra de ultrapassagem.
+Pode ser transposta, porque tem carácter temporário.
+Proíbe a paragem e permite o estacionamento de veículos.
+Sim, se o estacionamento não se destinar a cargas e descargas.
+Parar e estacionar.
+Não, se a paragem se destinar a cargas e descargas.
+Descontínua.
+Linha contínua.
+À sua retaguarda.
+Ao trânsito que vem de frente e da retaguarda.
+Errado.
+Apenas aos veículos que pretendam seguir em frente.
+Médios.
+Não posso utilizar sinais sonoros.
+Sinalização de mensagem variável.
+O número de vias de trânsito no mesmo sentido.
+Uma seta de desvio.
+Fim de localidade.
+Sim, mas apenas nas auto-estradas ou vias equiparadas.
+Do lado direito ou sobre a faixa de rodagem.
+Sim.
+Transmitir apenas obrigações.
+Não tem qualquer valor, para além do informativo.
+Sinalizar a aproximação de obstáculos ou zona de obras.
+Moderar especialmente a velocidade.
+Que apenas estou autorizado a mudar de direcção à direita.
+Sim, a sinalização luminosa permite avançar.
+Sim, mas com precaução.
+Obriga-me a transitar a 50 km/h.
+Sim.
+Que pretendam sair desta via pública diminuam a velocidade já fora da corrente de trânsito principal.
+A afirmação é verdadeira.
+Permitir que os veículos atinjam a velocidade adequada para entrarem na via de trânsito principal.
+Sim.
+Diminuam a velocidade para saírem da corrente de trânsito principal.
+Avançar o mais rapidamente possível.
+Estrada.
+Sim, a manobra é permitida.
+Estou proibido de entrar na zona regulada pelo sinal.
+Manter ou aumentar a velocidade porque a via de trânsito encontra-se desimpedida.
+Sim, mantendo sempre a velocidade média de 50 Km/h.
+Sim, devo.
+Sim.
+Estrada.
+Devo respeitar a luz vermelha e parar imediatamente o veículo.
+A mínima.
+Advertir-me de uma situação de perigo.
+Me indicar a obrigação de parar, desde que tenha espaço suficiente.
+A afirmação é verdadeira.
+Sim, em algumas situações.
+Guias de velocidade.
+Selecção.
+Que devo reduzir a velocidade do meu veículo.
+Linha mista.
+Marcas de desvio.
+Guias.
+Guias.
+Alertam para a obrigatoriedade de paragem do veículo.
+Para a necessidade de praticarem velocidade mais reduzidas.
+Proibição de entrar na área por elas delimitadas.
+Um local destinado para paragem de veículos.
+Que devo passar para a via de trânsito que elas indicam.
+Aproximação de uma linha contínua.
+A afirmação é verdadeira.
+Virar à esquerda no próximo entroncamento ou cruzamento.
+Permitem ao condutor mudar de direcção.
+150 metros.
+Aumentar um pouco a velocidade e avançar.
+Devo acelerar para não embaraçar o trânsito.
+Parar.
+Parar, caso se aproximem veículos vindos do lado direito.
+Devo parar, salvo se já estiver muito perto do sinal quando a luz se acender e não puder parar em segurança.
+Bermas.
+Linha longitudinal descontínua.
+Linha descontínua de aceleração.
+Linha de sentido reversível.
+Via de aceleração.
+Marcas de segurança.
+Linhas de sentido reversível.
+Guias longitudinais.
+Não, é sempre proibido buzinar dentro das localidades.
+Sim.
+Linha descontínua e seta de selecção.
+Não.
+Durante a noite, fora das localidades.
+De dia, nas vias de boa visibilidade, dentro das localidades.
+Ao entrar numa auto-estrada.
+Só se o veículo tiver mais de 12 metros de comprimento.
+Para a direita.
+Sim.
+A afirmação é verdadeira.
+For previsível a necessidade de parar na área demarcada.
+A todos os veículos.
+Errado.
+Os médios.
+Não têm qualquer valor.
+Mais de 12 metros de comprimento.
+No itinerário complementar onde circulo há uma saída a 150 metros.
+No itinerário principal onde circulo, a 150 metros.
+Sempre, visto que não circulam veículos em sentido contrário.
+Sim, desde que possa executar a manobra em condições de segurança.
+Sim.
+No início de uma ultrapassagem.
+É obrigado a parar antes de entrar na zona regulada pelo sinal.
+Podem prosseguir a marcha.
+Sim e posso avançar de imediato.
+Permite-me mudar de direcção à esquerda ou seguir em frente.
+Devo buzinar, manter a velocidade e continuar a marcha.
+Errado.
+Estrada.
+Errado.
+Avançar rapidamente.
+Buzinar a fim de assinalar a minha presença.
+Mudar de direcção à esquerda, obrigatoriamente.
+Parar.
+Buzinar.
+Avançar.
+Aos condutores que transitam à minha esquerda, o dever de parar.
+Sim, em quaisquer circunstâncias.
+Sim, para informar o agente da minha presença.
+Sim.
+A sinalização luminosa.
+Estrada.
+Errado.
+Os veículos que se encontram à minha esquerda podem avançar com especial cuidado.
+As luzes de estrada.
+Avançar rapidamente, porque a luz do sinal luminoso está verde.
+Reduzir a velocidade e parar.
+Não. Devo parar.
+Alertar o condutor do veículo pesado com o sinal sonoro e avançar rapidamente.
+Médios.
+A sinalização existente.
+O condutor do veículo que se encontra à minha esquerda.
+Avançar.
+Os médios.
+Não, porque o agente está a mandar parar o trânsito.
+Prosseguir com especial precaução pois a luz adverte para um perigo.
+Posso avançar.
+Sim, se conduzir um veículo em missão urgente de socorro.
+Errado.
+Sim.
+Errado.
+'Médios'.
+Estar especialmente atento ao comportamento de peões.
+Prosseguir, pois venho da direita em relação aos condutores da via da esquerda.
+As luzes de nevoeiro à retaguarda e de cruzamento.
+Avisar os outros condutores da aproximação de perigo.
+Em qualquer situação.
+Setas de pré-sinalização.
+Circular com apenas um indicador de presença do lado esquerdo e uma das luzes de travagem.
+Parar.
+Parar junto das linhas em ziguezague e descontínua.
+Sim, desde que não transponha a raia oblíqua.
+Sim, desde que sinalize correcta e antecipadamente a minha intenção.
+Errado.
+Sim, em caso de perigo iminente.
+É proibido transitar à direita da linha descontínua.
+Da esquerda.
+Parar e a mudar de direcção.
+Parar e depois seguir em frente.
+Sou obrigado a parar e a mudar de direcção à esquerda.
+Errado.
+Sim, mas só se não conseguir parar em condições de segurança.
+Ceder a passagem e avançar com precaução.
+Veiculo com reboque.
+A indicar ao trânsito à sua retaguarda o dever de parar.
+Apenas ao trânsito da frente.
+Prosseguir a marcha, devendo observar o comportamento daquele condutor.
+Passar a utilizar as luzes de 'máximos' para não ficar encandeado.
+Sim, porque a linha mista não pode ser transposta.
+Sim, porque a marca rodoviária não pode ser pisada.
+Avançar.
+No acesso a uma auto-estrada.
+Somente no cruzamento com automóveis.
+De noite, fora das localidades.
+Sim.
+Que transporta mercadorias perigosas.
+Passar várias vezes e com rapidez dos médios a máximos.
+Parar no local exacto em que me encontro.
+Moderar a velocidade e transitar à direita da linha.
+Transitar na via de trânsito da direita.
+Parar.
+Avançar.
+Avançar sempre, mas rapidamente.
+Passagem para peões.
+Permissão para passar com especial prudência.
+Que nunca posso parar ou estacionar neste local.
+De indicação.
+Peões e condutores.
+Paragem obrigatória.
+Devo ceder a passagem aos veículos que se apresentem pela direita.
+Passagem proibida.
+Aos veículos que pretendem entrar na via assinalada pelo sinal vertical.
+Ao peão e ao condutor.
+Que o trânsito à sua direita deve parar.
+Supressão da berma.
+De património natural.
+De proibição.
+De zona.
+Início de uma localidade.
+Local com interesse cultural.
+Sempre.
+A afirmação é verdadeira.
+Errado.
+Parar.
+Estrada.
+Os sinais sonoros nas localidades, de dia, mas só em caso de perigo iminente.
+Sim.
+Para informar os condutores que as condições do pavimento são más.
+Parar e aguardar por outra indicação.
+Obrigam-me a parar antes do sinal.
+É proibido estacionar, podendo apenas parar na berma.
+Passar rapidamente antes de aparecer a luz vermelha.
+Avançar rapidamente.
+Avançar rapidamente se a paragem não se mostrar segura.
+Avançar.
+Regra geral, devo parar.
+Pela intensidade de trânsito, seja previsível a imobilização no centro da intersecção.
+Apenas posso parar na área demarcada se tiver prioridade de passagem.
+Reduzir a velocidade e avançar com prudência.
+Mudar de direcção à direita.
+Posso mudar de direcção à esquerda e tenho prioridade de passagem sobre os veículos que circulam em sentido contrário.
+Aos outros veículos porque os peões são obrigados a parar.
+Sim, mas com precaução.
+Sim.
+Sim, as marcas rodoviárias permitem a manobra.
+Circular com especial precaução.
+Devo parar e avançar quando o sinal ficar verde.
+Sim, visto estar acesa a luz verde.
+Virar obrigatoriamente à esquerda.
+É proibido parar ou estacionar na área por elas abrangida a não ser para a realização de manobras que manifestamente não apresentem perigo.
+Não posso transpor a linha descontínua que se encontra no eixo a faixa de rodagem.
+Sim, devo ocupar de imediato as raias obliquas.
+Sim, para mudar de direcção.
+Fazer sinal de paragem com o braço esquerdo.
+Avançar.
+Estrada.
+Sim, mas apenas se não conseguir parar em segurança.
+Sim.
+Sim, desde que efectue a manobra em segurança.
+Sim, se for carregar ou descarregar mercadorias.
+Não.
+Não, porque estou a menos de 50 metros de uma curva.
+Sim, porque a luz verde me autoriza a efectuar a manobra.
+Sim.
+Sim. Devo aproximar-me do eixo da faixa de rodagem.
+Sim, e já me encontro correctamente posicionado nesta via de trânsito para efectuar a manobra.
+Sim, em caso de avaria.
+Posso parar mas não posso estacionar.
+Não. É proibido parar.
+Não, posso pisar sem transpor a linha.
+Sim, mas apenas para entrar na área de serviço.
+Não, estou autorizado a pisar mas nunca a transpor a linha.
+Sim, mas apenas se pretender mudar de direcção à esquerda.
+Sim, em caso de necessidade.
+Sim, mas apenas para mudar de direcção à esquerda no entroncamento.
+Sim, posso transpor a linha mista que separa os sentidos de trânsito.
+Sim, se dessa situação não resultar qualquer tipo de insegurança.
+Sim, mas apenas para tomada ou largada de passageiros.
+Sim, se durante o percurso encontrar nevoeiro.
+Para assinalar a realização de qualquer manobra.
+Sim, pois circulo dentro de uma localidade.
+Avançar rapidamente.
+Não, só me é possível realizar a manobra sobre a linha amarela descontínua.
+Avançar rapidamente.
+Ambas proíbem a paragem.
+Luz de marcha atrás.
+Linha descontínua.
+Uma linha mista.
+Proibição de parar ou estacionar.
+Proibição de parar em toda a sua extensão.
+Parar obrigatoriamente.
+Os veículos que circulam em sentido contrário podem ultrapassar.
+Posso passar, desde que o faça com especial prudência.
+Parar e ceder a passagem.
+As marcas rodoviárias prevalecem sobre a sinalização temporária.
+De noite, fora das localidades.
+De noite, dentro das localidades.
+Utilizar as luzes de cruzamento.
+Errado.
+Sim.
+Sim, o Código da Estrada permite.
+Sim, estou correctamente posicionado.
+Devo obedecer ao sinal luminoso vermelho que me obriga a parar.
+Respeitá-la.
+Sim, estou obrigado a sinalizar a manobra, excepto se a faixa de rodagem tiver mais de duas vias de trânsito no mesmo sentido.
+Depois da linha transversal de paragem.
+Não.
+Aveiro/Porto.
+Sim, embora os condutores de veículos que circulam em missão de socorro possam avançar, depois de tomadas as devidas precauções.
+'Médios' ou os 'máximos'.
+Não.
+Um automóvel com mais de 12 metros de comprimento.
+Nos motociclos com carro.
+Uma contra-ordenação grave.
+Motociclos.
+Automóveis ligeiros atrelando um reboque de peso bruto superior à sua tara.
+Sim, mas apenas para quem conduzir veículos a motor.
+Sim, mas apenas se perturbarem a aptidão física do condutor.
+Do condutor.
+Uma contra-ordenação leve.
+Uma contra-ordenação leve.
+Dos pais.
+Não.
+Sim, se a infracção for praticada durante o período provisório do título de condução.
+Dois anos.
+Um ano.
+Três meses.
+Um ano.
+A afirmação está incorrecta.
+Uma contra-ordenação grave.
+Se efectuar a manobra de marcha atrás posso ficar inibido de conduzir pelo período de dois meses a dois anos.
+Sim.
+Sim, de 2 meses a 120 dias.
+Com inibição de conduzir, mas apenas as muito graves.
+Sim, podem.
+Sem oferecer condições de segurança.
+Contra-ordenações leves, graves, muito graves e crime.
+Incorro numa contra-ordenação leve.
+48 horas.
+A afirmação é verdadeira.
+A sanção de inibição de conduzir tem a duração mínima de dois meses e máxima de um ano.
+Instrutor, sempre.
+Examinando.
+Sim, é obrigatório o seguro de ocupantes do veículo.
+Quando não tenha sido efectuado seguro de responsabilidade civil.
+Se estiver estacionado indevidamente.
+A utilização dos máximos de modo a provocar encandeamento é uma infracção sancionada com coima e inibição de conduzir com a duração mínima de dois meses e máxima de dois anos.
+Errado.
+Sim.
+Sim, porque circulo numa auto estrada.
+Sim.
+Leve.
+Parar em obediência ao sinal do agente de autoridade.
+Contra-ordenação leve.
+Contra ordenação leve.
+Não.
+Sim, leve.
+Sim, grave.
+Leve.
+Sofra qualquer acidente.
+Errado.
+Sim.
+Errado.
+Sim.
+Sim.
+Sim, se estiver em mau estado de conservação, tornando ilegível qualquer informação.
+Licença de condução.
+Não.
+Estacionamento proibido.
+Sim, se forem infracções que condicionem a circulação do veículo na via pública.
+É também responsável pelas infracções que possam ser cometidas.
+Sim, mas unicamente para automóveis.
+Lotação de 6 lugares e peso bruto de 5.000 kg.
+Pode.
+Pode, se tiver carta há mais de 2 anos.
+Só automóveis pesados de mercadorias.
+Máquinas industriais ligeiras.
+Só os automóveis pesados.
+Motociclos e automóveis pesados de mercadorias.
+Automóveis ligeiros.
+Tractores agrícolas com reboque desde que o peso bruto do conjunto exceda 6000 kg.
+Sim, caso esteja caducado.
+Nos primeiros quatro anos.
+Sim, desde que o condutor pratique qualquer infracção.
+Sempre que infrinjam qualquer regra de trânsito.
+Sim, mas apenas se tiver idade igual ou superior a 60 anos.
+C.
+Errado.
+17 anos.
+Não, o candidato pode requerer prova oral.
+O proprietário.
+O condutor pratique três contra-ordenações graves.
+Sim, embora não seja aconselhável.
+Pagamento de uma coima e inibição de conduzir com a duração mínima de um mês e máxima de dois anos.
+Tractores agrícolas com reboque com peso bruto do conjunto, superior a 6000 kg.
+Tractores agrícolas com reboque, de peso bruto do conjunto até 7000 Kg.
+2 meses a 2 anos.
+Todos os motociclos.
+O proprietário do veículo.
+15 dias úteis.
+Seis meses.
+Os passageiros e proprietário.
+30 dias.
+Três anos.
+Todos os tractores agrícolas.
+Máquinas agrícolas ligeiras.
+Todos os automóveis de passageiros.
+Automóveis ligeiros, com reboque de peso bruto até 750 Kg.
+Só automóveis ligeiros.
+Qualquer motociclo.
+O menor, desde que tenha tido formação rodoviária na escola.
+Mantém o título.
+Não.
+A afirmação é verdadeira.
+A remoção do veículo.
+Sim.
+Apresentar no prazo de 8 dias o documento à autoridade indicada pelo agente de fiscalização e pagar coima.
+Sim, a inibição de conduzir não se aplica a todos os veículos a motor.
+Sim, por três anos.
+Sim, pelo período de três anos.
+Sim, mas apenas se o condutor for interveniente em acidente.
+Não.
+Sempre de ficha de Inspecção periódica do veículo.
+O registo de propriedade não está actualizado.
+Não, pois os veículos a motor e seus reboques são obrigados a ter matrícula.
+2 anos.
+Sim, mas apenas se souber ler e escrever em Português.
+Não.
+Todos os motociclos.
+Automóveis ligeiros, tractores agrícolas e automóveis pesados de mercadorias.
+O condutor fica inibido de conduzir qualquer veículo a motor pelo período de um mês.
+Motociclos de cilindrada não superior a 50 cm3 e ciclomotores.
+Ter que aguardar o fim do período probatório para obter o título definitivo independentemente das infracções que pratique.
+Tractores agrícolas, com reboque, com peso bruto do conjunto superior a 6000 kg.
+Pode conduzir qualquer máquina.
+Pode, desde que o peso máximo não exceda 3500 kg.
+Máquinas florestais ligeiras.
+Pode, independentemente do seu peso máximo.
+Sim, salvo se apresentar defesa.
+Sim, desde que não seja um automóvel pesado.
+Sim, mas apenas triciclos e quadriciclos ligeiros.
+Permanecer no mesmo local por mais de 36 horas.
+Errado.
+Pretender estacionar do lado esquerdo da faixa de rodagem.
+Sim, desde que não seja pisada nem transposta a linha longitudinal contínua.
+Sim.
+Sim.
+Não, apenas é proibida se houver trânsito em sentido contrário.
+Deve ser efectuada rapidamente.
+Posso efectuar a manobra sem perigo.
+O condutor ultrapassado se aperceba da sua intenção.
+Parar.
+Circular a velocidade não superior a 90 km/h.
+Que mantenha a velocidade e se desvie o mais possível para a direita.
+Não, porque tenho que pisar a linha descontínua.
+Ligar os médios para iluminar a faixa de rodagem.
+De uma fila de trânsito.
+Sim.
+Não aumentar a velocidade e desviar-me o mais possível para a direita.
+Sim.
+Não, porque transitam veículos em sentido contrário.
+Sim, desde que tenha deixado livre a parte mais à direita da faixa de rodagem.
+Não, porque é proibido ultrapassar nas pontes.
+Não, excepto nos casos de perigo de acidente.
+Sim, caso o condutor da frente mude de direcção à esquerda.
+Sim, em todas as curvas.
+Sim, porque não há no local sinalização que proíba a manobra.
+À velocidade do veículo que me ultrapassa.
+Desviar-me o mais possível para a direita e manter a velocidade.
+Deve utilizar os sinais sonoros.
+Não posso.
+Sim.
+Sim.
+Sim, desde que não transponha a guia.
+Iniciar de imediato a manobra.
+À presença de peões na berma esquerda e esperar por melhor local para efectuar a manobra.
+Sim, independentemente do trajecto a seguir pelo condutor de tracção animal.
+Errado.
+Sim.
+Errado.
+Reduzir a velocidade e descrever a curva sem ultrapassar.
+Ultrapassar o condutor do velocípede.
+Sim.
+Sim.
+Sim.
+Sim.
+Sim, se puder passar na parte mais à direita da faixa de rodagem.
+Efectuar a manobra pelo lado direito da faixa de rodagem.
+Não, porque me aproximo duma curva.
+Errado.
+Errado.
+Porque é proibido ultrapassar em todas as curvas.
+Errado.
+Sim, desde que avise o outro condutor.
+Sim.
+Sim, caso possa realizar a manobra em segurança.
+Sim, a marca rodoviária proíbe-me de efectuar a manobra.
+Errado.
+Sim, a sinalização vertical permite-me efectuar a manobra de ultrapassagem.
+Não, porque para ultrapassar não posso utilizar a metade da faixa de rodagem.
+Iniciar a manobra, desde que sinalize a minha intenção.
+Sim, desde que avise o condutor da minha intenção.
+Não.
+Errado.
+Não, salvo se a faixa de rodagem for estreita.
+Posso ultrapassar pela direita, se pretender seguir em frente.
+Sim, porque não existe qualquer sinalização que proíba a manobra.
+Sim, dado que sinaliza correctamente a sua intenção.
+Não, porque iniciou a manobra antes do sinal vertical.
+Não, porque transita atrás de um veículo pesado.
+Sim
+Aumentar a velocidade.
+Ultrapassar, independentemente da velocidade do veículo branco.
+Reduzir a velocidade para aumentar a distância de segurança.
+Iniciar rapidamente a manobra de ultrapassagem.
+Reduzir a velocidade para aumentar a distância de segurança.
+Início de manobra de marcha atrás.
+Automóveis pesados de mercadorias.
+Sim pode, pois existe espaço lateral.
+Iniciar uma ultrapassagem.
+Apenas na passagem assinalada para a travessia de peões.
+Devo buzinar, manter a velocidade e continuar a marcha.
+Sim.
+Só os automóveis pesados.
+É permitido o estacionamento a todos os veículos.
+Errado.
+Parar.
+Sim, a manobra é permitida.
+Sim, desde que ainda não tenha dado início à manobra de ultrapassagem.
+Sim, a manobra é permitida.
+Sim, se for a velocidade elevada.
+Sim, desde que não haja peões que pretendam atravessar a faixa de rodagem.
+Sim, porque existem duas vias em cada sentido, podendo transitar em qualquer uma.
+Sim, desde que não circulem veículos em sentido contrário.
+Sim, desde que não aumente a velocidade.
+Sim posso, devendo sinalizar correctamente a manobra.
+Não, pois o veículo da frente manifesta a mesma intenção.
+Sim, a manobra é permitida.
+Sim, devo sinalizar a manobra e efectuar a ultrapassagem pelo lado direito, desde que tenha espaço dentro da faixa de rodagem.
+Sim, posso.
+Sim.
+Não, porque circulo fora duma localidade.
+Sim, desde que sinalize devidamente a manobra.
+Sim, desde que o veículo da frente não pretenda mudar de direcção.
+Sim, porque o local tem dois sentidos de trânsito.
+Devo ultrapassar o outro condutor pela direita, porque tenho espaço livre.
+Aumentar a velocidade e realizar a manobra de imediato.
+Sim, desde que o faça pela direita.
+Manter a velocidade.
+Sinal de mudança de direcção à direita.
+Sim, salvo se existir mais de uma via de trânsito no mesmo sentido.
+Fazer uso do sinal sonoro para apressar o condutor.
+Não, o Código da Estrada não estabelece qualquer obrigação.
+Pelo lado esquerdo.
+Sim, é uma das regras que devo cumprir antes de iniciar a manobra de ultrapassagem.
+Errado.
+Sim, mas apenas dentro das localidades.
+Diminuir a velocidade.
+Errado.
+Apenas se circulam em auto-estrada.
+Errado.
+Errado.
+Errado.
+A afirmação é verdadeira.
+Sim, mas apenas os idosos.
+A velocidade superior a 40 km/h.
+Em marcha lenta ainda que cause embaraço injustificado aos restantes utentes da via.
+A uma velocidade não inferior a 60 Km/h porque vou a subir.
+A 70 Km/h.
+80 km/h.
+110 km/h.
+80 km/h.
+60 km/h.
+O local exacto em que termina a localidade, sendo possível circular a mais de 50 Km/h.
+A mínima.
+Após o sinal vertical.
+Errado.
+Pelo tempo de reacção.
+110 Km/h.
+A afirmação é verdadeira.
+50 km/h dentro das localidades.
+50 km/h nas vias reservadas.
+Adaptada às condições existentes.
+Pelas características dos veículos estacionados.
+Não, ao circular numa via de trânsito com prioridade de passagem não estou obrigado a moderar a velocidade.
+Errado.
+Não, trata-se de uma via pública com boa visibilidade.
+Estou obrigado a moderar a velocidade do meu veículo.
+Devo reduzir a velocidade, apenas no caso de haverem peões a atravessar.
+Via interdita a veículos de duas rodas.
+110 Km/h.
+110 Km/h.
+Ligeiro de passageiros sem reboque.
+50 km/h.
+Sim, estou obrigado a moderar a velocidade.
+Sim.
+Estou obrigado a utilizar as luzes de perigo mas apenas se existirem condições meteorológicas ou ambientais que tornem a visibilidade insuficiente.
+Parar, porque a intensidade de trânsito é elevada.
+A afirmação é verdadeira.
+70 Km/h, se circular com um automóvel ligeiro de mercadorias sem reboque.
+70 km/h.
+70 Km/h.
+60 Km/h.
+80 Km/h.
+Sim.
+Moderar a velocidade e parar se necessário.
+Sim.
+Aumentar a distância de segurança.
+70 Km/h.
+A moderar especialmente a velocidade.
+60 Km/h.
+Sim.
+80 Km/h.
+Transitar a velocidade especialmente moderada.
+Diminui.
+70 Km/h.
+80 Km/h, se circular com um automóvel ligeiro com reboque.
+Deve saber que vai entrar numa via de sentido reversível.
+Circular junto ao eixo da faixa de rodagem.
+Aumentam.
+Sim, desde que o possa fazer em segurança.
+Errado.
+Condicionam a velocidade.
+Assinalar a presença de uma escola.
+A 90 km/h.
+60 km/h.
+Diminui.
+70 km/h.
+A afirmação é verdadeira.
+Devo fazer uso das luzes de cruzamento.
+Sim.
+Sim.
+Manter a velocidade com que circulo.
+120 km/h.
+Sim, porque circulo a uma velocidade não superior a 70 Km/h.
+70 km/h.
+A uma velocidade instantânea não inferior a 50 Km/h.
+Devo moderar especialmente a velocidade.
+Circular a velocidade especialmente moderada.
+Circular o mais junto possível ao eixo da faixa de rodagem.
+120 km/h.
+80 km/h.
+Sim, porque não há qualquer sinalização que me proíba.
+45 km/h.
+40 km/h.
+Estou obrigado a circular a 60 km/h.
+Sim, se a via tiver boa visibilidade.
+80 Km/h.
+80 km/h.
+50 km/h.
+70 km/h.
+50 km/h.
+60 km/h.
+70 Km/h.
+A 120 Km/h.
+Procedo incorrectamente pois circulo com velocidade excessiva para as características da via.
+Posso, porque circulo numa via de dois sentidos.
+Posso, porque circulo numa via plana e sem curvas.
+Devo transitar a uma velocidade mínima de 90 km/ e não conduzir um automóvel pesado.
+Sim, é aconselhável moderar a velocidade.
+A afirmação é verdadeira.
+Errado.
+A afirmação é verdadeira.
+Todos os automóveis.
+Os quadriciclos.
+A afirmação é verdadeira.
+Deve ser sempre de 50 km/h.
+A afirmação é verdadeira.
+40 Km/h, se forem tractores agrícolas com reboque.
+Nas estradas secundárias.
+Não, atendendo à sinalização existente no local e à circulação do veículo em sentido contrário.
+Sim, estou obrigado a moderar a velocidade.
+A afirmação é verdadeira.
+Circulo num local de visibilidade reduzida.
+Sim, ainda que exceda o limite máximo de velocidade autorizado para esta via pública.
+Não, apenas nos locais assinalados com sinais de perigo.
+À intensidade do trânsito e às características da via.
+Diminui a visibilidade.
+Sim.
+110 km/h, se não tiverem reboque.
+120 km/h, seja qual for o veículo que conduza.
+120 km/h.
+Se não conseguir avistar toda a largura da faixa de rodagem até, pelo menos, 50 metros.
+Na presença de um sinal de proibição.
+Quando as vias têm dois sentidos de trânsito.
+Sim, mas apenas se circular com um veículo ligeiro sem reboque.
+Sim, à velocidade de 120 km/h.
+Sim, pois vou encontrar um lugar frequentado por idosos.
+Devo utilizar o motor como auxiliar do travão de serviço.
+Não, porque não estou habilitado a conduzir triciclos.
+Sim.
+Sim.
+Sim, devo moderar sempre a velocidade.
+Não.
+Sim, desde que mantenha uma velocidade não inferior a 50 Km/h.
+Sim, mas apenas na aproximação de pessoas ou animais.
+Não, o Código da Estrada não estabelece obrigação.
+Aquela que se adapta às condicionantes do momento e que não provoque embaraço no trânsito.
+70 km/h.
+50 km/h.
+Devo evitar alterar a velocidade, para não assustar o peão.
+Aproximar o veículo do lado esquerdo, diminuindo a velocidade.
+60 km/h.
+Passa a existir a velocidade recomendada de 40 km/h.
+120 km/h, se conduzir um ligeiro de passageiros.
+80 km/h.
+70 km/h.
+60 km/h.
+A afirmação é verdadeira.
+110 km/h para todos os automóveis ligeiros.
+40 km/h.
+Sim.
+30 km/h.
+Moderada, atendendo ao ambiente rodoviário sinalizado.
+Sim, se não tiverem reboque.
+Sim, excepto nas vias em mau estado de conservação.
+Sim, dado que o limite de velocidade é de 90 km/h.
+Está a chover e por isso o meu tempo de reacção aumenta.
+Aumentar a velocidade.
+A 90Km/h.
+Mantendo a velocidade para não incomodar o peão.
+Aos veículos estacionados.
+Sim, mas apenas de noite.
+Buzinar com insistência para advertir o condutor que não pode realizar aquela manobra.
+Reduzir a velocidade e estar atento ao procedimento deste condutor.
+Moderar a velocidade e estar atento à indicação de bermas baixas dada pelo sinal.
+Manter a velocidade.
+Parar para respeitar a velocidade imposta.
+Moderar a velocidade.
+Obrigatoriamente a 80 Km/h.
+Moderar a velocidade, porque nestas condições a distância de travagem aumenta.
+Ligar as luzes de cruzamento.
+Errado.
+Transitar com muita atenção, devido ao facto de existirem veículos estacionados mais à frente.
+Sim, pois a via apresenta más condições de aderência.
+Não, porque neste local nunca devo moderar a velocidade.
+Moderar a velocidade, atendendo à largura deste tipo de veículo.
+Com velocidade especialmente moderada.
+A velocidade não superior a 40 km/h.
+Ao veículo que circula em sentido contrário.
+Errado.
+Parar e se necessário moderar especialmente a velocidade.
+Quando não conseguir avistar a largura da faixa de rodagem ao longo de, pelo menos, 50 metros.
+Manter a velocidade.
+Transitar com precaução, mas nunca utilizar o motor como auxiliar do travão.
+A quantidade de informação, característica das vias urbanas.
+Manter a velocidade, se o pesado circular mais rápido.
+Aumentar um pouco a velocidade.
+45 km/h.
+As deficientes condições de aderência do pavimento.
+A via da direita.
+Utilizar os sinais de luzes.
+Manter uma velocidade adequada.
+Aumentar um pouco a velocidade, para que o peão se desvie.
+55 Km/h.
+Sim, devido à neve.
+Não, porque se trata de uma via de inclinação acentuada.
+80 km/h.
+120 km/h para todos os motociclos.
+110 km/h.
+Posso, mas somente nas descidas de acentuada inclinação.
+110 km/h.
+Sim, devido à proximidade de uma passagem para peões.
+Instantânea de 50 Km/h.
+Sim.
+Errado.
+Sim, porque a sinalização horizontal me obriga.
+Sim, pelas características do local.
+50 km/h.
+70 km/h, para um pesado de mercadorias com reboque.
+Diminuir a distância de segurança.
+50 km/h.
+O motor e o travão de estacionamento.
+Sim.
+Porque a via se encontra em mau estado de conservação.
+60 Km/h.
+Errado.
+Errado.
+Sim, porque circulo numa via secundária.
+Ceder a passagem aos condutores que circulam em sentido contrário.
+Moderar especialmente a velocidade.
+Moderar a velocidade e parar devido às marcas rodoviárias.
+Moderar a velocidade porque prevejo vento forte predominantemente do lado direito.
+Parar, porque existem baias direccionais.
+Sim porque as condições atmosféricas são desfavoráveis.
+50 km/h.
+Sim, caso não exista sinalização vertical que mo proíba.
+Sim.
+Sim, às condições ambientais.
+30 Km/h.
+Sim, mas apenas porque circulo dentro duma localidade e me aproximo de um estreitamento na via.
+A velocidade especialmente moderada.
+Transitar a velocidade adequada e estar atento à distância lateral.
+Sempre na via da direita.
+70 Km/h.
+70 km/h.
+70 km/h.
+Sim.
+Não, porque essa velocidade nunca é permitida na localidade.
+Posso, caso não exista sinalização que o proíba.
+120 km/h, para qualquer automóvel.
+Não posso parar e devo moderar especialmente a velocidade.
+A velocidade não pode ser superior a 40 km/h.
+Diminuir a distância de segurança, moderando a velocidade.
+Não, porque circulo dentro de uma localidade.
+Circular com a 3ª velocidade engatada.
+Sim, em quaisquer circunstâncias.
+Não.
+Com velocidade especialmente moderada.
+Transitar no eixo da faixa de rodagem e diminuir a velocidade.
+A velocidade moderada.
+Não devo ultrapassar a velocidade indicada no sinal.
+Moderada, mas obrigatoriamente de 50 Km/h.
+A afirmação é verdadeira.
+Não, nem sempre sou obrigado a moderar a velocidade.
+110 Km/h.
+50 Km/h.
+50 km/h.
+Não.
+110 Km/h.
+60 Km/h.
+110 Km/h.
+Não, o limite de velocidade é de 110 km/h.
+Não.
+Sim, os triciclos de cilindrada superior a 50 cm3 não devem exceder esta velocidade ao circular numa auto-estrada.
+Moderar a velocidade.
+80 Km/h.
+40 Km/h.
+Diminuir a velocidade, porque a distância de travagem aumenta.
+Aumentar um pouco a velocidade para que a distância de paragem diminua.
+Moderar a velocidade, mas nunca parar para não embaraçar o trânsito.
+Manter o veículo na mesma via de trânsito.
+Aumentar a velocidade e se necessário ligar os máximos.
+Moderar a velocidade.
+Diminuir a distância de segurança.
+Parar.
+A possibilidade de ocorrência de condições atmosféricas adversas.
+Errado.
+Moderar especialmente a velocidade.
+Sim, apenas a quem transita na via de trânsito do lado direito.
+Informação.
+70 km/h.
+Nas estradas, fora das localidades.
+110 Km/h.
+80 km/h.
+Não podem ser alterados.
+Exceder os limites de velocidade quando a situação o exigir.
+Mínimos e máximos de velocidade.
+Aproximar o veículo do eixo da faixa de rodagem, moderando a velocidade.
+Parar.
+Não deve fazer ultrapassagens.
+Não devo circular a velocidade inferior ao limite fixado.
+Não posso parar e devo moderar a velocidade.
+Parar, se estiver muito nevoeiro.
+Reduzir a velocidade e circular com especial atenção.
+Ceder a passagem aos veículos que venham em sentido contrário.
+Circular a velocidade constante.
+Manter a velocidade.
+Diminuir a velocidade.
+Parar imediatamente.
+Circular a velocidade moderada.
+Reduzir a velocidade e ceder passagem aos ciclistas.
+Reduzir a velocidade e transitar à velocidade mínima de 70 km/h.
+A velocidade mínima permitida é de 100 km/h.
+Me aproximo duma zona regulada por sinalização luminosa.
+Circular a mais de 50 Km/h.
+Sim, sempre que a intensidade do trânsito ou as características da via aconselharem.
+Sim.
+70 km/h.
+Preparar-me para travar ao descrever a curva.
+Ligar as luzes de cruzamento.
+Sim, desde que seja para largar passageiros.
+Sim, se a velocidade for excessiva para as características da via e exista sinalização a impor um limite máximo de velocidade.
+70 Km/h.
+110 Km/h.
+70 km/h.
+40 Km/h.
+110 Km/h.
+80 Km/h.
+50 km/h.
+60 Km/h.
+Os automóveis ligeiros de passageiros, sem reboque.
+Automóvel ligeiro de mercadorias, sem reboque.
+80 km/h, se conduzir um automóvel pesado de passageiros sem reboque.
+110 km/h.
+80 km/h para todos os automóveis ligeiros com reboque.
+70 Km/h.
+80 km/h.
+70 km/h.
+90 km/h para todos os automóveis ligeiros.
+50 km/h.
+Diminuir a velocidade.
+A distância de paragem diminui.
+Moderar a velocidade.
+Diminuir.
+Deve diminuir.
+Circular a velocidade especialmente moderada.
+Diminuir, apenas se circular em auto-estrada.
+Moderar a velocidade e utilizar os sinais sonoros.
+Maior.
+Deve ser moderada.
+Deve diminuir.
+A velocidade deve ser menor.
+Sim e também devo evitar travagens bruscas.
+A velocidade deve ser moderada.
+Deve diminuir.
+Apenas mínimos.
+Circular com velocidade moderada.
+Sim, em qualquer circunstância.
+50 Km/h.
+40 km/h.
+50 Km/h.
+Diminuir a velocidade.
+70 Km/h.
+Sim.
+30 km/h.
+Errado.
+Manter a velocidade desde que mude de via de trânsito.
+Sim.
+Não, se o veículo for um automóvel ligeiro de passageiros.
+Diminui.
+Apenas pela esquerda.
+Sim.
+Sim, porque o limite de velocidade é de 40 km/h.
+45 km/h.
+Sim, por um ligeiro de passageiros.
+Sim, porque circulo à velocidade máxima permitida no local.
+Não.
+60km/h, tal como a indicação dada pelo sinal.
+Reduzir a velocidade com auxílio do motor.
+110 Km/h.
+Sim.
+Sim.
+A altura do meu veículo.
+Errado.
+50 Km/h.
+Sim, não podendo exceder a velocidade máxima de 100 Km/h.
+Se eu não adaptar a velocidade às condições do piso.
+Óleo na estrada.
+A distância de travagem.
+Menor.
+A afirmação é verdadeira.
+Diminuir a distância de segurança e aumentar a distância de paragem.
+Errado.
+Três ou mais.
+Sim.
+Pela via de trânsito mais à esquerda.
+A afirmação está incorrecta.
+Sim, deve manter uma distância máxima de 50 metros.
+Sim, devo adequar a velocidade atendendo às condições meteorológicas.
+Circular sempre com as luzes de presença ligadas.
+A circulação é permitida até ao local de destino.
+A circulação é permitida até ao local de destino.
+Sim, mas apenas quando chove, neva, está nevoeiro, há gelo ou é de noite.
+É permitido junto às portagens.
+Todos os automóveis, menos os pesados de passageiros.
+Sim, porque não vêm veículos em sentido contrário.
+Diminuir a distância de segurança.
+Circular junto ao eixo da faixa de rodagem.
+Fazer uso das luzes de perigo para assinalar a minha presença.
+Circular em marcha lenta fazendo uso das luzes de perigo.
+Aproximar o veículo o mais possível do eixo da faixa de rodagem.
+Devo circular pela direita da faixa de rodagem.
+Via de abrandamento.
+Via de aceleração.
+A redução da visibilidade.
+110 Km/h.
+A redução de velocidade for súbita.
+Sim.
+Sim, desde que adapte a minha condução às condições atmosféricas adversas.
+Sim, de modo a que consiga fazer parar o veículo no espaço livre e visível à minha frente.
+Sim.
+Na perda momentânea da capacidade de visão.
+Sim, devo circular nesta via de trânsito mais à direita.
+Não, deveria ocupar a via imediatamente à minha esquerda.
+Moderação especial da velocidade.
+Diminuir a distância de segurança.
+A redução de visibilidade e o aumento da aderência ao piso.
+Errado.
+Os automóveis pesados de mercadorias ou conjuntos de veículos cujo comprimento exceda 7 m.
+50 km/h.
+Todos os motociclos e automóveis.
+Circulo em auto-estrada.
+Terminar a ultrapassagem evitando manobras bruscas.
+Assinalar uma ultrapassagem.
+Utilizar o motor como auxiliar de travagem.
+Às condições de aderência e visibilidade.
+Sim, é obrigatório.
+Procurar afastar-me dos lençóis de água a fim de evitar uma possível aquaplanagem.
+Circular com as luzes de presença ligadas.
+Diminuir a distância de segurança.
+Utilizar o motor como auxiliar do travão, de maneira a aumentar a velocidade.
+Utilizar o motor como auxiliar do travão e moderar a velocidade.
+Utilizar a berma ou a faixa de rodagem consoante o estado do piso.
+Moderar a velocidade e diminuir a distância de segurança.
+Transitar a velocidade moderada.
+Errado.
+Com o motor.
+O aumento de velocidade.
+Ausência de sinalização vertical.
+Sim.
+Da esquerda para a direita.
+Ao veículo que circula atrás do meu veículo.
+A sinalização vertical.
+Transitar com as luzes de cruzamento, de modo a ver e a ser visto.
+Errado.
+Apenas aos limites de velocidade impostos por sinalização.
+Automóveis pesados.
+Peões, animais, carros de mão e ciclomotores.
+Parar e estacionar.
+Circular a menos de 60 km/h.
+Circular com os máximos.
+Errado.
+Durante o tempo necessário para efectuar uma ultrapassagem.
+Ligar as luzes de cruzamento e aumentar a velocidade.
+Sim.
+Via de tráfego resultante do alargamento da faixa de rodagem.
+Da esquerda para a direita.
+Às condições de aderência da faixa de rodagem.
+Máxima obrigatória.
+Velocidade mínima aconselhável de 50 km/h.
+150 metros da próxima saída.
+Podem, dentro dos limites de velocidade.
+Sim.
+A afirmação é verdadeira.
+Sim.
+Manter a velocidade.
+Estar especialmente atento e adaptar a velocidade.
+Não afecta o consumo do combustível no veículo.
+Diminuir a distância de segurança.
+Circular à velocidade máxima de 50 km/h.
+Posso, se fizer a manobra muito rapidamente.
+Sim, mas apenas para inverter o sentido de marcha.
+Sim, excepto nas auto-estradas.
+Para efectuar uma ultrapassagem.
+Enquanto que em estrada a condução provoca sono, em meio urbano provoca fadiga.
+Fazer uso constante do travão.
+Diminui, aumentando a distância de travagem.
+A distância de travagem aumenta.
+A aderência aumenta e a distância de travagem diminui.
+A distância de travagem diminui.
+Os automóveis, os motociclos e os triciclos de cilindrada superior a 50cm3 e as máquinas industriais com matrícula.
+A ausência de trânsito.
+Há mais informação a recolher.
+Utilizar os sinais sonoros e prosseguir a marcha.
+A velocidade deve diminuir.
+De estrada.
+Sim, mas apenas durante a noite.
+Posso continuar a circular nesta ou na via de trânsito mais à esquerda.
+Ser feitas com as luzes de perigo ligadas.
+A diminuição da distância de travagem.
+A utilização das luzes de nevoeiro.
+Ser uma via pública destinada a trânsito rápido.
