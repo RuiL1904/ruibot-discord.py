@@ -71,7 +71,7 @@ class pergunta(commands.Cog):
                 inline = False
             )
         
-        image = discord.File(f'data/Imagens B/{(images[num]).strip()}.jpg', filename = 'image.jpg') # Set the image as a discord.File, since .set_image method only supports HTTP(S)
+        image = discord.File(f'data/Categoria B/Imagens/{(images[num]).strip()}.jpg', filename = 'image.jpg') # Set the image as a discord.File, since .set_image method only supports HTTP(S)
         embed.set_image(url = 'attachment://image.jpg')
 
         embed.set_footer(text = (f'Requested by {context.message.author.name}'))
