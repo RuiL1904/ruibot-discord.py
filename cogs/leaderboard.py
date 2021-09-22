@@ -18,16 +18,10 @@ class leaderboard(commands.Cog):
             async with connection.cursor() as cursor:
                 
                 # Get the data from the database as I want
-                await cursor.execute('SELECT * FROM leaderboard')
+                await cursor.execute('SELECT * FROM leaderboard ORDER BY percentage DESC')
                 data = await cursor.fetchall()
                 await cursor.close()
 
-                # Sort by % of correct_answers
-                sort = [] 
-                for i in range(len(data)):
-                    percentage = round((data[i][2] * 100) / data[i][3], 1) # Calculate % of correct_answers based on total_answers
-                    sort.append((data[i][1], data[i][2], data[i][3], percentage))
-                
                 # Embed sent by the bot
                 embed = discord.Embed(
                     title = 'Leaderboard (.pergunta)',
@@ -36,9 +30,11 @@ class leaderboard(commands.Cog):
                 )
                 
                 fields = []
-                for i in range(len(sort)):
-                    fields.append((f'{i + 1}. {sort[i][0]}', f'{sort[i][3]}% respostas corretas ({sort[i][1]}/{sort[i][2]})'))
-
+                for i in range(len(data)):
+                    # Check if user has at least 10 answered questions
+                    if data[i][3] > 10:
+                        fields.append((f'{i + 1}. {data[i][1]}', f'{data[i][4]}% respostas corretas ({data[i][2]}/{data[i][3]})'))
+                
                 for name, value in fields:
                     embed.add_field(
                         name = name,
@@ -49,7 +45,7 @@ class leaderboard(commands.Cog):
                 embed.set_footer(text = (f'Request by {context.message.author.name}'))
                 embed.timestamp = timestamp
                 
-                await context.send(embed = embed)              
+                await context.reply(embed = embed) 
 
 def setup(client):
     client.add_cog(leaderboard(client))
