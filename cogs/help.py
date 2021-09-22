@@ -35,7 +35,7 @@ class help(commands.Cog):
         url = 'https://media1.tenor.com/images/5300f3652dd3742b804294c00c24ba04/tenor.gif?itemid=8600234'
         
         embed.set_image(url = url)
-        embed.set_footer(text = (f'Request by {context.message.author.name}'))
+        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
         embed.timestamp = timestamp
         
         await context.reply(embed = embed)
