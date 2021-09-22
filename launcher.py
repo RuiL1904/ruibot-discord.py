@@ -19,7 +19,7 @@ cogs = []
 for filename in os.listdir('./cogs'):        
     if filename.endswith('.py'):
         client.load_extension(f'cogs.{filename[:-3]}')
-        cogs.append(filename)
+        cogs.append(filename[:-3])
 
 # Nextcord does not support jishaku yet (waiting for ti do so)
 # client.load_extension('jishaku')
@@ -28,14 +28,15 @@ for filename in os.listdir('./cogs'):
 @client.event
 async def on_ready():
     os.system('clear')
+
+    # Get bot guilds
+    guilds = []
+    for guild in client.guilds:
+        guilds.append(guild.name)
     
-    # Checks whether the bot is already ready or not
-    if client.is_ready():
-        print(f'O Bot foi reconectado! ({client.user} - {client.owner_id})')
-        print(f'Os seguintes comandos foram carregados: {cogs}')
-    else:
-        print(f'O Bot está online! ({client.user} - {client.owner_id})')
-        print(f'Os seguintes comandos foram carregados: {cogs}')
+    print(f'O Bot ficou online! ({client.user} - {client.owner_id})')
+    print(f'Os seguintes comandos foram carregados: {cogs}')
+    print(f'Os seguintes servidores foram carregados: {guilds}')
     
     # Set bot status (Discord Rich Presence)
     await client.change_presence(status = discord.Status.do_not_disturb, activity = discord.Game(name = '.help'))
