@@ -125,7 +125,20 @@ class ipma(commands.Cog):
                         embed.timestamp = timestamp
                         
                         await context.reply(embed = embed)
-        
+
+                    # Server is down
+                    else:
+                        # Embed sent by the bot
+                        embed = discord.Embed(
+                            title = 'ERRO',
+                            description = '```A API do IPMA está desligada...Contacta um @Developer```',
+                            color = discord.Color(0xcc3300)
+                        )
+
+                        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
+                        embed.timestamp = timestamp
+
+                        await context.reply(embed = embed)           
         except:
             embed = discord.Embed(
                 title = 'ERRO',
