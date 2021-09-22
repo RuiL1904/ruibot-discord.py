@@ -20,6 +20,7 @@ class info(commands.Cog):
         )
 
         fields = [('Data de Lançamento:', '29 de dezembro de 2020'),
+        ('Desenvolvedor:', 'Rui Lopes')
         ('Python Version', platform.python_version()),
         ('Nextcord Version', discord.__version__),
         ('SQLite Version', aiosqlite.sqlite_version),
