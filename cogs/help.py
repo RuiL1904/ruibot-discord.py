@@ -21,6 +21,7 @@ class help(commands.Cog):
         ('.info', 'Exibe info acerca do bot'),
         ('.covid [place]', 'Exibe dados sobre a COVID-19 em Portugal ou numa cidade'),
         ('.reddit [subreddit]', 'Ainda em construção...'),
+        ('.ipma [concelho]', 'Temperaturas máxima e mínima no concelho dado'),
         ('.pergunta (.p)', 'Faz-te uma pergunta sobre o código da estrada'),
         ('.leaderboard (.lb)', 'Exibe a leaderboard do comando .pergunta')]
         
