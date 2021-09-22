@@ -16,7 +16,7 @@ class pergunta(commands.Cog):
         
         timestamp = datetime.utcnow()
 
-        num = random.randint(1, 3911) # Randomize a number in questions range
+        num = random.randint(1, 3909) # Randomize a number in questions range
         
         # Read questions
         async with aiofiles.open('data/Categoria B/perguntas.txt', mode = 'r') as file:
@@ -119,7 +119,7 @@ class pergunta(commands.Cog):
                                 
                                 if not user_id:
                                     # Create user by his discord_id
-                                    await cursor.execute('INSERT INTO leaderboard VALUES (?, ?, ?, ?)', [discord_id, discord_name, 1, 1])
+                                    await cursor.execute('INSERT INTO leaderboard VALUES (?, ?, ?, ?, ?)', [discord_id, discord_name, 1, 1, 100])
                                     await connection.commit()
                                     await cursor.close()
                                 else:
@@ -132,8 +132,12 @@ class pergunta(commands.Cog):
                                         row += 1
                                         total_answers = row
                                     
+                                    # Calculate percentage
+                                    percentage = round(((correct_answers * 100) / total_answers), 1)
+                                    
                                     await cursor.execute('UPDATE leaderboard SET correct_answers = ? WHERE user_id = ?', [correct_answers, discord_id])
                                     await cursor.execute('UPDATE leaderboard SET total_answers = ? WHERE user_id = ?', [total_answers, discord_id])
+                                    await cursor.execute('UPDATE leaderboard SET percentage = ? WHERE user_id = ?', [percentage, discord_id])
                                     await connection.commit()
                                     await cursor.close()
                             
@@ -151,10 +155,14 @@ class pergunta(commands.Cog):
                                 # Get total_answers
                                 total_answers = await cursor.execute('SELECT total_answers FROM leaderboard WHERE user_id = ?', [discord_id])
                                 total_answers = await cursor.fetchone()
+
+                                # Get correct_answers
+                                correct_answers = await cursor.execute('SELECT correct_answers FROM leaderboard WHERE user_id = ?', [discord_id])
+                                correct_answers = await cursor.fetchone()
                                 
                                 if not user_id:
                                     # Create user by his discord_id
-                                    await cursor.execute('INSERT INTO leaderboard VALUES (?, ?, ?, ?)', [discord_id, discord_name, 0, 1])
+                                    await cursor.execute('INSERT INTO leaderboard VALUES (?, ?, ?, ?, ?)', [discord_id, discord_name, 0, 1, 0])
                                     await connection.commit()
                                     await cursor.close()
                                 else:
@@ -162,8 +170,12 @@ class pergunta(commands.Cog):
                                     for row in total_answers:
                                         row += 1
                                         total_answers = row
+                                    
+                                    # Calculate percentage
+                                    percentage = round(((correct_answers * 100) / total_answers), 1)
 
                                     await cursor.execute('UPDATE leaderboard SET total_answers = ? WHERE user_id = ?', [total_answers, discord_id])
+                                    await cursor.execute('UPDATE leaderboard SET percentage = ? WHERE user_id = ?', [percentage, discord_id])
                                     await connection.commit()
                                     await cursor.close()
                 
