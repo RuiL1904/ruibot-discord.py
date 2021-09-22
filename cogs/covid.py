@@ -13,8 +13,6 @@ class covid(commands.Cog):
     @commands.command(name = 'covid')
     @commands.cooldown(rate = 1, per = 5, type = commands.BucketType.member) # Add cooldown of 5 seconds between command requests
     async def covid(self, context, *, place):
-        
-        # Initialise some vars
         timestamp = datetime.utcnow()
         
         # Portugal data extraction

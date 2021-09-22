@@ -1,3 +1,4 @@
+from datetime import datetime
 import nextcord as discord
 from nextcord.ext import commands
 import apraw
@@ -11,7 +12,7 @@ class reddit(commands.Cog):
     @commands.command(name = 'reddit')
     @commands.cooldown(rate = 1, per = 5, type = commands.BucketType.member)
     async def reddit(self, context, *, argument):
-        pass
+        timestamp = datetime.utcnow()
 
 def setup(client):
     client.add_cog(reddit(client))

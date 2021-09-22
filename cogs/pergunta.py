@@ -13,7 +13,6 @@ class pergunta(commands.Cog):
 
     @commands.command(name = 'pergunta', aliases = ['p'])
     async def pergunta(self, context):
-        
         timestamp = datetime.utcnow()
 
         num = random.randint(1, 3909) # Randomize a number in questions range

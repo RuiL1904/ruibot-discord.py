@@ -15,7 +15,6 @@ class ipma(commands.Cog):
     
     @commands.command(name = 'ipma')
     async def ipma(self, context, *, argument):
-
         timestamp = datetime.utcnow()
         
         # Get counties data

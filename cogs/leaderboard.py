@@ -10,7 +10,6 @@ class leaderboard(commands.Cog):
 
     @commands.command(name = 'leaderboard', aliases = ['lb'])
     async def leaderboard(self, context):
-
         timestamp = datetime.utcnow()
 
         # Open connection
