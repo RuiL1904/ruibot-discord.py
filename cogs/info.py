@@ -35,7 +35,7 @@ class info(commands.Cog):
         
         url = 'https://i.imgur.com/POStobb.png'
         
-        embed.set_image(url = url)
+        embed.set_thumbnail(url = url)
         embed.set_footer(text = (f'Requested by {context.message.author.name}'))
         embed.timestamp = timestamp
         

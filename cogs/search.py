@@ -15,6 +15,9 @@ class search(commands.Cog):
         
         # Search wikipedia for x results regarding the given argument
         results = wikipedia.search(argument, results = 5)
+
+        if len(results) == 0:
+            await context.reply('Não foram encontrados resultados...')
   
         # Embed sent by the bot
         embed = discord.Embed(
@@ -93,10 +96,6 @@ class search(commands.Cog):
       
         except asyncio.TimeoutError:
             await sent.reply(f'Infelizmente o tempo acabou, {context.author.mention}.')
-
-        except:
-            import traceback
-            print(traceback.format_exc())
 
 def setup(client):
     client.add_cog(search(client))

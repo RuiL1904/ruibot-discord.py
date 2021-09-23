@@ -1,4 +1,5 @@
 import os
+import traceback
 import dotenv
 from datetime import datetime
 import nextcord as discord
@@ -12,7 +13,13 @@ dotenv.load_dotenv()
 vars = dotenv.dotenv_values('data/.env')
 
 # Initialise client (bot)
-client = commands.Bot(command_prefix = commands.when_mentioned_or('.'), help_command = None, owner_id = int(vars['MY_ID']))
+client = commands.Bot(
+    command_prefix = commands.when_mentioned_or('.'), 
+    help_command = None, 
+    owner_id = int(vars['MY_ID']),
+    intents = discord.Intents.all(),
+    case_insensitive = True
+)
 
 # Add each cog (./cogs) to the bot commands
 cogs = []
@@ -43,7 +50,7 @@ async def on_ready():
 
 # Bot on_command_error (error handler)
 @client.event
-async def on_command_error(context, error):
+async def on_command_error(context, error: traceback.format_exc()):
 
     # Set embed footer and timestamp for each exception
     def embed_complete(embed):
