@@ -23,7 +23,8 @@ class help(commands.Cog):
         ('.reddit [subreddit]', 'Ainda em construção...'),
         ('.ipma [concelho]', 'Temperaturas máxima e mínima no concelho dado'),
         ('.pergunta (.p)', 'Faz-te uma pergunta sobre o código da estrada'),
-        ('.leaderboard (.lb)', 'Exibe a leaderboard do comando .pergunta')]
+        ('.leaderboard (.lb)', 'Exibe a leaderboard do comando .pergunta'),
+        ('.image [request]', 'Envia uma imagem baseada no argumento dado')]
         
         for name, value in fields:
             embed.add_field(
@@ -34,7 +35,7 @@ class help(commands.Cog):
         
         url = 'https://media1.tenor.com/images/5300f3652dd3742b804294c00c24ba04/tenor.gif?itemid=8600234'
         
-        embed.set_image(url = url)
+        embed.set_thumbnail(url = url)
         embed.set_footer(text = (f'Requested by {context.message.author.name}'))
         embed.timestamp = timestamp
         
