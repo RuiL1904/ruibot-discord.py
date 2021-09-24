@@ -24,8 +24,8 @@ class help(commands.Cog):
         ('.ipma [concelho]', 'Temperaturas máxima e mínima no concelho dado'),
         ('.pergunta (.p)', 'Faz-te uma pergunta sobre o código da estrada'),
         ('.leaderboard (.lb)', 'Exibe a leaderboard do comando .pergunta'),
-        ('.image [request]', 'Envia uma imagem baseada no argumento dado')]
-        
+        ('.image [request]', 'Envia uma imagem baseada no argumento dado'),
+        ('.youtube [url] (.yt)', 'Envia a música solicitada em formato mp3')]
         for name, value in fields:
             embed.add_field(
                 name = name,
