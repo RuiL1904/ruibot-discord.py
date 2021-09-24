@@ -10,11 +10,14 @@ class search(commands.Cog):
         self.client = client
     
     @commands.command(name = 'search')
-    async def search(self, context, *, argument):
+    async def search(self, context, results = None, *, argument):
         timestamp = datetime.utcnow()
         
+        if results is None:
+            results = 5
+        
         # Search wikipedia for x results regarding the given argument
-        results = wikipedia.search(argument, results = 5)
+        results = wikipedia.search(argument, results = results)
 
         if len(results) == 0:
             await context.reply('Não foram encontrados resultados...')
@@ -37,7 +40,9 @@ class search(commands.Cog):
         embed.timestamp = timestamp
 
         sent = await context.reply(embed = embed)
-
+        await context.send(results)
+        await context.send(argument)
+        
         # Check user response
         try:
             def check(message):
