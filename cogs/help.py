@@ -25,7 +25,9 @@ class help(commands.Cog):
         ('.pergunta (.p)', 'Faz-te uma pergunta sobre o código da estrada'),
         ('.leaderboard (.lb)', 'Exibe a leaderboard do comando .pergunta'),
         ('.image [request]', 'Envia uma imagem baseada no argumento dado'),
-        ('.youtube [url] (.yt)', 'Envia a música solicitada em formato mp3')]
+        ('.youtube [url] (.yt)', 'Envia a música solicitada em formato mp3'),
+        ('.word [count]', 'Envia quantas palavras random forem solicitadas')]
+        
         for name, value in fields:
             embed.add_field(
                 name = name,
