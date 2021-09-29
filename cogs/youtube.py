@@ -11,7 +11,7 @@ class Youtube(commands.Cog):
     @commands.command(name = 'youtube', aliases = ['yt'])
     async def youtube(self, context, url):
         
-        # Check if 20 files limit has been exceeded
+        # Check if 20 internal files limit has been exceeded
         count = 0
         for file in os.listdir('data/music'):
             count += 1
