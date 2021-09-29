@@ -1,6 +1,9 @@
-from datetime import datetime
 import nextcord as discord
 from nextcord.ext import commands
+
+# Load config
+from config import config
+color = config.color
 
 class Help(commands.Cog):
 
@@ -9,12 +12,11 @@ class Help(commands.Cog):
 
     @commands.command(name = 'help')
     async def help(self, context): 
-        timestamp = datetime.utcnow()
         
         # Embed sent by the Bot
         embed = discord.Embed(
             title = 'Comandos: [Obrigatório] <Opcional> (alias)',
-            color = discord.Color(0xcc3300)
+            color = color
         )
 
         fields = [('.help', 'É preciso apresentações?'),
@@ -26,6 +28,7 @@ class Help(commands.Cog):
         ('.leaderboard (.lb)', 'Exibe a leaderboard do comando .pergunta'),
         ('.image [request]', 'Envia uma imagem baseada no argumento dado'),
         ('.youtube [url] (.yt)', 'Envia a música solicitada em formato mp3'),
+        ('.search [results] [term]', 'Responde com a definição do termo pedido (Wikipedia based)'),
         ('.word [count]', 'Envia quantas palavras random forem solicitadas')]
         
         for name, value in fields:
@@ -35,11 +38,8 @@ class Help(commands.Cog):
                 inline = False
             )
         
-        url = 'https://media1.tenor.com/images/5300f3652dd3742b804294c00c24ba04/tenor.gif?itemid=8600234'
-        
-        embed.set_thumbnail(url = url)
-        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-        embed.timestamp = timestamp
+        embed.set_thumbnail(url = 'https://media1.tenor.com/images/5300f3652dd3742b804294c00c24ba04/tenor.gif?itemid=8600234')
+        config.embed_completion(context, embed)
         
         await context.reply(embed = embed)
 
