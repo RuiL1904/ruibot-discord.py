@@ -1,12 +1,12 @@
 import os
 import traceback
 import dotenv
-from datetime import datetime
 import nextcord as discord
 from nextcord.ext import commands
 
-# Initialise some vars
-timestamp = datetime.utcnow()
+# Load config
+from config import config
+color = config.color
 
 # Load .env
 dotenv.load_dotenv()
@@ -28,12 +28,13 @@ for filename in os.listdir('./cogs'):
         client.load_extension(f'cogs.{filename[:-3]}')
         cogs.append(filename[:-3])
 
-# Nextcord does not support jishaku yet (waiting for ti do so)
+# Nextcord does not support jishaku yet (waiting for it to do so)
 # client.load_extension('jishaku')
 
 # Bot on_ready event
 @client.event
 async def on_ready():
+    # Clear terminal ('cls' for Windows and 'clear' for Linux)
     os.system('clear')
 
     # Get bot guilds
@@ -52,20 +53,15 @@ async def on_ready():
 @client.event
 async def on_command_error(context, error: traceback.format_exc()):
 
-    # Set embed footer and timestamp for each exception
-    def embed_complete(embed):
-        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-        embed.timestamp = timestamp
-
     # Command does not exists or is disabled
     if isinstance(error, commands.CommandNotFound):
         embed = discord.Embed(
             title = 'ERRO',
             description = (f'```Esse comando não existe!```'),
-            color = discord.Color(0xcc3300)
+            color = color
         )
 
-        embed_complete(embed)
+        config.embed_completion(context, embed)
         await context.reply(embed = embed)
     
     # Command in on cooldown
@@ -73,32 +69,44 @@ async def on_command_error(context, error: traceback.format_exc()):
         embed = discord.Embed(
             title = 'ERRO',
             description = (f'```Este comando está em cooldown... \nPor favor tenta novamente após {round(error.retry_after, 1)} segundos!```'),
-            color = discord.Color(0xcc3300)
+            color = color
         )
         
-        embed_complete(embed)
+        config.embed_completion(context, embed)
         await context.reply(embed = embed)
 
     # There's a error on user input
     elif isinstance(error, commands.UserInputError):
-        embed = discord.Embed(
+        # Avoid weird error that assumes missing required argument(s) as an user input error exception
+        if isinstance(error, commands.MissingRequiredArgument):
+            embed = discord.Embed(
+                title = 'ERRO',
+                description = '```Um ou mais argumentos estão em falta... \nDigita .help para mais info!```',
+                color = color
+            )
+
+            config.embed_completion(context, embed)
+            await context.reply(embed = embed)
+        
+        else:
+            embed = discord.Embed(
             title = 'ERRO',
             description = (f'```Algo está mal no teu input... \nRetifica-o e tenta novamente!```'),
-            color = discord.Color(0xcc3300)
-        )
+            color = color
+            )
 
-        embed_complete(embed)
-        await context.reply(embed = embed)           
+            config.embed_completion(context, embed)
+            await context.reply(embed = embed)           
     
     # User is missing permissions
     elif isinstance(error, commands.MissingPermissions):
         embed = discord.Embed(
             title = 'ERRO',
             description = '```Não tens as permissões necessárias!```',
-            color = discord.Color(0xcc3300)
+            color = color
         )
 
-        embed_complete(embed)
+        config.embed_completion(context, embed)
         await context.reply(embed = embed)
     
     # There is a lack of arguments on user input
@@ -106,10 +114,10 @@ async def on_command_error(context, error: traceback.format_exc()):
         embed = discord.Embed(
             title = 'ERRO',
             description = '```Um ou mais argumentos estão em falta... \nDigita .help para mais info!```',
-            color = discord.Color(0xcc3300)
+            color = color
         )
 
-        embed_complete(embed)
+        config.embed_completion(context, embed)
         await context.reply(embed = embed)
     
     # Bot is missing permissions
@@ -117,10 +125,10 @@ async def on_command_error(context, error: traceback.format_exc()):
         embed = discord.Embed(
             title = 'ERRO',
             description = '```Infelizmente não tenho permissões para fazer isso...```',
-            color = discord.Color(0xcc3300)
+            color = color
         )
 
-        embed_complete(embed)
+        config.embed_completion(context, embed)
         await context.reply(embed = embed)
     
     # There are too many arguments on user input
@@ -128,10 +136,10 @@ async def on_command_error(context, error: traceback.format_exc()):
         embed = discord.Embed(
             title = 'ERRO',
             description = '```Existem aí argumentos a mais... \n Digita .help para mais info!```',
-            color = discord.Color(0xcc3300)
+            color = color
         )
 
-        embed_complete(embed)
+        config.embed_completion(context, embed)
         await context.reply(embed = embed)
     
     # Any other exception
@@ -139,10 +147,10 @@ async def on_command_error(context, error: traceback.format_exc()):
         embed = discord.Embed(
             title = 'ERRO',
             description = (f'```Algo correu mal! Contacta um @Developer \nErro encontrado: {error}```'),
-            color = discord.Color(0xcc3300)       
+            color = color       
         )
 
-        embed_complete(embed)
+        config.embed_completion(context, embed)
         await context.reply(embed = embed)
 
 # Run the bot
