@@ -6,6 +6,10 @@ import asyncio
 import aiofiles
 import aiosqlite
 
+# Load config
+from config import config
+color = config.color
+
 class Pergunta(commands.Cog):
 
     def __init__(self, client):
@@ -49,7 +53,7 @@ class Pergunta(commands.Cog):
         embed = discord.Embed(
             title = 'Pergunta de Categoria B (30 segundos)',
             description = questions[num],
-            color = discord.Color(0xcc3300)
+            color = color
         )
 
         fields = [('1.', f'{answers["answer_1"][num]}'),
@@ -70,11 +74,11 @@ class Pergunta(commands.Cog):
                 inline = False
             )
         
-        image = discord.File(f'data/Categoria B/Imagens/{(images[num]).strip()}.jpg', filename = 'image.jpg') # Set the image as a discord.File, since .set_image method only supports HTTP(S)
+        # Set the image as a discord.File, since .set_image method only supports HTTP(S)
+        image = discord.File(f'data/Categoria B/Imagens/{(images[num]).strip()}.jpg', filename = 'image.jpg')
         embed.set_image(url = 'attachment://image.jpg')
 
-        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-        embed.timestamp = timestamp
+        config.embed_completion(context, embed)
         
         sent = await context.reply(file = image, embed = embed)
         
@@ -182,7 +186,7 @@ class Pergunta(commands.Cog):
                 except ValueError:
                     return
 
-        # Time (30 seconds) has ended 
+        # Timer (30 seconds) has ended 
         except asyncio.TimeoutError:
             await sent.reply(f'Infelizmente o tempo acabou, {context.author.mention}.')
 

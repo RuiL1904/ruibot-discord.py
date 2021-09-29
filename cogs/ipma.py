@@ -1,12 +1,15 @@
 import io
 from datetime import datetime
-from datetime import date
 import nextcord as discord
 from nextcord.ext import commands
 import json
 import pandas
 import aiofiles
 import aiohttp
+
+# Load config
+from config import config
+color = config.color
 
 class Ipma(commands.Cog):
 
@@ -15,7 +18,6 @@ class Ipma(commands.Cog):
     
     @commands.command(name = 'ipma')
     async def ipma(self, context, *, argument):
-        timestamp = datetime.utcnow()
         
         # Get counties data
         async with aiofiles.open('data/ipma/concelhos-metadata.json', mode = 'r') as file:
@@ -90,11 +92,12 @@ class Ipma(commands.Cog):
                         
                         # Organise data as I want
                         dia = data.values[-1][0]
+                        # Format data as I want
                         dia = datetime.strptime(dia, '%Y-%m-%d').strftime('%d-%m-%Y')
                         max = round(data.values[-1][2], 2)
                         min = round(data.values[-1][1], 2)
 
-                        # Format county name on embed
+                        # Format county name on embed as I want
                         splits = argument.split(' ')
                         
                         if len(splits) >= 3:
@@ -106,7 +109,7 @@ class Ipma(commands.Cog):
                         embed = discord.Embed(
                             title = f'Temperatura em {argument} ({distrito})',
                             description = f'Dia {dia}',
-                            color = discord.Color(0xcc3300)
+                            color = color
                         )
                         
                         fields = [(f'Mínima', f'{min}ºC'),
@@ -120,8 +123,7 @@ class Ipma(commands.Cog):
                             )
                         
                         embed.set_thumbnail(url = image)
-                        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-                        embed.timestamp = timestamp
+                        config.embed_completion(context, embed)
                         
                         await context.reply(embed = embed)
 
@@ -131,22 +133,20 @@ class Ipma(commands.Cog):
                         embed = discord.Embed(
                             title = 'ERRO',
                             description = '```A API do IPMA está desligada...Contacta um @Developer```',
-                            color = discord.Color(0xcc3300)
+                            color = color
                         )
 
-                        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-                        embed.timestamp = timestamp
+                        config.embed_completion(context, embed)
 
                         await context.reply(embed = embed)           
         except:
             embed = discord.Embed(
                 title = 'ERRO',
                 description = '```Esse concelho não existe ou não se encontra registado na API...```',
-                color = discord.Color(0xcc3300) 
+                color = color 
             )
 
-            embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-            embed.timestamp = timestamp
+            config.embed_completion(context, embed)
             
             await context.reply(embed = embed)
 

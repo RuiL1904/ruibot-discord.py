@@ -1,7 +1,10 @@
-from datetime import datetime
 import nextcord as discord
 from nextcord.ext import commands
 import aiohttp
+
+# Load config
+from config import config
+color = config.color
 
 class Word(commands.Cog):
 
@@ -10,7 +13,6 @@ class Word(commands.Cog):
     
     @commands.command(name = 'word')
     async def word(self, context, count):
-        timestamp = datetime.utcnow()
 
         # Get data from the API
         async with aiohttp.ClientSession() as session:
@@ -22,8 +24,10 @@ class Word(commands.Cog):
                 embed = discord.Embed(
                     title = f'Aqui tens {count} palavras',
                     description = (', '.join(data)),
-                    color = discord.Color(0xcc3300)
+                    color = color
                 )
+                
+                config.embed_completion(context, embed)
 
                 await context.reply(embed = embed)
 

@@ -5,15 +5,19 @@ from nextcord.ext import commands
 import aiohttp
 import pandas
 
+# Load config
+from config import config
+color = config.color
+
 class Covid(commands.Cog):
 
     def __init__(self, client):
         self.client = client
 
     @commands.command(name = 'covid')
-    @commands.cooldown(rate = 1, per = 5, type = commands.BucketType.member) # Add cooldown of 5 seconds between command requests
+    # Add cooldown of 5 seconds between command requests
+    @commands.cooldown(rate = 1, per = 5, type = commands.BucketType.member)
     async def covid(self, context, *, place):
-        timestamp = datetime.utcnow()
         
         # Portugal data extraction
         if place.lower() == 'portugal':
@@ -26,11 +30,10 @@ class Covid(commands.Cog):
                         embed = discord.Embed(
                             title = 'ERRO',
                             description = '```A API de Covid-19 está desligada...Contacta um @Developer```',
-                            color = discord.Color(0xcc3300)
+                            color = color
                         )
 
-                        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-                        embed.timestamp = timestamp
+                        config.embed_completion(context, embed)
 
                         await context.reply(embed = embed)
                     else:    
@@ -52,11 +55,10 @@ class Covid(commands.Cog):
                                     embed = discord.Embed(
                                         title = 'ERRO',
                                         description = '```A API de Covid-19 está desligada...Contacta um @Developer```',
-                                        color = discord.Color(0xcc3300)
+                                        color = color
                                     )
 
-                                    embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-                                    embed.timestamp = timestamp
+                                    config.embed_completion(context, embed)
 
                                     await context.reply(embed = embed)
 
@@ -67,28 +69,20 @@ class Covid(commands.Cog):
                                     novos = data['confirmados_novos']
                                     recuperados = data['recuperados']
                                     obitos = data['obitos']
-                                    
-                                    if data['ativos'] != None:
-                                        ativos = str(data['ativos'])[:-2]
-                                    else:
-                                        ativos = 'None'
-                                    
-                                    if data['incidencia_nacional'] != None:
-                                        incidencia = str(data['incidencia_nacional'])[:-2]
-                                    else:
-                                        incidencia = 'None'
-                                    
+                                    ativos = str(data['ativos'])[:-2]
+                                    incidencia = str(data['incidencia_nacional'])[:-2]
                                     rt = data['rt_nacional']
 
+                                    # If vax server is up (not 100% necessary data)
                                     if response_vax.status == 200:
                                         vacinadas_total = str(data_vax['pessoas_vacinadas_completamente'].max())[:-2]
                                         vacinadas_total_hoje = str(data_vax['pessoas_vacinadas_completamente_novas'].max())[:-2]
-
+                                    
                                     # Embed sent by the bot
                                     embed = discord.Embed(
                                         title = 'COVID-19 em Portugal',
                                         description = (f'Dia {dia[:-5]}'),
-                                        color = discord.Color(0xcc3300)
+                                        color = color
                                     )
                             
                                     fields = [('Casos Totais', confirmados),
@@ -101,14 +95,16 @@ class Covid(commands.Cog):
                                     ('Indice de Transmissibilidade', rt)]
 
                                     for name, value in fields:
+                                        if value is None or value == 'No': # No is because of string trim ([:-2])
+                                            value = 'Sem dados'
+                                            
                                         embed.add_field(
                                             name = name,
                                             value = value,
                                             inline = False
                                         )
 
-                                    embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-                                    embed.timestamp = timestamp
+                                    config.embed_completion(context, embed)
                                     
                                     await context.reply(embed = embed)                                                        
         
@@ -123,11 +119,10 @@ class Covid(commands.Cog):
                         embed = discord.Embed(
                             title = 'ERRO',
                             description = '```A API de Covid-19 está desligada...Contacta um @Developer```',
-                            color = discord.Color(0xcc3300)
+                            color = color
                         )
 
-                        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-                        embed.timestamp = timestamp
+                        config.embed_completion(context, embed)
 
                         await context.reply(embed = embed)
                     
@@ -149,7 +144,7 @@ class Covid(commands.Cog):
                         embed = discord.Embed(
                             title = (f'COVID-19 em {place.title()} ({distrito})'),
                             description = (f'Dia {dia}'),
-                            color = discord.Color(0xcc3300)
+                            color = color
                         )
 
                         fields = [('Confirmados nos Últimos 14 Dias', confirmados),
@@ -158,14 +153,16 @@ class Covid(commands.Cog):
                         ('População', population)]
                         
                         for name, value in fields:
+                            if value is None:
+                                value = 'Sem dados'
+                            
                             embed.add_field(
                                 name = name,
                                 value = value,
                                 inline = False
                             )
 
-                        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-                        embed.timestamp = timestamp
+                        config.embed_completion(context, embed)
                         
                         await context.reply(embed = embed)              
 

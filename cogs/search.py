@@ -4,6 +4,10 @@ from nextcord.ext import commands
 import wikipedia
 import asyncio
 
+# Load config
+from config import config
+color = config.color
+
 class Search(commands.Cog):
 
     def __init__(self, client):
@@ -11,7 +15,6 @@ class Search(commands.Cog):
     
     @commands.command(name = 'search')
     async def search(self, context, results = None, *, argument):
-        timestamp = datetime.utcnow()
         
         if results is None:
             results = 5
@@ -26,7 +29,7 @@ class Search(commands.Cog):
         embed = discord.Embed(
             title = 'Search',
             description = 'Qual destes resultados pretendes pesquisar?',
-            color = discord.Color(0xcc3300)
+            color = color
         )
 
         for i in range(len(results)):
@@ -36,12 +39,9 @@ class Search(commands.Cog):
                 inline = False
             )
 
-        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-        embed.timestamp = timestamp
+        config.embed_completion(context, embed)
 
         sent = await context.reply(embed = embed)
-        await context.send(results)
-        await context.send(argument)
         
         # Check user response
         try:
@@ -76,12 +76,11 @@ class Search(commands.Cog):
                 embed = discord.Embed(
                     title = f'Definição para {str(results[(int(user_response.content)) - 1])}',
                     description = definition,
-                    color = discord.Color(0xcc3300),
+                    color = color,
                     url = url
                 )
 
-                embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-                embed.timestamp = timestamp
+                config.embed_completion(context, embed)
                 
                 await user_response.reply(embed = embed)
             
@@ -91,14 +90,14 @@ class Search(commands.Cog):
                 embed = discord.Embed(
                     title = 'ERRO',
                     description = (f'```Resposta fora do range... \nRetifica-a e tenta novamente!```'),
-                    color = discord.Color(0xcc3300)
+                    color = color
                 )
 
-                embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-                embed.timestamp = timestamp
+                config.embed_completion(context, embed)
                 
                 await user_response.reply(embed = embed)                
-      
+
+        # Timer (30 seconds) has ended
         except asyncio.TimeoutError:
             await sent.reply(f'Infelizmente o tempo acabou, {context.author.mention}.')
 

@@ -1,8 +1,11 @@
 import platform
-from datetime import datetime
 import nextcord as discord
 from nextcord.ext import commands
 import aiosqlite
+
+# Load config
+from config import config
+color = config.color
 
 class Info(commands.Cog):
 
@@ -11,12 +14,11 @@ class Info(commands.Cog):
     
     @commands.command(name = 'info')
     async def info(self, context):
-        timestamp = datetime.utcnow()
         
         # Embed sent by the Bot
         embed = discord.Embed(
             title = 'Bot Info', 
-            color = discord.Color(0xcc3300)
+            color = color
         )
 
         fields = [('Data de Lançamento:', '29 de dezembro de 2020'),
@@ -33,11 +35,8 @@ class Info(commands.Cog):
                 inline = False
             )
         
-        url = 'https://i.imgur.com/POStobb.png'
-        
-        embed.set_thumbnail(url = url)
-        embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-        embed.timestamp = timestamp
+        embed.set_thumbnail(url = 'https://i.imgur.com/POStobb.png')
+        config.embed_completion(context, embed)
         
         await context.reply(embed = embed)
 

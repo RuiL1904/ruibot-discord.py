@@ -1,7 +1,10 @@
-from datetime import datetime
 import nextcord as discord
 from nextcord.ext import commands
 import aiosqlite
+
+# Load config
+from config import config
+color = config.color
 
 class Leaderboard(commands.Cog):
 
@@ -10,7 +13,6 @@ class Leaderboard(commands.Cog):
 
     @commands.command(name = 'leaderboard', aliases = ['lb'])
     async def leaderboard(self, context):
-        timestamp = datetime.utcnow()
 
         # Open connection
         async with aiosqlite.connect('data/database.db') as connection:
@@ -25,12 +27,12 @@ class Leaderboard(commands.Cog):
                 embed = discord.Embed(
                     title = 'Leaderboard (.pergunta)',
                     description = 'Quem estiver em primeiro é o :rei:',
-                    color = discord.Color(0xcc3300)
+                    color = color
                 )
                 
                 fields = []
                 for i in range(len(data)):
-                    # Check if user has at least 10 answered questions
+                    # Check if user has at least 10 answered questions (in order to display it on leaderboard)
                     if data[i][3] > 10:
                         fields.append((f'{i + 1}. {data[i][1]}', f'{data[i][4]}% respostas corretas ({data[i][2]}/{data[i][3]})'))
                 
@@ -41,9 +43,8 @@ class Leaderboard(commands.Cog):
                         inline = False
                     )
                 
-                embed.set_footer(text = (f'Requested by {context.message.author.name}'))
-                embed.timestamp = timestamp
-                
+                config.embed_completion(context, embed)    
+               
                 await context.reply(embed = embed) 
 
 def setup(client):
