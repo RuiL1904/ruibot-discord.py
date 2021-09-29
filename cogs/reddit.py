@@ -4,7 +4,7 @@ from nextcord.ext import commands
 import apraw
 
 # Not working on it right now
-class reddit(commands.Cog):
+class Reddit(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -15,4 +15,4 @@ class reddit(commands.Cog):
         timestamp = datetime.utcnow()
 
 def setup(client):
-    client.add_cog(reddit(client))
+    client.add_cog(Reddit(client))

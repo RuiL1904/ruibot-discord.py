@@ -2,7 +2,7 @@ from datetime import datetime
 import nextcord as discord
 from nextcord.ext import commands
 
-class help(commands.Cog):
+class Help(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -44,4 +44,4 @@ class help(commands.Cog):
         await context.reply(embed = embed)
 
 def setup(client):
-    client.add_cog(help(client))
+    client.add_cog(Help(client))

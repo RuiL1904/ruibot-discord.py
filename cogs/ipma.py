@@ -8,7 +8,7 @@ import pandas
 import aiofiles
 import aiohttp
 
-class ipma(commands.Cog):
+class Ipma(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -151,4 +151,4 @@ class ipma(commands.Cog):
             await context.reply(embed = embed)
 
 def setup(client):
-    client.add_cog(ipma(client))
+    client.add_cog(Ipma(client))

@@ -3,7 +3,7 @@ import nextcord as discord
 from nextcord.ext import commands
 import aiosqlite
 
-class leaderboard(commands.Cog):
+class Leaderboard(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -47,4 +47,4 @@ class leaderboard(commands.Cog):
                 await context.reply(embed = embed) 
 
 def setup(client):
-    client.add_cog(leaderboard(client))
+    client.add_cog(Leaderboard(client))

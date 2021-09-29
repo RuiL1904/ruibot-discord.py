@@ -5,7 +5,7 @@ from nextcord.ext import commands
 import aiohttp
 import pandas
 
-class covid(commands.Cog):
+class Covid(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -170,4 +170,4 @@ class covid(commands.Cog):
                         await context.reply(embed = embed)              
 
 def setup(client):
-    client.add_cog(covid(client))
+    client.add_cog(Covid(client))

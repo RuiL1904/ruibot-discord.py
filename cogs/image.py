@@ -9,7 +9,7 @@ dotenv.load_dotenv()
 vars = dotenv.dotenv_values('data/.env')
 client_id = vars['UNSPLASH']
 
-class image(commands.Cog):
+class Image(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -55,4 +55,4 @@ class image(commands.Cog):
                     await context.reply(embed = embed) 
 
 def setup(client):
-    client.add_cog(image(client))
+    client.add_cog(Image(client))

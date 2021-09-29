@@ -3,7 +3,7 @@ import nextcord as discord
 from nextcord.ext import commands
 import aiohttp
 
-class word(commands.Cog):
+class Word(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -28,4 +28,4 @@ class word(commands.Cog):
                 await context.reply(embed = embed)
 
 def setup(client):
-    client.add_cog(word(client))
+    client.add_cog(Word(client))

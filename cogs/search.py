@@ -4,7 +4,7 @@ from nextcord.ext import commands
 import wikipedia
 import asyncio
 
-class search(commands.Cog):
+class Search(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -103,4 +103,4 @@ class search(commands.Cog):
             await sent.reply(f'Infelizmente o tempo acabou, {context.author.mention}.')
 
 def setup(client):
-    client.add_cog(search(client))
+    client.add_cog(Search(client))

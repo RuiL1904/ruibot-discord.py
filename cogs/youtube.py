@@ -3,7 +3,7 @@ import nextcord as discord
 from nextcord.ext import commands
 import pytube
 
-class youtube(commands.Cog):
+class Youtube(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -36,4 +36,4 @@ class youtube(commands.Cog):
         await context.reply(file = music_file)
 
 def setup(client):
-    client.add_cog(youtube(client))
+    client.add_cog(Youtube(client))

@@ -6,7 +6,7 @@ import asyncio
 import aiofiles
 import aiosqlite
 
-class pergunta(commands.Cog):
+class Pergunta(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -187,4 +187,4 @@ class pergunta(commands.Cog):
             await sent.reply(f'Infelizmente o tempo acabou, {context.author.mention}.')
 
 def setup(client):
-    client.add_cog(pergunta(client))
+    client.add_cog(Pergunta(client))

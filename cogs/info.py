@@ -4,7 +4,7 @@ import nextcord as discord
 from nextcord.ext import commands
 import aiosqlite
 
-class info(commands.Cog):
+class Info(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -42,4 +42,4 @@ class info(commands.Cog):
         await context.reply(embed = embed)
 
 def setup(client):
-    client.add_cog(info(client))
+    client.add_cog(Info(client))
